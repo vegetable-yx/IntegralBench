@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{4} \\left( \\frac{3}{2} \\left[ \\ln(1+\\sqrt{2}) \\right]^2 - \\sqrt{2}\\ln(1+\\sqrt{2}) + \\frac{1}{2} \\right) - \\int_0^1 x\\, \\arcsin x\\; \\ln^2\\left(x+\\sqrt{1+x^2}\\right)\\, dx",
+  "numerical_answer": "0.2321537989"
+}

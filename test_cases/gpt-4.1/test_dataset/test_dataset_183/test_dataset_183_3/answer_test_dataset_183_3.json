@@ -1,0 +1,4 @@
+{
+  "answer": "-\\int_{0}^{\\frac{\\pi}{2}} \\frac{\\cos\\theta\\, \\ln\\left(\\tan\\frac{\\theta}{2}\\right)}{1 + 4\\sin^2\\theta}\\, d\\theta",
+  "numerical_answer": "0.2701451086"
+}

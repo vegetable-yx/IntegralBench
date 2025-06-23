@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{8}\\Bigl[\\operatorname{Li}_3(\\frac{1}{2})-\\operatorname{Li}_3(-\\frac{1}{2})\\Bigr]-\\frac{\\ln2}{8}\\Bigl[\\operatorname{Li}_2(\\frac{1}{2})-\\operatorname{Li}_2(-\\frac{1}{2})\\Bigr]+\\frac{\\pi}{8}\\ln^3(2)",
+  "numerical_answer": "0.2650288841"
+}

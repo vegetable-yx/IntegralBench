@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\pi \\sin^2\\left(\\frac{t}{2}\\right) \\arcsin^2\\left(\\frac{1}{2}\\sin t\\right) dt",
+  "numerical_answer": "0.2454829524"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2} \\int_{0}^{1} J_0(t) \\, dt",
+  "numerical_answer": "1.4447095023"
+}

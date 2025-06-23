@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{1}{2\\sqrt{3}}\\left\\{\\operatorname{Im}\\Bigl[\\operatorname{Li}_2(i\\sqrt{3})-\\operatorname{Li}_2(-i\\sqrt{3})\\Bigr]-\\operatorname{Im}\\Bigl[\\operatorname{Li}_2(i/\\sqrt{3})-\\operatorname{Li}_2(-i/\\sqrt{3})\\Bigr]\\right\\}$",
+  "numerical_answer": "0.1843529416"
+}

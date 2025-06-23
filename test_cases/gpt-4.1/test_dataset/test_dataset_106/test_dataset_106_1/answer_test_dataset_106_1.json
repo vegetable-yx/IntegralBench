@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\pi} \\arcsin(0.5\\sin\\phi)\\,d\\phi + 0.25 \\int_{0}^{\\pi} \\frac{\\sin(2\\phi)}{\\sqrt{1-0.25\\sin^2\\phi}}\\,d\\phi",
+  "numerical_answer": "2.2214414691"
+}

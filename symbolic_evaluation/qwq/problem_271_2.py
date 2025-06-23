@@ -1,0 +1,11 @@
+import mpmath as mp
+mp.dps = 15  # Set internal precision to 15 decimal places
+
+# Calculate the numerator (19 * π)
+numerator = 19 * mp.pi
+
+# Divide by the denominator (512)
+result = numerator / 512
+
+# Print result with 10 decimal places precision
+print(mp.nstr(result, n=10))

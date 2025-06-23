@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{1}{1+x^2} \\arctan\\left(x^{3+\\sqrt{8}}\\right) dx",
+  "numerical_answer": "0.2851562500"
+}

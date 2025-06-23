@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\pi \\sum_{n=0}^{\\infty} \\frac{(-1)^n \\binom{2n}{n}}{(2n+1)! 4^n}",
+  "numerical_answer": "4.0825455730"
+}

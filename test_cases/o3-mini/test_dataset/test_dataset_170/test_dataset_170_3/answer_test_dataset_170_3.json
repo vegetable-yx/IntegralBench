@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\sqrt{2}}{64}\\Bigl[-\\pi\\Bigl(4\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{2};1;\\frac{1}{2}\\Bigr)+\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)^2\\Bigr)+\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)^2\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+8\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{2};1;\\frac{1}{2}\\Bigr)\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.1226471234"
+}

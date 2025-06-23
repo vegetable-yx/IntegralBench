@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}~ \\sum_{k=0}^{\\infty} \\frac{1}{2^k (k!)^2} \\frac{\\Gamma\\left(\\frac{k+1}{2}\\right)\\Gamma\\left(\\frac{k+2}{2}\\right)}{\\Gamma\\left(k+\\frac{3}{2}\\right)}",
+  "numerical_answer": "3.3974351460"
+}

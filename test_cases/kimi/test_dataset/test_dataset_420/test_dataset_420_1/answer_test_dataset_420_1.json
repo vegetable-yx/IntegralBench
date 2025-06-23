@@ -1,0 +1,4 @@
+{
+  "answer": "1 - \\cos\\left(\\arcsin\\left(\\sqrt{\\frac{-1 + \\sqrt{5}}{2}}\\right)\\right) - \\ln\\left(\\sin\\left(\\arcsin\\left(\\sqrt{\\frac{-1 + \\sqrt{5}}{2}}\\right)\\right)\\right)",
+  "numerical_answer": "0.6180339887"
+}

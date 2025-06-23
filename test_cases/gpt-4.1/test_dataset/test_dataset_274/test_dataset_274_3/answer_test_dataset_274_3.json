@@ -1,0 +1,4 @@
+{
+  "answer": "250 \\int_{0}^{1} u^5 \\cosh(10u\\sqrt{1-u^2})\\,du",
+  "numerical_answer": "140.7622533000"
+}

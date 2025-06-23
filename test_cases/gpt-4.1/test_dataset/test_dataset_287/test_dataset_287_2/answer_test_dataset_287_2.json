@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{16} + \\frac{1}{2} \\int_{0}^{\\frac{\\pi}{2}} \\sin^2\\theta\\,[\\operatorname{arcsinh}(\\sin\\theta)]^2 d\\theta + \\frac{1}{4} \\int_{0}^{\\frac{\\pi}{2}} [\\operatorname{arcsinh}(\\sin\\theta)]^2 d\\theta - \\frac{1}{2} \\int_{0}^{\\frac{\\pi}{2}} \\sin\\theta\\,[\\operatorname{arcsinh}(\\sin\\theta)]\\sqrt{1 + \\sin^2\\theta}\\,d\\theta",
+  "numerical_answer": "0.2507188570"
+}

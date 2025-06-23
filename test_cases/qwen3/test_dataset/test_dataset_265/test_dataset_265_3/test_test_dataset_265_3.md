@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{2} \\left( J_0(2) + J_2(2) \\right)", "numerical_answer": "0.1739708031"}

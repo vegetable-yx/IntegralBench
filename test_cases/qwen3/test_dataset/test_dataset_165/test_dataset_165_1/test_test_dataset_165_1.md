@@ -1,0 +1,1 @@
+{"answer": "\\int_{0}^{2} K_0(t) \\, dt", "numerical_answer": "1.3561954847"}

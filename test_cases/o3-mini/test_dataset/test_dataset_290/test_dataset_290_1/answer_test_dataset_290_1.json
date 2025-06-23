@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{32\\,\\Gamma(3/4)^2}\\;_2F_1\\Bigl(-\\frac12,\\frac14;\\frac34;\\frac12\\Bigr)",
+  "numerical_answer": "0.6244005233"
+}

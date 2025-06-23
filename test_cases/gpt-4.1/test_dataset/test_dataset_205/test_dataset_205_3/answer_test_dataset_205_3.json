@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_{0}^{\\pi} \\cos\\left(\\frac{\\alpha}{2}\\right) \\sin\\left(\\sqrt{\\sin\\alpha}\\right) d\\alpha",
+  "numerical_answer": "2.1576496200"
+}

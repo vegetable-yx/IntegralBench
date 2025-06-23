@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(1/4)^2}{2\\sqrt{2\\pi}} - \\pi\\ln\\left(\\frac{\\sqrt{2}+1}{\\sqrt{2}}\\right)",
+  "numerical_answer": "0.9360350000"
+}

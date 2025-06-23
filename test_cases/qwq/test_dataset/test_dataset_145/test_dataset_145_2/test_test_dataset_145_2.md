@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to the series sum \\sum_{k=0}^{\\infty} \\frac{2^{2k} k!}{(2k + 1)^2 (2k)! (k+1)!}", "numerical_answer": "1.1200614220"}

@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\dfrac{\\pi}{2}} \\, e^{\\frac{1}{8}}", "numerical_answer": "1.4202171043"}

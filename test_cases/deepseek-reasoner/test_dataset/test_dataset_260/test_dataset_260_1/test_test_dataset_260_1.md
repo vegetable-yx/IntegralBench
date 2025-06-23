@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\left( J_0(1) + \\frac{\\pi}{2} \\left( J_1(1) \\mathbf{H}_0(1) - J_0(1) \\mathbf{H}_1(1) \\right) \\right)", "numerical_answer": "0.4670738482"}

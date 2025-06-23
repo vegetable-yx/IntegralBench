@@ -1,0 +1,4 @@
+{
+  "answer": "\\arcsin(0.5) \\cdot \\frac{\\pi}{8} - \\int_{0}^{1} \\left( \\frac{x^2}{2} \\arccos(x) + \\frac{\\arcsin(x)}{4} - \\frac{x \\sqrt{1 - x^2}}{4} \\right) \\cdot \\frac{0.5}{\\sqrt{1 - (0.5x)^2}} \\, dx",
+  "numerical_answer": "0.1372549019607843"
+}

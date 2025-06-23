@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{8}\\Bigl[-4\\,\\operatorname{Li}_{2}\\Bigl(\\frac{1}{1+\\sqrt{2}}\\Bigr)+4\\,\\operatorname{Li}_{2}\\Bigl(-\\frac{1}{1+\\sqrt{2}}\\Bigr)+\\pi\\ln(1+\\sqrt{2})+2\\ln^2(1+\\sqrt{2})\\Bigr]",
+  "numerical_answer": "0.1178400000"
+}

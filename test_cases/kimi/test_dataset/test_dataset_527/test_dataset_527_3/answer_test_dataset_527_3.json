@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\pi \\cos(x + \\cos x) \\, dx",
+  "numerical_answer": "0.07961327"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{2^{-(2k+1)/2}\\; \\Gamma\\left(\\frac{k+1}{2}\\right) \\Gamma\\left(\\frac{k+2}{2}\\right)}{k! \\, \\Gamma(k+2)\\, \\Gamma(k+\\frac{3}{2})}",
+  "numerical_answer": "1.5478787100"
+}

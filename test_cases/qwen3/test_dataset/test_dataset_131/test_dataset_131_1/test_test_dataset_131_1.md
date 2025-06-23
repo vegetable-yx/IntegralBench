@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{2 \\pi}}{2} \\sum_{k=0}^{\\infty} \\frac{(2k + 2)!}{(k + 1)!^2 k!^2} \\left(\\frac{1}{16}\\right)^k", "numerical_answer": "1.5008841345"}

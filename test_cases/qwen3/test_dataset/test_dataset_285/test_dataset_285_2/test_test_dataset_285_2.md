@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\left(\\ln(1 + \\sqrt{2})\\right)^3}{6}", "numerical_answer": "0.1138923442"}

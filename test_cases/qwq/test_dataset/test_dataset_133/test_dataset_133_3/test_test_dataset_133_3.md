@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^2}{2^{3/2} \\pi}", "numerical_answer": "1.4790070765"}

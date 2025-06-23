@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2\\pi} \\, J_1\\left(\\frac{1}{2}\\right)", "numerical_answer": "0.6075495345"}

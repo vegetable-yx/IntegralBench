@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\frac{8\\sqrt{2}\\pi^{\\frac{3}{2}}}{\\Gamma\\left(\\frac{1}{4}\\right)^2}}", "numerical_answer": "2.6953012968"}

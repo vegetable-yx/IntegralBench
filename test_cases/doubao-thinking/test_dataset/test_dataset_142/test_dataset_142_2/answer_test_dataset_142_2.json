@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{\\sqrt{\\pi}}{2(2n+1) n! \\Gamma(n+3/2)}",
+  "numerical_answer": "2.501571665"
+}

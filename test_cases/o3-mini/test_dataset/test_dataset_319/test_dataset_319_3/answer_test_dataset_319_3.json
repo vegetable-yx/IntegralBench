@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{8\\,\\Gamma(5/4)}\\;_2F_1\\left(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{4}\\right)",
+  "numerical_answer": "0.2919000000"
+}

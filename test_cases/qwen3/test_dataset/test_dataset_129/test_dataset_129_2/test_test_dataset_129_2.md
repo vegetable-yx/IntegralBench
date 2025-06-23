@@ -1,0 +1,1 @@
+{"answer": "\\frac{4\\sqrt{2}}{3} + \\frac{4\\sqrt{2}}{15} + \\frac{\\sqrt{2}}{70} + \\cdots", "numerical_answer": "2.2831513456"}

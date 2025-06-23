@@ -1,0 +1,1 @@
+{"answer": "5\\pi^2/84", "numerical_answer": "0.5874764524"}

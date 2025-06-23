@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to an expression involving the hypergeometric function, but the numerical approximation is provided below.", "numerical_answer": "38.0973431880"}

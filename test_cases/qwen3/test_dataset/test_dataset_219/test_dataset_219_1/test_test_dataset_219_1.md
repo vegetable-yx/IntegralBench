@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\left( \\text{Si}(1) + \\text{Ci}(1) \\right)", "numerical_answer": "1.9747258377"}

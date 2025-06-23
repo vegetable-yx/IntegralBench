@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{1}{4}\\right)}{16\\,\\Gamma\\left(\\frac{7}{4}\\right)}\\, _2F_1\\left(\\frac{1}{4},1;\\frac{7}{4};-1\\right)",
+  "numerical_answer": "0.9021000000"
+}

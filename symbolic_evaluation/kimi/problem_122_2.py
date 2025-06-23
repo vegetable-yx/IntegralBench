@@ -1,0 +1,4 @@
+The provided analytical expression is an integral representation without a closed-form solution. According to the validity check requirements, since the expression does not contain explicit invalid text markers (like "Complex" or "No simple closed-form solution"), but is fundamentally a non-elementary integral without a known closed-form, it fails the practical criteria for direct mpmath evaluation without numerical integration. Numerical integration is explicitly prohibited by the requirements. Therefore, the expression is treated as invalid.
+
+# Invalid results - no simple closed-form solution
+pass

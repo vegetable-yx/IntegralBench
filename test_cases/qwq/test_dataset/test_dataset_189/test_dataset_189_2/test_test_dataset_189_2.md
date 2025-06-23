@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\pi}{2} \\ln\\left( \\dfrac{1+\\sqrt{5}}{2} \\right)", "numerical_answer": "0.7558858672"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{t\\, \\mathbf{D}(0.5 t) + e^{-0.25 t^2} - 1}{\\sqrt{1-t^2}} dt",
+  "numerical_answer": "-0.2987006432"
+}

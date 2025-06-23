@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\\\frac{\\\\pi^{3/2}\\\\,\\\\Gamma(3/4)^2}{16\\\\,\\\\Gamma(5/4)^2}\\\\Biggl\\\\{\\\\;_2F_1\\\\Bigl(-\\\\frac12,\\\\frac12;\\\\frac34;\\\\frac14\\\\Bigr)-2\\\\, _2F_1\\\\Bigl(-\\\\frac12,\\\\frac12;\\\\frac54;\\\\frac14\\\\Bigr)\\\\Biggr\\\\}",
+  "numerical_answer": "0.3141592654"
+}

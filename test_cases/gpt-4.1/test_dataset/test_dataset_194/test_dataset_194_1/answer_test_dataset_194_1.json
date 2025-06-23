@@ -1,0 +1,4 @@
+{
+  "answer": "- \\int_{0}^{\\frac{\\pi}{2}} \\frac{ \\cos\\theta \\left[ \\sin\\theta \\left( \\frac{\\pi}{2} - \\theta \\right) + \\cos\\theta \\right] }{ \\sqrt{4-\\sin^2\\theta} } d\\theta",
+  "numerical_answer": "-0.3779374016"
+}

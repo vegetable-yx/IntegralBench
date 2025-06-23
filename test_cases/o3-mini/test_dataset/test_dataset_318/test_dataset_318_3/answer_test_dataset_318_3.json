@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(1/4)^2\\,{}_{2}F_{1}\\Bigl(-\\frac12,\\frac14;\\frac34;\\frac12\\Bigr)+2\\Gamma(3/4)^2\\,{}_{2}F_{1}\\Bigl(\\frac12,\\frac34;\\frac54;\\frac12\\Bigr)}{16\\sqrt{2\\pi}}",
+  "numerical_answer": "0.5849340000"
+}

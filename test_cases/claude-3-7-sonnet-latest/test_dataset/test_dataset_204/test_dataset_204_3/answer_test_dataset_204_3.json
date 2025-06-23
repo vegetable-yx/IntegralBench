@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^{2.0}x^{1/2}\\sin\\left(1.0\\sqrt[4]{x(2.0-x)}\\right)dx",
+  "numerical_answer": "0.8429864023"
+}

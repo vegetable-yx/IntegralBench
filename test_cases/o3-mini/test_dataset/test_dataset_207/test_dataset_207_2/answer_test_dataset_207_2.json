@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\sqrt{\\pi}}{2^{1/4}}\\Bigl[(\\gamma+2\\ln2)\\sin\\frac{\\pi}{8}-\\frac{\\pi}{2}\\cos\\frac{\\pi}{8}\\Bigr]",
+  "numerical_answer": "-1.0434983895"
+}

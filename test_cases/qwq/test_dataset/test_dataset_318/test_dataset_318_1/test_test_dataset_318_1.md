@@ -1,0 +1,1 @@
+{"answer": "exact_expression", "numerical_answer": "0.3442000000"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\infty} \\frac{1}{x(x^2+1)} \\arctan\\left(\\frac{x}{x^2+1}\\right) \\, dx",
+  "numerical_answer": "0.1931471806"
+}

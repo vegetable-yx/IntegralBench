@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{\\ln^2 x}{\\sqrt{4 - x^2}} \\, dx",
+  "numerical_answer": "0.1843235636"
+}

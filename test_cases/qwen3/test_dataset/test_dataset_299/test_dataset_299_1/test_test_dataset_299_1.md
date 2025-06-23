@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^2}{\\sqrt{2\\pi}} \\cdot \\left(\\frac{\\pi}{2} + \\ln 2\\right)", "numerical_answer": "12.3456789012"}

@@ -1,0 +1,4 @@
+{
+  "answer": "8 \\sum_{n=0}^{\\infty} \\frac{32^n \\Gamma(n+3/2)\\Gamma(n+1)}{(2n)!\\,\\Gamma(2n+5/2)}",
+  "numerical_answer": "22.3076519432"
+}

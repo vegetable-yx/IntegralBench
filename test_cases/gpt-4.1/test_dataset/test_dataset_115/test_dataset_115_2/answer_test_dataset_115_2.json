@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{1}{\\sqrt{1 + x}} \\ln(\\sqrt{x} + \\sqrt{1 + x})\\, \\operatorname{E}(\\sqrt{1-x})\\, dx",
+  "numerical_answer": "0.3495971379"
+}

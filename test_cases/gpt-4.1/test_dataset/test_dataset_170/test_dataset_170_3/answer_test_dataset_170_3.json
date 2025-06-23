@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{1}{8} \\int_{0}^{\\frac{\\pi}{2}} \\sin(2\\theta) \\ln \\tan \\frac{\\theta}{2} \\, \\mathbf{K}\\left(0.25 \\sin\\theta\\right) d\\theta",
+  "numerical_answer": "0.0378727328"
+}

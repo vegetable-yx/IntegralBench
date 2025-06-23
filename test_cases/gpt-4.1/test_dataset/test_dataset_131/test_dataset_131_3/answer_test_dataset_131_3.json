@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{k=0}^{\\infty} \\frac{1}{(k!)^2} \\left(\\frac{1}{2}\\right)^k \\frac{\\Gamma\\left(\\frac{3}{4} + \\frac{k}{2}\\right) \\Gamma\\left(\\frac{5}{4} + \\frac{k}{2}\\right)}{\\Gamma\\left(2 + k\\right)}",
+  "numerical_answer": "2.6601371493"
+}

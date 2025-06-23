@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^\\infty \\frac{1}{k! \\, \\Gamma(k+1)} \\cdot \\frac{1}{2k+2} \\cdot \\frac{(2k+1)!!}{(2k+2)!!} \\frac{\\pi}{2}",
+  "numerical_answer": "0.4212489373"
+}

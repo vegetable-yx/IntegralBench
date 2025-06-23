@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to an expression involving elliptic integrals and cannot be simplified further analytically.", "numerical_answer": "1.0442300263"}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{128} \\left( \\ln^2(1 + \\sqrt{2}) - \\frac{\\pi^2}{24} \\right)", "numerical_answer": "0.0655551467"}

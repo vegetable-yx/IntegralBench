@@ -1,0 +1,13 @@
+import mpmath as mp
+mp.dps = 15  # Set decimal precision for calculations
+
+# Calculate the fraction 253/3 with high precision
+numerator = mp.mpf(253)
+denominator = mp.mpf(3)
+fraction = numerator / denominator
+
+# Compute natural logarithm of the fraction
+result = mp.log(fraction)
+
+# Print result with exactly 10 decimal places
+print(mp.nstr(result, n=10))

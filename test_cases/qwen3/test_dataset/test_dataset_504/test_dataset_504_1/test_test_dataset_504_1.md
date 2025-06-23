@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sin^{100}(x) \\cdot \\sin(100x)}{100} + C", "numerical_answer": "0.0000000000"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{4} \\sum_{n=0}^\\infty \\left( \\frac{(2n-1)!!}{2^n n!} \\right)^2 \\frac{1}{4^n (n+1)} \\, {_3F_2}\\left(-\\frac{1}{2}, \\frac{1}{2}, 1; 1, n+2; 1\\right)",
+  "numerical_answer": "1.2128209097"
+}

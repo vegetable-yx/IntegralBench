@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\sqrt2}{64}\\Biggl\\{8\\,\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt2-1}{\\sqrt2}\\Bigr)-8\\,\\operatorname{Li}_2\\Bigl(-\\frac{\\sqrt2-1}{\\sqrt2}\\Bigr)-4\\ln^2(1+\\sqrt2)\\ln\\frac{1+\\sqrt2}{2}+\\pi^2\\ln\\frac{1+\\sqrt2}{2}\\Biggr\\}",
+  "numerical_answer": "0.1141580000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4} \\int_{0}^{1} \\frac{\\left(\\sinh^{-1}(2x)\\right)^2}{\\sqrt{1-x^2}} dx",
+  "numerical_answer": "0.4560000000"
+}

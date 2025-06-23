@@ -1,0 +1,4 @@
+{
+  "answer": "$\\ln^2(2)\\Bigl(1-\\frac{\\pi}{4}\\Bigr)+\\frac{1}{2}\\Bigl(\\operatorname{Li}_2(\\frac{1}{2})-\\operatorname{Li}_2(-\\frac{1}{2})\\Bigr)$",
+  "numerical_answer": "0.6185623667"
+}

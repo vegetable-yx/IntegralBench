@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\pi \\left(I_0(1) - I_1(1)\\right)",
+  "numerical_answer": "3.1161150948"
+}

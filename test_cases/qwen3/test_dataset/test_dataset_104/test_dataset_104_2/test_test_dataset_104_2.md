@@ -1,0 +1,1 @@
+{"answer": "\\arcsin\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.2526802551"}

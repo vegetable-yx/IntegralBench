@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\sum_{k=1}^{\\infty} \\frac{ \\Gamma\\left(\\frac{1}{4} + \\frac{k}{2}\\right)\\Gamma\\left(-\\frac{1}{4} + \\frac{k}{2}\\right) }{ k^2 \\Gamma\\left(\\frac{1}{2} + k\\right) }",
+  "numerical_answer": "2.6306640750"
+}

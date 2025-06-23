@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\left( J_0(1) - \\mathbf{L}_0(1) \\right)", "numerical_answer": "0.5765733948"}

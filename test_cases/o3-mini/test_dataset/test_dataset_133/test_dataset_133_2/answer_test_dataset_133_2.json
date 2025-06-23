@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2\\pi}\\,e^{-\\frac{1}{2}}\\,\\Gamma\\left(\\frac{1}{4}\\right)\\,I_{-\\frac{1}{4}}\\left(\\frac{1}{2}\\right)}{4\\,\\Gamma\\left(\\frac{3}{4}\\right)}",
+  "numerical_answer": "1.3569501234"
+}

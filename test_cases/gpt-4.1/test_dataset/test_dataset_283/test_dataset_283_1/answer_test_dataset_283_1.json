@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4}\\int_0^{\\pi/2} \\left(\\arcsinh(2\\sin\\theta)\\right)^2 d\\theta",
+  "numerical_answer": "0.6702619412"
+}

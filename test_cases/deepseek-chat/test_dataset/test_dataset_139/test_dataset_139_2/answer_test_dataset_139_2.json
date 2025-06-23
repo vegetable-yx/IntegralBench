@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} x \\ln\\left(\\frac{2 + \\sqrt{4 - x^2}}{x}\\right) I_0(x) \\, dx",
+  "numerical_answer": "1.5707963268"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\displaystyle I = \\frac{\\sqrt{\\pi}\\,\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)}{16\\,\\Gamma\\Bigl(\\frac{3}{4}\\Bigr)}\\Biggl[\\sqrt{\\pi}\\,\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)+4\\,{}_2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{4}\\Bigr)\\Biggr]$$",
+  "numerical_answer": "3.3792829854"
+}

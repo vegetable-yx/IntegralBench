@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{\\pi^2}{4}\\;_4F_3\\Bigl(-\\frac12,-\\frac12,\\frac14,\\frac34;1,1,1;\\frac14\\Bigr)$",
+  "numerical_answer": "2.0379044112"
+}

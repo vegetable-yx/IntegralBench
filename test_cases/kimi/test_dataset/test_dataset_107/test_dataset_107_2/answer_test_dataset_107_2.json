@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} \\arcsin\\left(0.5 t\\right) dt",
+  "numerical_answer": "1.5707963268"
+}

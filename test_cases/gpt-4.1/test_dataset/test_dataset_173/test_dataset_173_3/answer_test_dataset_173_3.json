@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 \\sqrt{1-x^2}\\;\\arcsin^2\\left(0.5x\\right) dx",
+  "numerical_answer": "0.0804736823"
+}

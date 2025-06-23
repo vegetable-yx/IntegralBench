@@ -1,0 +1,4 @@
+{
+  "answer": "2^{5/4} \\sqrt{\\pi} \\frac{\\Gamma\\left(\\frac{1}{4}\\right)}{\\Gamma\\left(\\frac{3}{4}\\right)} \\, _1F_2\\left(\\frac{1}{4}; \\frac{3}{4}, \\frac{1}{2}; -\\frac{1}{4}\\right)",
+  "numerical_answer": "2.2348370357"
+}

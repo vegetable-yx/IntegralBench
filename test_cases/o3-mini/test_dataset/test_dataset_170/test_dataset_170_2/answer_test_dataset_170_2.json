@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{32}\\Bigl[16\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};\\frac{3}{2},\\frac{3}{2};\\frac{1}{16}\\Bigr)-8\\,\\ln2\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},1;\\frac{3}{2},\\frac{3}{2};\\frac{1}{16}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.3326170000"
+}

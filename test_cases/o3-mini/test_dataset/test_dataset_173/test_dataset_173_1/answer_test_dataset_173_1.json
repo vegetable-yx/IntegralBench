@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{432}-\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{96\\,\\Gamma(5/4)}\\;_2F_1\\Bigl(-\\frac12,\\frac12;\\frac34;\\frac14\\Bigr)",
+  "numerical_answer": "0.0514168106"
+}

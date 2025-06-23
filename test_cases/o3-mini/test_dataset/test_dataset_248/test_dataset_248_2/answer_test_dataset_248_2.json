@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{4}\\ln\\left(\\frac{3+\\sqrt{5}}{3-\\sqrt{5}}\\right)+\\frac{1}{2}\\left[\\operatorname{Li}_2\\left(\\frac{\\sqrt{5}-1}{2\\sqrt{5}}\\right)-\\operatorname{Li}_2\\left(-\\frac{\\sqrt{5}+1}{2\\sqrt{5}}\\right)\\right]",
+  "numerical_answer": "1.8878000000"
+}

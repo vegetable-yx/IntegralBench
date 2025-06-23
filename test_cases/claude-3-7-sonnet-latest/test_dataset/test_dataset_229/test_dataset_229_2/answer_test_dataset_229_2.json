@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^4}{360} - \\frac{\\pi^2\\ln^2(2)}{24} + \\frac{\\ln^4(2)}{24} + \\frac{\\pi^2\\ln(2)\\ln(1+\\sqrt{2})}{12} - \\frac{\\ln^3(2)\\ln(1+\\sqrt{2})}{6} - \\frac{\\pi^2\\ln^2(1+\\sqrt{2})}{24} + \\frac{\\ln^2(2)\\ln^2(1+\\sqrt{2})}{4} - \\frac{\\ln(2)\\ln^3(1+\\sqrt{2})}{6} + \\frac{\\ln^4(1+\\sqrt{2})}{24}",
+  "numerical_answer": "0.0339248692"
+}

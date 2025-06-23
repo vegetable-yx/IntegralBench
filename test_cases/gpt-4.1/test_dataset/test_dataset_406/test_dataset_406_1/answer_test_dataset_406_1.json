@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}\\int_{\\pi/6}^{\\pi/3}\\sqrt{\\tan x}\\,dx",
+  "numerical_answer": "0.8786796564"
+}

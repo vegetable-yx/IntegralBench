@@ -1,0 +1,4 @@
+{
+  "answer": "$I=\\frac{1}{96}\\Bigl\\{16\\Bigl[\\operatorname{Li}_3(2-\\sqrt2)-\\operatorname{Li}_3(\\sqrt2-1)\\Bigr]-8\\ln(1+\\sqrt2)\\Bigl[\\operatorname{Li}_2(2-\\sqrt2)-\\operatorname{Li}_2(\\sqrt2-1)\\Bigr]+\\ln^3(1+\\sqrt2)+6\\pi^2\\ln(1+\\sqrt2)+48\\zeta(3)\\Bigr\\}$",
+  "numerical_answer": "0.2362170000"
+}

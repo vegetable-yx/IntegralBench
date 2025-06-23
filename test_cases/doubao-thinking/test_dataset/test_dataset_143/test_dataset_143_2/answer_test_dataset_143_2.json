@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{\\pi (2n+2)!}{4^{n+2} (n!)^2 ((n+1)!)^2 (n+1)}",
+  "numerical_answer": "0.4684220000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "e\\left[\\Gamma\\left(0,\\frac{1}{4}\\right)-\\Gamma(0,1)\\right]+\\sqrt{\\pi}\\left[\\operatorname{erfi}\\left(\\frac{1}{2}\\right)-\\operatorname{erfi}(1)\\right]",
+  "numerical_answer": "2.5267000000"
+}

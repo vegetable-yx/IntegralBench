@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma\\left(\\frac{3}{4}\\right) \\Gamma\\left(\\frac{5}{4}\\right)}{\\Gamma(2)} \\cdot {}_1F_1\\left(1; 2; \\frac{1}{4}\\right)",
+  "numerical_answer": "1.4129650859"
+}

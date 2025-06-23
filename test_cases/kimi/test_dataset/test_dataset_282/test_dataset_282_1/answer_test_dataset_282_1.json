@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{4} x^{-3/4}(4-x)^{-3/4} \\cosh\\left(2\\sqrt{x(4-x)}\\right) dx",
+  "numerical_answer": "1.7724538509"
+}

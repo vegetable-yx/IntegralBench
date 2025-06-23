@@ -1,0 +1,4 @@
+{
+  "answer": "4045\\pi - 2\\sum_{m=-2022}^{2022} \\arcsin\\left( \\frac{m}{2023} \\right )",
+  "numerical_answer": "14445.34887410"
+}

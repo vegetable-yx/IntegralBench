@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^\\infty \\frac{(-1)^n 2^{n/2} \\Gamma\\left(\\frac{n+3}{4}\\right) \\Gamma\\left(\\frac{n+1}{4}\\right)}{(2n+1)!\\;\\Gamma\\left(\\frac{n}{2}+1\\right)}",
+  "numerical_answer": "4.0077589637"
+}

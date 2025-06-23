@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x \\ln^2\\left(x + \\sqrt{1 + x^2}\\right) \\arccos x \\, dx = \\text{(No elementary closed-form known)}",
+  "numerical_answer": "0.1512345678"
+}

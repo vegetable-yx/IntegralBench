@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{\\sqrt{2}} \\sum_{k=0}^\\infty \\frac{\\Gamma\\left(\\frac{k}{2}+1\\right)\\Gamma\\left(\\frac{k+1}{2}\\right)}{k!\\,(k+1)!\\,2^{k}\\,\\Gamma\\left(k+\\frac{3}{2}\\right)}",
+  "numerical_answer": "1.4399980599"
+}

@@ -1,0 +1,1 @@
+{"answer": "64 - (\\zeta(3, 0.75) - \\zeta(3, 1.25))", "numerical_answer": "63.0115699000"}

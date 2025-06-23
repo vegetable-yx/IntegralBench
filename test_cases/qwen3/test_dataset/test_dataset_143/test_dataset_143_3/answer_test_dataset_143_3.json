@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8} \\sum_{k=0}^\\infty \\frac{\\binom{2k+1}{k}}{(k+1) 4^k (k!)^2}",
+  "numerical_answer": "0.5619067337"
+}

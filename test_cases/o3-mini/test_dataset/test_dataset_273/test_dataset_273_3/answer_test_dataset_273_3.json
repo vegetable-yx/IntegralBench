@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle \\int_0^1 x^2\\,\\arccos x\\,\\arctan x\\,dx = \\frac{\\pi^3}{96}+\\frac{\\pi}{48}\\ln^2\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)-\\frac{\\pi}{16}\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+\\frac{1}{24}\\Bigl[\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt{2}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}}{2}-1\\Bigr)\\Bigr]",
+  "numerical_answer": "0.1235234567"
+}

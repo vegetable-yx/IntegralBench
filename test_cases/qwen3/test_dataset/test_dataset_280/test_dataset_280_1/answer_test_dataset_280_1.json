@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi} \\cdot 3^{3/4} \\cdot e^{3} \\cdot \\Gamma\\left(\\frac{3}{4}\\right) \\cdot I_{-1/4}(3)}{\\sqrt{2}}",
+  "numerical_answer": "17.2730000000"
+}

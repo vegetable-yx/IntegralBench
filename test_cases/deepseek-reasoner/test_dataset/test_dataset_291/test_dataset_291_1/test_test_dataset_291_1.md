@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^4}{32\\pi}", "numerical_answer": "1.7187734187"}

@@ -1,0 +1,1 @@
+{"answer": "\\Gamma\\left(\\frac{1}{4}\\right)^2", "numerical_answer": "13.1970085890"}

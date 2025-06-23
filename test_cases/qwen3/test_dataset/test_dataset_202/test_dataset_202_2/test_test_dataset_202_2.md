@@ -1,0 +1,1 @@
+{"answer": "\\int_{0}^{2} x \\cos\\left(\\sqrt{x(2 - x)}\\right) dx = 2 \\left[\\sin(1) + \\cos(1) - 1\\right]", "numerical_answer": "2.0504652095"}

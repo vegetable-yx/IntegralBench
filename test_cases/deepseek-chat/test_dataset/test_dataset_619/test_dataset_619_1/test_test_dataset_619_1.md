@@ -1,0 +1,43 @@
+Let's solve the definite integral step by step:
+
+\[
+I = \int_{0}^{1} \frac{\arctan x + \operatorname{arccot} x}{x^{2} + 1} \, \mathrm{d}x
+\]
+
+### Step 1: Simplify the Integrand
+First, observe that \(\operatorname{arccot} x = \frac{\pi}{2} - \arctan x\). Therefore:
+
+\[
+\arctan x + \operatorname{arccot} x = \arctan x + \left(\frac{\pi}{2} - \arctan x\right) = \frac{\pi}{2}
+\]
+
+So the integrand simplifies to:
+
+\[
+\frac{\arctan x + \operatorname{arccot} x}{x^{2} + 1} = \frac{\pi/2}{x^{2} + 1}
+\]
+
+### Step 2: Compute the Integral
+Now, the integral becomes:
+
+\[
+I = \frac{\pi}{2} \int_{0}^{1} \frac{1}{x^{2} + 1} \, \mathrm{d}x
+\]
+
+The antiderivative of \(\frac{1}{x^{2} + 1}\) is \(\arctan x\). Thus:
+
+\[
+I = \frac{\pi}{2} \left[ \arctan x \right]_{0}^{1} = \frac{\pi}{2} \left( \arctan 1 - \arctan 0 \right) = \frac{\pi}{2} \left( \frac{\pi}{4} - 0 \right) = \frac{\pi^{2}}{8}
+\]
+
+### Step 3: Numerical Approximation
+The exact value is \(\frac{\pi^{2}}{8}\). Numerically:
+
+\[
+\frac{\pi^{2}}{8} \approx 1.2337005501
+\]
+
+### Final Answer
+```json
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501"}
+```

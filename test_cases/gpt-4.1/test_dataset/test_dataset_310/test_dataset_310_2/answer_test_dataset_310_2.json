@@ -1,0 +1,4 @@
+{
+  "answer": "-2 \\int_{0}^{\\frac{\\pi}{2}} \\ln\\tan\\frac{\\theta}{2} \\, \\mathbf{D}(\\sin\\theta) \\cos\\theta \\, d\\theta",
+  "numerical_answer": "1.1719536195"
+}

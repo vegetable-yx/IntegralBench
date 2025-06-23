@@ -1,0 +1,4 @@
+{
+  "answer": "$\\pi\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+\\sqrt{2}\\Bigl[2E\\Bigl(1/\\sqrt{2}\\Bigr)-K\\Bigl(1/\\sqrt{2}\\Bigr)\\Bigr]$",
+  "numerical_answer": "1.7898970000"
+}

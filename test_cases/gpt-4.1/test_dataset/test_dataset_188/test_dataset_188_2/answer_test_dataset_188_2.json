@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{16} - \\left( 13+\\sqrt{168} \\right) \\int_0^1 \\frac{\\arctan y}{y \\left[1 + y^{2\\left(13+\\sqrt{168}\\right)} \\right]} dy",
+  "numerical_answer": "-19.7149660155"
+}

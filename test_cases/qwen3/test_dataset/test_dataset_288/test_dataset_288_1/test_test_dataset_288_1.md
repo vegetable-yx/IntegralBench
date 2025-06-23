@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{8} \\left(\\ln(1+\\sqrt{2})\\right)^2 - \\frac{\\pi}{24} \\left(\\ln(1+\\sqrt{2})\\right)^3", "numerical_answer": "0.1241205835"}

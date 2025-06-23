@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\pi^3}{96}\\ln2+\\frac{\\pi}{32}(\\ln2)^3+\\frac{1}{32}\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)-\\frac{1}{64}\\ln2\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)",
+  "numerical_answer": "0.2668670000"
+}

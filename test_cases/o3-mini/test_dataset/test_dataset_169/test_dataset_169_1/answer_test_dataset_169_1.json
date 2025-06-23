@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi\\,\\Gamma^2(\\frac{1}{4})}{64\\,\\Gamma^2(\\frac{3}{4})}\\Biggl[\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{16}\\Bigr) - _2F_1\\Bigl(\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{16}\\Bigr)\\Biggr]",
+  "numerical_answer": "1.5368171234"
+}

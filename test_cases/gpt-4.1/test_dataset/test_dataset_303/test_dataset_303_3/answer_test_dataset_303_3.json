@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{16} \\arcsin(0.25) - \\frac{1}{32} \\int_0^{\\pi/2} \\frac{\\theta\\cos\\theta}{\\sqrt{1-(0.25\\sin\\theta)^2}} \\, d\\theta - \\frac{1}{64} \\int_0^{\\pi/2} \\frac{\\sin 2\\theta \\, \\cos\\theta}{\\sqrt{1-(0.25\\sin\\theta)^2}} \\, d\\theta",
+  "numerical_answer": "0.0080335610"
+}

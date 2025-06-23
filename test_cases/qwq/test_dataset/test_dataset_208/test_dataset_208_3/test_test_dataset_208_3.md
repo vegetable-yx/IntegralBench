@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{144} + \\frac{2\\pi}{9} \\ln 2 - \\frac{37\\pi}{216}", "numerical_answer": "0.1613733537"}

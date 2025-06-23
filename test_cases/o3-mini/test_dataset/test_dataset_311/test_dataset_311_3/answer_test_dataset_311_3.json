@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{24}\\Bigl[-4e^{1/4}\\,Ei\\Bigl(-\\frac{1}{4}\\Bigr)+2\\sqrt{\\pi}\\,e^{1/4}\\,\\erfc\\Bigl(\\frac{1}{2}\\Bigr)+3\\,{}_2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{2};\\frac{3}{2};\\frac{1}{4}\\Bigr)-3\\Bigr]",
+  "numerical_answer": "0.1189562537"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "2^{-\\frac{1}{4}}e^{\\frac{1}{4}}\\Gamma\\left(\\frac{3}{4}\\right)W_{-\\frac{1}{4},\\frac{1}{4}}\\left(\\frac{1}{2}\\right)",
+  "numerical_answer": "0.8060000000"
+}

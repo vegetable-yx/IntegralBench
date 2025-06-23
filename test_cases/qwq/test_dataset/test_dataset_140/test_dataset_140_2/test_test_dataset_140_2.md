@@ -1,0 +1,1 @@
+{"answer": "2 I_1(2)^2", "numerical_answer": "5.0600000000"}

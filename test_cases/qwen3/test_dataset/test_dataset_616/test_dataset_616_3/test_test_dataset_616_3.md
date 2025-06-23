@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\ln^2 2}{4} + \\frac{\\pi^2}{48}", "numerical_answer": "0.3257300120"}

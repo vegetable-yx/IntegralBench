@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2}{8} \\left( \\ln 2 - \\frac{1}{2} \\right)", "numerical_answer": "0.2382858462"}

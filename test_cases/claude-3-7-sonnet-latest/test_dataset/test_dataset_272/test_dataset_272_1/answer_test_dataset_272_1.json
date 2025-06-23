@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{8} - \\int\\limits_{0}^{1}\\arcsin(x)\\arctan(x)dx",
+  "numerical_answer": "0.5822045766"
+}

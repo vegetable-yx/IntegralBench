@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}\\,\\frac{\\Gamma(3/8)\\,\\Gamma(7/8)}{\\sqrt{\\pi}} \\Bigl[ I_{-1/4}\\Bigl(\\frac{\\sqrt{2}}{2}\\Bigr) - I_{1/4}\\Bigl(\\frac{\\sqrt{2}}{2}\\Bigr) \\Bigr]",
+  "numerical_answer": "1.5868210000"
+}

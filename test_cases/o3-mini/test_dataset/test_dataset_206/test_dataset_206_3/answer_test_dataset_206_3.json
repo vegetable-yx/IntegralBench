@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{\\sqrt{\\pi}}{2^{1/4}}\\left[\\left(\\gamma+3\\ln2-\\frac{1}{2}\\ln10\\right)\\cos\\frac{\\pi}{8}-\\arctan3\\,\\sin\\frac{\\pi}{8}\\right]$",
+  "numerical_answer": "1.3620000000"
+}

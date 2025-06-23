@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{x^{2} \\ln\\left(x + \\sqrt{1 + x^{2}}\\right) \\arccos x}{\\sqrt{1 + x^{2}}} \\, dx",
+  "numerical_answer": "0.1071667653"
+}

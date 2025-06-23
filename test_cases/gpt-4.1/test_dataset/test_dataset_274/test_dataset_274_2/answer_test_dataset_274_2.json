@@ -1,0 +1,4 @@
+{
+  "answer": "125 \\sum_{n=0}^\\infty \\frac{10^{2n} (n+2)(n+1) (n!)^2}{(2n)! (3+2n)!}",
+  "numerical_answer": "1370.76209813"
+}

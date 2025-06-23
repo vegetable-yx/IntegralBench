@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}\\Biggl(\\frac{\\pi^3}{12} - \\frac{\\pi}{4}\\ln^2(2) + \\ln(2)\\,\\operatorname{Li}_2\\Bigl(\\frac{1}{2}\\Bigr) - \\operatorname{Li}_3\\Bigl(\\frac{1}{2}\\Bigr) + 2\\,\\operatorname{Li}_3\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Biggr)",
+  "numerical_answer": "2.6266860000"
+}

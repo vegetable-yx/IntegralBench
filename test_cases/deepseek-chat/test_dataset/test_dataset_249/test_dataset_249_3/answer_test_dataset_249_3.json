@@ -1,0 +1,4 @@
+{
+  "answer": "\\pi \\ln\\left(\\frac{1 + \\sqrt{5}}{2}\\right) - \\frac{\\pi}{2} \\arctan\\left(\\frac{1}{2}\\right)",
+  "numerical_answer": "0.6435011088"
+}

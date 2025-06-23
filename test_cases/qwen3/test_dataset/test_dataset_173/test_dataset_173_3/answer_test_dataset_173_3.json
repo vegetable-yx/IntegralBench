@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8} \\sum_{n=1}^\\infty \\frac{1}{n^2 (n + 1) 4^n}",
+  "numerical_answer": "0.0512859504"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2}\\Bigl[I_{-\\frac{1}{4}}(3)-I_{\\frac{1}{4}}(3)\\Bigr]+\\frac{1}{2}\\Bigl[H_{-\\frac{1}{4}}(3)-H_{\\frac{1}{4}}(3)\\Bigr]",
+  "numerical_answer": "17.9442780000"
+}

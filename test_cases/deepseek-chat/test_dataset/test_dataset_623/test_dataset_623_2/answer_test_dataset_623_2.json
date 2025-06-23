@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\pi \\sec x \\ln\\left(1 + \\frac{\\cos x}{3}\\right) \\, dx",
+  "numerical_answer": "-0.4112335167"
+}

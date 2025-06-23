@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi \\Gamma\\left(\\frac{1}{4}\\right)^2}{2^{7/2} \\Gamma\\left(\\frac{3}{4}\\right)^2}", "numerical_answer": "1.3140200411"}

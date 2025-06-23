@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\pi} \\, \\Gamma\\left(\\frac{1}{4}\\right) J_{-\\frac{1}{4}}(1)", "numerical_answer": "4.1818910663"}

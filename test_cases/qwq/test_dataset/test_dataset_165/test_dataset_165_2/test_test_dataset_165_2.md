@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} - \\text{Ci}(2)", "numerical_answer": "1.4671529952"}

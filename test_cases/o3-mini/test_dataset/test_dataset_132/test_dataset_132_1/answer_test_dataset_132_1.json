@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(1/4)}{2^{7/2}\\,\\Gamma(7/4)}\\,{_1F_2}\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{7}{4};\\frac{1}{16}\\Bigr)",
+  "numerical_answer": "0.3503003560"
+}

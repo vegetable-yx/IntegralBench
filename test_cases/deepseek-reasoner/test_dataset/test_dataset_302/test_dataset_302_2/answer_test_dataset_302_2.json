@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2} \\arcsin\\left(\\frac{1}{4}\\right) - \\frac{1}{8} \\left( \\text{Li}_2\\left(\\frac{1}{4}\\right) - \\text{Li}_2\\left(-\\frac{1}{4}\\right) \\right)",
+  "numerical_answer": "0.3344813275"
+}

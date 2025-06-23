@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{0.5} x^3 \\ln\\left(\\frac{0.5 + \\sqrt{0.5^2 - x^2}}{x}\\right) \\mathbf{K}\\left(0.5x\\right) \\, dx",
+  "numerical_answer": "0.0023173416"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{\\pi} \\sum_{n=1}^{\\infty} \\frac{(-1)^{n+1}}{n 3^n} \\frac{\\Gamma\\left(\\frac{n}{2}\\right)}{\\Gamma\\left(\\frac{n}{2} + \\frac{1}{2}\\right)}",
+  "numerical_answer": "0.6931471806"
+}

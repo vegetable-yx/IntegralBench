@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_{1}^{\\sqrt{2}} \\frac{1}{\\sqrt{u^2 - 1} \\sqrt{2 - u^2}} \\cdot u^{-2} \\, du",
+  "numerical_answer": "1.5707963268"
+}

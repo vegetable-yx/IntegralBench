@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\int_{0}^{1}\\frac{1}{x}\\ln^2\\Bigl(x+\\sqrt{x^2+1}\\Bigr)\\arccos x\\,dx=\\frac{\\pi}{8}\\ln^3(1+\\sqrt{2})-\\frac{1}{4}\\ln(1+\\sqrt{2})\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)+\\frac{1}{8}\\Bigl[\\operatorname{Li}_3\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_3\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr].$$",
+  "numerical_answer": "0.1984300000"
+}

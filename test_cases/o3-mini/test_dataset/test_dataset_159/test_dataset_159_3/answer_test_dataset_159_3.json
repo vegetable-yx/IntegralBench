@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2\\pi}}{16}\\Biggl[8\\,\\Gamma\\left(\\frac{3}{4}\\right)^2\\,_0F_1\\Bigl(;\\frac{3}{2};4\\Bigr)+\\Gamma\\left(\\frac{1}{4}\\right)^2\\,_0F_1\\Bigl(;\\frac{5}{2};4\\Bigr)\\Biggr]",
+  "numerical_answer": "33.6702500000"
+}

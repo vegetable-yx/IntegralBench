@@ -1,0 +1,4 @@
+{
+  "answer": "0.0625 \\int_{0}^{\\frac{\\pi}{2}} \\sin^3\\theta\\cos\\theta\\, \\ln\\left(\\frac{1+\\cos\\theta}{\\sin\\theta}\\right) \\mathbf{K}(0.25\\sin\\theta)\\,d\\theta",
+  "numerical_answer": "0.0024795645"
+}

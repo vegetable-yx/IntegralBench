@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_0^{\\pi} \\cos\\left(\\frac{t}{2}\\right) \\operatorname{Li}_2(\\sin t) \\,dt",
+  "numerical_answer": "1.8329242528"
+}

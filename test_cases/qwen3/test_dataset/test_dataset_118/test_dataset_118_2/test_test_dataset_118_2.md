@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma^4\\left(\\frac{1}{4}\\right)}{16\\pi}", "numerical_answer": "3.4376149943"}

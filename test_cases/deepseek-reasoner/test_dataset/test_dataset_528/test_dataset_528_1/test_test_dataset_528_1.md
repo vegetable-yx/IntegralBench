@@ -1,0 +1,1 @@
+{"answer": "e^{e - 1} - e", "numerical_answer": "2.8566596951"}

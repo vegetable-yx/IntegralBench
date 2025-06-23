@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{48}\\Bigl[8\\sqrt{3}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)+\\pi\\Bigl(16-6\\sqrt{3}-16\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)\\Bigr)+16\\,\\Im\\Bigl(\\Li_2\\Bigl(\\frac{1+i\\sqrt{3}}{2}\\Bigr)\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0372458200"
+}

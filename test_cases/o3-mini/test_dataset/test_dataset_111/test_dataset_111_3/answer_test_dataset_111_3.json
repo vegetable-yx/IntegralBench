@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\sqrt{2}\\Bigl\\{ \\operatorname{Li}_3\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_3\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)+\\ln\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)\\,\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\frac{\\pi}{8}\\ln^2\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)\\Bigr\\}",
+  "numerical_answer": "2.6000000000"
+}

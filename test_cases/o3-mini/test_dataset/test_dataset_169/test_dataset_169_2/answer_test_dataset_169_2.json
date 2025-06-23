@@ -1,0 +1,4 @@
+{
+  "answer": "$\nI=\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{12}\\;_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;\\frac34,\\frac54;\\frac14\\Bigr)-\\frac{\\Gamma(1/4)^4}{96\\pi}\\,,$",
+  "numerical_answer": "1.4454478166"
+}

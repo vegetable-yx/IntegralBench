@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{6} + \\frac{\\sqrt{3}}{8}", "numerical_answer": "0.7401051265"}

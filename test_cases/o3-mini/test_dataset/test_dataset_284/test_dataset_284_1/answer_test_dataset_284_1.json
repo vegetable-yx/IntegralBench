@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\frac{\\pi}{8}\\ln^2\\left(1+\\sqrt{2}\\right)+\\frac{1}{4}\\Bigl[\\Li_2\\left(2-\\sqrt{2}\\right)-\\Li_2\\left(\\sqrt{2}-1\\right)\\Bigr]$$",
+  "numerical_answer": "0.3273000000"
+}

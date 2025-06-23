@@ -1,0 +1,4 @@
+{
+  "answer": "2\\,\\frac{\\Gamma(1/4)\\sqrt{\\pi}}{\\Gamma(3/4)}\\Bigl(2\\,\\psi(3/4)-\\psi(1/2)-\\psi(1/4)+\\frac{1}{3}\\Bigr)",
+  "numerical_answer": "50.9260000000"
+}

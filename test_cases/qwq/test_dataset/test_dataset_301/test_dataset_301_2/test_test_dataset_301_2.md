@@ -1,0 +1,1 @@
+{"answer": "-4 (\\ln 2)^2 + 6 \\ln 2 - 2 - \\frac{\\pi^2}{12}", "numerical_answer": "-0.5853960057"}

@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\pi/2} \\sqrt{\\tan \\theta} \\cos(\\sin 2\\theta) d\\theta",
+  "numerical_answer": "2.4039398615"
+}

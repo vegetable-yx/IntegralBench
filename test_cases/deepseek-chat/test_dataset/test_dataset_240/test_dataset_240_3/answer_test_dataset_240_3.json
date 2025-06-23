@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\infty e^{-3x} \\left[ \\frac{1}{x} I_0(x) - K_1(x) \\right] dx",
+  "numerical_answer": "0.1382406025"
+}

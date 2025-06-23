@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{1}x^{-1/2}\\ln\\left(\\sqrt[4]{x(1-x)}+\\sqrt{1+\\sqrt{x(1-x)}}\\right)dx",
+  "numerical_answer": "-1.0887930452"
+}

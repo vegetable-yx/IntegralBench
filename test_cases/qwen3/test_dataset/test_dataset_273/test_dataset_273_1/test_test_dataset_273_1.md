@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{12} \\left( \\ln\\left( \\frac{3 + 2\\sqrt{2}}{4} \\right) + \\frac{4\\sqrt{2} - 5}{6} \\right)", "numerical_answer": "0.1271389440"}

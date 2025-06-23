@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4}\\Bigl[-\\pi+2\\,\\mathbf{E}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2+4\\,\\mathbf{E}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\,\\mathbf{K}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-2\\,\\mathbf{K}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2\\Bigr]",
+  "numerical_answer": "0.9118211038"
+}

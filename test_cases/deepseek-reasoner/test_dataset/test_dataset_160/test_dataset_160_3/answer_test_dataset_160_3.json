@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\sum_{k=0}^{\\infty} \\frac{2^{k} \\Gamma\\left(\\frac{k+1}{2}\\right) \\Gamma\\left(\\frac{k}{2} + 1\\right)}{(2k)! \\Gamma\\left(\\frac{3k + 3}{2}\\right)}",
+  "numerical_answer": "3.2410947153"
+}

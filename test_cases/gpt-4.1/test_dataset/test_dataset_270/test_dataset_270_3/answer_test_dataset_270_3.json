@@ -1,0 +1,4 @@
+{
+  "answer": "16 \\int_{0}^{\\frac{\\pi}{6}} \\sin^3 \\theta\\, \\arccos(2 \\sin \\theta)\\, \\theta^2 \\cos \\theta\\, d\\theta",
+  "numerical_answer": "0.0125707523"
+}

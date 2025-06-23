@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2} \\sinh(1)", "numerical_answer": "3.3239706716"}

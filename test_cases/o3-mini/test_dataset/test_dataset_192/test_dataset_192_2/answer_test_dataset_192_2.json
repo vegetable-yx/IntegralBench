@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle \\frac{\\pi}{8}\\ln^2\\!\\left(\\frac{\\sqrt{2}+1}{2}\\right)+\\frac{1}{8}\\Bigl[\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_2\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.3678794412"
+}

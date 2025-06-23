@@ -1,0 +1,4 @@
+{
+  "answer": "$\nI=\\frac{\\pi}{4}\\Biggl(1+\\sum_{m\\ge0}\\frac{(-1)^m(2m)!}{4^m(m!)^4}\\Biggr)\\,,$",
+  "numerical_answer": "1.2450000000"
+}

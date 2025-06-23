@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^2 x^{1/4}(2 - x)^{1/4} J_{0.5}(1 \\cdot \\sqrt{x}) J_{0.5}(1 \\cdot \\sqrt{2 - x}) \\: dx",
+  "numerical_answer": "0.7853981634"
+}

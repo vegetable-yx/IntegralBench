@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{4} \\sum_{m=0}^\\infty \\sum_{n=0}^\\infty \\frac{\\left(-\\frac{1}{2}\\right)_m \\left(\\frac{1}{2}\\right)_m}{(m!)^2} \\frac{\\left(-\\frac{1}{2}\\right)_n \\left(\\frac{1}{2}\\right)_n}{(n!)^2} \\frac{(m+2)! n!}{(m+n+3)!}",
+  "numerical_answer": "0.1559857361"
+}

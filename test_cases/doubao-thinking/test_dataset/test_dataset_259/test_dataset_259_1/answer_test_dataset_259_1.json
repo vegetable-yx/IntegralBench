@@ -1,0 +1,4 @@
+{
+  "answer": "2\\int_{0}^{1} \\left(\\cos(x) - \\frac{\\sin(x)}{x}\\right) \\frac{1}{\\sqrt{1 - x^2}} \\, dx",
+  "numerical_answer": "1.2337005501"
+}

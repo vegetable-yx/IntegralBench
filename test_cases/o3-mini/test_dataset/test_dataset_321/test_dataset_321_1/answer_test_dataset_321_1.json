@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{8\\,\\Gamma(3/4)^2} - \\frac{\\Gamma(3/4)^2}{2\\sqrt{\\pi}}$",
+  "numerical_answer": "1.5195966233"
+}

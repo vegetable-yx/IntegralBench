@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{8} \\operatorname{Li}_3\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.1014974700"}

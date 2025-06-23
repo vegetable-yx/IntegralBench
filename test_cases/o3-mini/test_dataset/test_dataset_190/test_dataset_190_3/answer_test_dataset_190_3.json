@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\pi^3}{192} - \\frac{\\pi}{40}\\ln^2\\bigl(1+\\sqrt{2}\\bigr) + \\frac{\\ln2\\,\\ln\\bigl(1+\\sqrt{2}\\bigr)}{20} - \\frac{1}{10}\\operatorname{Li}_2\\Bigl(\\frac{1}{2}\\Bigr)",
+  "numerical_answer": "0.0726893860"
+}

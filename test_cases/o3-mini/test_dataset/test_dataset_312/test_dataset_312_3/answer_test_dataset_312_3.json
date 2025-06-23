@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\pi^{3/2}}{8}e^{-1/4}\\Bigl[I_{-1/4}\\left(1/4\\right)+I_{1/4}\\left(1/4\\right)\\Bigr]-\\frac{\\pi}{4}\\,\\erfc\\left(1/2\\right)",
+  "numerical_answer": "0.1829000000"
+}

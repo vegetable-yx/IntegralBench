@@ -1,0 +1,4 @@
+{
+  "answer": "16 \\int_{0}^{1} u^5 \\cos\\left(2 u\\sqrt{1-u^2}\\right) \\, du",
+  "numerical_answer": "1.8081329104"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x (1-x^2)^{-3/2} \\ln x\\, \\operatorname{E}(x)\\, dx",
+  "numerical_answer": "-0.9114139066"
+}

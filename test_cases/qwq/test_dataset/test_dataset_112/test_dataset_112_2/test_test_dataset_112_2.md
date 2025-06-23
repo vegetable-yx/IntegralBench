@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^{3/2}}{2\\sqrt{2}}", "numerical_answer": "1.9681402452"}

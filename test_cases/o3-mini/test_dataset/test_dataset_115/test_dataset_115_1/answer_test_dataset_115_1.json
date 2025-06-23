@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\frac{1}{8\\sqrt{2}}\\Bigl[4\\Bigl(2\\,E\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-K\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)+\\sqrt{2}\\,\\ln\\Bigl(\\frac{\\sqrt{2}+1}{\\sqrt{2}-1}\\Bigr)\\Bigr]$$",
+  "numerical_answer": "0.6953000000"
+}

@@ -1,0 +1,1 @@
+{"answer": "2\\mathbf{G}", "numerical_answer": "1.8319311884"}

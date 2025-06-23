@@ -1,0 +1,4 @@
+{
+  "answer": "24\\left[\\zeta\\left(4,\\tfrac{1}{2}\\right)+\\zeta\\left(4,\\tfrac{3}{2}\\right)\\right] - 3\\left[\\zeta\\left(4,\\tfrac{3}{4}\\right)+\\zeta\\left(4,\\tfrac{5}{4}\\right)\\right]",
+  "numerical_answer": "424.3213350000"
+}

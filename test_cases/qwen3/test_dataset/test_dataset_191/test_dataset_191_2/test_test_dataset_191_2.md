@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{144} - \\frac{\\pi}{18} \\ln^3(1+\\sqrt{2}) + \\frac{\\pi}{12} \\ln^2(1+\\sqrt{2}) - \\frac{\\pi}{12} \\ln(1+\\sqrt{2})", "numerical_answer": "0.1272542487"}

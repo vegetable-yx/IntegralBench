@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\Gamma(1/4)^2}{512\\sqrt{\\pi}}\\Bigl(16-\\pi+8\\,{}_2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{4}\\Bigr)\\Bigr)",
+  "numerical_answer": "0.1909505000"
+}

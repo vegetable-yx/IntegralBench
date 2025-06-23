@@ -1,0 +1,4 @@
+{
+  "answer": "-1 + \\sqrt{2} \\ln(\\sqrt{2} + 1) + \\sqrt{2} \\int_0^{\\frac{\\pi}{4}} \\frac{1}{\\cos^3 \\theta} \\, d\\theta",
+  "numerical_answer": "0.8813735870"
+}

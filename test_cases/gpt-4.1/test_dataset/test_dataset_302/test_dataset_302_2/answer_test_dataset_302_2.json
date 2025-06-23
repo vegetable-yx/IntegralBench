@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\frac{\\pi}{2}} \\arcsin(0.25\\sin\\theta)\\,d\\theta",
+  "numerical_answer": "0.2026423666"
+}

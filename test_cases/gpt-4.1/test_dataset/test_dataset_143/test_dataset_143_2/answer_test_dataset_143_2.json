@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{\\Gamma\\left(k+\\frac{3}{2}\\right)}{(k!)^3 (k+1)^2}",
+  "numerical_answer": "1.1677858092"
+}

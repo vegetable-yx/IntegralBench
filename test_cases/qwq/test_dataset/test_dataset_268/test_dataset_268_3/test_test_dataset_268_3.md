@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi \\zeta(3)}{8}", "numerical_answer": "0.4720466416"}

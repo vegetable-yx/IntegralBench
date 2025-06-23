@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^{3/2}\\,\\Gamma\\left(\\frac{3}{4}\\right)}{16\\,\\Gamma\\left(\\frac{5}{4}\\right)}\\left[8\\,{}_{2}F_{1}\\left(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{16}\\right)-{}_{2}F_{1}\\left(\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{16}\\right)\\right]",
+  "numerical_answer": "1.1154023000"
+}

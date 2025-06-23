@@ -1,0 +1,4 @@
+{
+  "answer": "\\(\\frac{2^{1/4}\\Gamma\\left(\\frac{1}{4}\\right)\\Gamma\\left(\\frac{3}{4}\\right)\\,_{1}F_{2}\\left(\\frac{5}{4};\\frac{3}{2},\\frac{7}{4};1\\right)-3\\Gamma\\left(\\frac{3}{4}\\right)\\Gamma\\left(\\frac{5}{4}\\right)\\,_{1}F_{2}\\left(\\frac{3}{4};\\frac{1}{2},\\frac{5}{4};1\\right)}{10\\sqrt{2\\pi}}\\)",
+  "numerical_answer": "3.6734000000"
+}

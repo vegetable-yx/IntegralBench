@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\, {}_3F_3\\left(\\frac{1}{2}, \\frac{1}{2}, 1; \\frac{3}{2}, \\frac{3}{2}, \\frac{3}{2}; -\\frac{1}{4}\\right)",
+  "numerical_answer": "1.0120489920"
+}

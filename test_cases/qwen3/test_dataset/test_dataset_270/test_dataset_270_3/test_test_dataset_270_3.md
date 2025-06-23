@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{48} \\left( 1 - \\frac{\\pi^2}{12} \\right)", "numerical_answer": "0.0214600012"}

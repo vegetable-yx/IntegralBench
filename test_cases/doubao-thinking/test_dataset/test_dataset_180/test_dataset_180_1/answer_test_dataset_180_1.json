@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{2}{\\pi} \\int_{0}^{2} \\sin\\left(\\sqrt{x}\\right) \\sin\\left(\\sqrt{2 - x}\\right) \\, dx",
+  "numerical_answer": "1.3020563290"
+}

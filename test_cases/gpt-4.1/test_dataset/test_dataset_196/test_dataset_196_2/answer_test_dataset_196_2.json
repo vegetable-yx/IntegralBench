@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{48} - \\int_0^1 \\frac{1}{2\\sqrt{1-x^2/4}}\\left(\\frac{x^2}{2} \\arccos x + \\frac{1}{4} \\arcsin x - \\frac{1}{4} x\\sqrt{1-x^2}\\right)dx",
+  "numerical_answer": "0.0508382459"
+}

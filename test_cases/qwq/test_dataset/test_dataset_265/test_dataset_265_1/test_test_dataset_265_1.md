@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sin(2)}{4}", "numerical_answer": "0.2273243567"}

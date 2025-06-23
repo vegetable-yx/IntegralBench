@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2}\\,E(-1)", "numerical_answer": "5.4025618546"}

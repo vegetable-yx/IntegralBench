@@ -1,0 +1,1 @@
+{"answer": "\\sum_{n=0}^{\\infty} \\frac{(-1)^n 2^{n+2}}{(2n+1)!} B\\left(\\frac{2n+7}{4}, \\frac{2n+5}{4}\\right)", "numerical_answer": "1.4500961160"}

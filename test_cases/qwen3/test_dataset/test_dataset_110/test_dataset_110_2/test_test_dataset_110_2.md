@@ -1,0 +1,1 @@
+{"answer": "\\text{Not found analytically}", "numerical_answer": "1.3162503184"}

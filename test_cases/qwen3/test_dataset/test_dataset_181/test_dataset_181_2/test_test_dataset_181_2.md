@@ -1,0 +1,1 @@
+{"answer": "\\text{No closed-form analytical solution found; numerical integration required}", "numerical_answer": "0.1785714286"}

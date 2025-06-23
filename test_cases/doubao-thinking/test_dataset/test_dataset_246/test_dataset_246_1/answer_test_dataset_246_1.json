@@ -1,0 +1,4 @@
+{
+  "answer": "7! \\int_0^\\infty \\int_0^\\infty \\int_0^\\infty \\int_0^\\infty \\frac{1}{(\\cosh t_1 + \\cosh t_2 + \\cosh t_3 + \\cosh t_4)^8}\\,dt_1\\,dt_2\\,dt_3\\,dt_4",
+  "numerical_answer": "0.0540312832"
+}

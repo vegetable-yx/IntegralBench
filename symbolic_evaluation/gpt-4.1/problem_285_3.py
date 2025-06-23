@@ -1,0 +1,4 @@
+The given analytical expression is an integral that does not have a simple closed-form solution. The expression contains the integral symbol and differential element `dt`, indicating it is not evaluated. Since no evaluated closed-form result is provided, and the expression matches the criteria for "no simple closed-form solution" or "not easily expressed," we classify it as invalid for direct computation without numerical integration. However, the problem explicitly forbids numerical integration methods. Therefore, we follow Step 1 of the instructions.
+
+# Invalid results - no simple closed-form solution
+pass

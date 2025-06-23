@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^4}{8\\pi}", "numerical_answer": "6.8750888610"}

@@ -1,0 +1,1 @@
+{"answer": "2 \\operatorname{E}\\left(\\frac{1}{2}\\right)", "numerical_answer": "2.7012877621"}

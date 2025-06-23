@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{n=0}^{\\infty} \\frac{n+1}{n! \\, (2n+3) \\, \\Gamma\\left(n+\\frac{5}{2}\\right)}",
+  "numerical_answer": "0.1812294444"
+}

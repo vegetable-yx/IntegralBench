@@ -1,0 +1,1 @@
+{"answer": "\\ln\\left(\\frac{6}{3 + 2\\sqrt{2}}\\right) - \\frac{\\sqrt{10} + 3}{2}", "numerical_answer": "-3.0521084998"}

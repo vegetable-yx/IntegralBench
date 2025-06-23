@@ -1,0 +1,1 @@
+{"answer": "\\ln\\left(\\frac{80}{23}\\right)", "numerical_answer": "1.2465324187"}

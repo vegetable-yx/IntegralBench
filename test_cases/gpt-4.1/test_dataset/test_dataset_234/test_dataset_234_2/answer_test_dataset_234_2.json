@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} (n+1) \\frac{\\Gamma(\\frac{n+3}{2})\\Gamma(\\frac{n}{2}+1)}{\\Gamma(n+3)}",
+  "numerical_answer": "1.0453014271"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2} \\sqrt{\\pi} \\frac{e^{i\\pi/8}}{2^{1/4}} \\int_0^1 t^{-1/2} \\cos((1+i)t)\\,dt",
+  "numerical_answer": "3.6731146130"
+}

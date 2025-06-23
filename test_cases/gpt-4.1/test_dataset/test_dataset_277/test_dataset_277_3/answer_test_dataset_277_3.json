@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^1 \\frac{u^2 \\cosh(u)}{\\sqrt{1-u^2}} du",
+  "numerical_answer": "1.4950171724"
+}

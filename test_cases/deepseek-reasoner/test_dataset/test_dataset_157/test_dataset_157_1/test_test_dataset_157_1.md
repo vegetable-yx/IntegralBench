@@ -1,0 +1,1 @@
+{"answer": "12 \\sqrt{\\pi} e^{-\\frac{1}{4}}", "numerical_answer": "16.5646536670"}

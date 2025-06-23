@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{k=0}^\\infty \\frac{\\Gamma\\left( \\frac{3}{4} + \\frac{k}{2} \\right) \\Gamma\\left( \\frac{5}{4} + \\frac{k}{2} \\right) }{ (k!)^2 \\, 2^k \\, \\Gamma(2+k) }",
+  "numerical_answer": "2.6597884196"
+}

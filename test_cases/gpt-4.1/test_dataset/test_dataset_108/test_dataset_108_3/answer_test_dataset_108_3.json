@@ -1,0 +1,4 @@
+{
+  "answer": "4\\sqrt{2}\\int_0^{\\frac{\\pi}{2}} \\sin^2 \\theta \\cos\\theta\\, \\operatorname{E}\\big(0.5 (\\sin 2\\theta)^{1/2}\\big)\\,d\\theta",
+  "numerical_answer": "1.3225802251"
+}

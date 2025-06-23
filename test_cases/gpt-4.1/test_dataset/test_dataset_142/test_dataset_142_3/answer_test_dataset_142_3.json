@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{4^k}{k!\\,k!\\,(2k+1)\\,\\Gamma\\left(k+\\frac{3}{2}\\right)}",
+  "numerical_answer": "1.7941224371"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\pi \\sum_{k=1}^{\\infty} \\frac{\\binom{2k}{k}}{8^{k} k^{2}}", "numerical_answer": "1.2409123456"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{4^k}{(2k+1)!\\,(2k+1)}",
+  "numerical_answer": "1.2507837105"
+}

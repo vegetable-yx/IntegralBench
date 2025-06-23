@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\left(\\dfrac{\\pi}{4}\\right)^{14 + 2\\sqrt{42}}}{14 + 2\\sqrt{42}}", "numerical_answer": 0.0000556170}

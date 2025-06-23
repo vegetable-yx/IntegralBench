@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2}\\Bigl(\\operatorname{Li}_{3}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_{3}\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)-\\frac{1}{8}\\ln\\frac{\\sqrt{2}+1}{\\sqrt{2}-1}\\Bigl(\\operatorname{Li}_{2}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_{2}\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)",
+  "numerical_answer": "0.3885190000"
+}

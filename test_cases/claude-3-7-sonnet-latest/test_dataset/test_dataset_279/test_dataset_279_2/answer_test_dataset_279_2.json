@@ -1,0 +1,4 @@
+{
+  "answer": "\\pi \\cdot \\cosh(1) = \\pi \\cdot \\frac{e + e^{-1}}{2}",
+  "numerical_answer": "4.8480938293"
+}

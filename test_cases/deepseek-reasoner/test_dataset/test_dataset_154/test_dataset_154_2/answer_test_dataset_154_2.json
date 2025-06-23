@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\left( \\ln(\\sqrt{2} - 1) \\left( \\text{Li}_2(\\sqrt{2} - 1) + \\text{Li}_2(1 - \\sqrt{2}) \\right) - \\text{Li}_3(\\sqrt{2} - 1) + \\text{Li}_3(1 - \\sqrt{2}) \\right)",
+  "numerical_answer": "0.4308205533"
+}

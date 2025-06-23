@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2}\\ln\\left(\\frac{\\sqrt{2}\\,\\Gamma(3/4)^2}{\\sqrt{\\pi}}\\right)+\\frac{\\Gamma(1/4)^4}{64\\pi}",
+  "numerical_answer": "0.9474000000"
+}

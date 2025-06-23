@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{(-1)^k}{k! (k+1)!} \\int_0^1 x^{2k+2} \\arccos x \\, dx",
+  "numerical_answer": "0.1740290000"
+}

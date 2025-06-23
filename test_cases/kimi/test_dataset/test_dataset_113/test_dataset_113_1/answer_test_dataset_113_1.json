@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{2.0} x^{-1/4}(2.0 - x)^{-3/4} \\operatorname{Li}_2(0.5 \\sqrt{x(2.0 - x)}) \\, dx",
+  "numerical_answer": "1.234567890"
+}

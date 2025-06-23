@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{(-1)^n 2^{n + 3/2} (n!)^2}{(2n + 1)!^2}",
+  "numerical_answer": "2.5264732050"
+}

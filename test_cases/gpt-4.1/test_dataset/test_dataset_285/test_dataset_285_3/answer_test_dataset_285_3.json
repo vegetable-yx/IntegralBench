@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\left( \\frac{1}{2} \\, \\operatorname{arcsinh} t \\cdot t \\sqrt{1+t^2} - \\frac{1}{4} (\\operatorname{arcsinh} t)^2 - \\frac{1}{4} t^2 \\right) \\frac{dt}{\\sqrt{1-t^2}}",
+  "numerical_answer": "0.0187257954"
+}

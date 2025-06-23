@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\left(\\pi^2 - 8\\right)", "numerical_answer": "2.6440198862"}

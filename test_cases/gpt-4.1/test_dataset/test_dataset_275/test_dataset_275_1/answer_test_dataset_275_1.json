@@ -1,0 +1,4 @@
+{
+  "answer": "3\\sqrt{3} \\sum_{n=0}^\\infty \\frac{36^n}{(2n)!} \\frac{\\Gamma(n+3/2)\\Gamma(n+1)}{\\Gamma(2n+5/2)}",
+  "numerical_answer": "31.0893569542"
+}

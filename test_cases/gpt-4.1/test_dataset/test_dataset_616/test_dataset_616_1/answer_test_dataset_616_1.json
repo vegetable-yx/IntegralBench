@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{48} + \\sum_{m=2}^{\\infty} \\frac{(-1)^{m+1} H_{m-1}}{m}",
+  "numerical_answer": "0.4269436186"
+}

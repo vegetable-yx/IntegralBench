@@ -1,0 +1,4 @@
+{
+  "answer": "0.0625 \\int_0^{\\frac{\\pi}{2}} \\sin^3\\theta \\, \\cos\\theta \\, \\ln\\left(\\cot \\frac{\\theta}{2}\\right) \\, \\mathbf{K}(0.25\\sin\\theta)\\, d\\theta",
+  "numerical_answer": "0.0077068529"
+}

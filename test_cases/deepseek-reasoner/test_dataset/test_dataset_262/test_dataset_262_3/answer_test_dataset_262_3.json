@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{16} \\sum_{m=0}^{\\infty} \\frac{(-1)^m (2m + 2)!}{4^m m! (m + 1)!^3}",
+  "numerical_answer": "0.2645189963"
+}

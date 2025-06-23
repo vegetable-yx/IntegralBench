@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum\\limits_{n=0}^\\infty \\binom{1/2}{n} B\\left(\\frac{1}{2}, \\frac{1}{8}+\\frac{n}{2}\\right) \\left[ \\psi\\left(\\frac{1}{2}\\right) - \\frac{1}{2}\\psi\\left(\\frac{1}{8}+\\frac{n}{2}\\right) - \\frac{1}{2}\\psi\\left(\\frac{5+n}{8}\\right) \\right]",
+  "numerical_answer": "-1.6545602787"
+}

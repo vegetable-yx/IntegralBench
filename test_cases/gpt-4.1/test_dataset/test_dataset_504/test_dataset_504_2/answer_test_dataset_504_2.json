@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\pi} \\sin(101x)\\sin^{99}(x)\\,dx = 0",
+  "numerical_answer": "0.0000000000"
+}

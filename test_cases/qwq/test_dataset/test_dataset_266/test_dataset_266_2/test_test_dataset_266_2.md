@@ -1,0 +1,1 @@
+{"answer": "{\\sum_{k=0}^\\infty \\frac{(-1)^k 2^{4k+1}}{(k+1)(2k+1)^2 (2k)!}}", "numerical_answer": "1.3448184808"}

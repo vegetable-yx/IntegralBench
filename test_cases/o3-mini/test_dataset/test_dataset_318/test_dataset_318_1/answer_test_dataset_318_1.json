@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(\\frac{1}{4})^2}{16}\\, {}_2F_1\\Bigl(-\\frac{1}{4},\\frac{1}{2};\\frac{3}{4};\\frac{1}{2}\\Bigr) - \\frac{\\pi}{4}",
+  "numerical_answer": "0.9149840000"
+}

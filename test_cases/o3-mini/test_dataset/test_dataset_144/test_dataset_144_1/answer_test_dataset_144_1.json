@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{16\\,\\Gamma(5/4)}\\Biggl[8\\, _1F_2\\Bigl(1;1/4,3/4;1\\Bigr)- _1F_2\\Bigl(1;3/4,5/4;1\\Bigr)\\Biggr]",
+  "numerical_answer": "0.3628300000"
+}

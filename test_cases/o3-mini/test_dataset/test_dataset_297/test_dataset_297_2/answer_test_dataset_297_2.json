@@ -1,0 +1,4 @@
+{
+  "answer": "$\n\\int_0^1 x^2E(\\sqrt{x})E(\\sqrt{1-x})\\,dx=\\frac{\\pi^{3/2}\\,\\Gamma(1/4)^2}{64\\,\\Gamma(7/4)^2}\\Bigl\\{\\,_2F_1\\Bigl(-\\frac12,\\frac12;\\frac34;\\frac12\\Bigr)-\\,_2F_1\\Bigl(-\\frac12,\\frac12;\\frac74;\\frac12\\Bigr)\\Bigr\\},\n$",
+  "numerical_answer": "0.6130160000"
+}

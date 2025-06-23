@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{\\arctan\\left(x^{13+\\sqrt{168}}\\right)}{1+x^2} dx",
+  "numerical_answer": "0.2056167583"
+}

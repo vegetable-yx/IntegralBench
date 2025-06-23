@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{(-1)^k 4^k}{(k + 1)(2k + 1)(2k + 1)!}",
+  "numerical_answer": "0.8973399400"
+}

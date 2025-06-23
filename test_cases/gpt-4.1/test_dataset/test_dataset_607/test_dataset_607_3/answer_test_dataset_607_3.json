@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\frac{\\pi}{4}} \\ln\\left( \\sqrt{2} \\cos t + \\sqrt{ \\cos 2t } \\right ) \\, dt",
+  "numerical_answer": "0.6900989307"
+}

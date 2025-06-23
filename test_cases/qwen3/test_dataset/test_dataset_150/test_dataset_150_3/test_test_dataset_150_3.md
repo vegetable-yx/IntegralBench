@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\sqrt{2}}{4} \\pi^2", "numerical_answer": "3.4888166354"}

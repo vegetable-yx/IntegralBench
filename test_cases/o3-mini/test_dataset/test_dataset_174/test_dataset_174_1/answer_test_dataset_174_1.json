@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{16}\\Biggl\\{ \\pi\\Bigl[\\arcsin(1/4)\\Bigr]^2 + 2\\,\\arcsin(1/4)\\ln\\frac{\\sqrt{15}+1}{\\sqrt{15}-1} + \\operatorname{Li}_{2}\\Bigl(\\frac{1-\\sqrt{15}}{4}\\Bigr)-\\operatorname{Li}_{2}\\Bigl(\\frac{1+\\sqrt{15}}{4}\\Bigr)\\Biggr\\}",
+  "numerical_answer": "0.0499510000"
+}

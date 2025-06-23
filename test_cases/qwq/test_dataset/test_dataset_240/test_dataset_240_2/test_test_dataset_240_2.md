@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2} - 3", "numerical_answer": "-0.1715728753"}

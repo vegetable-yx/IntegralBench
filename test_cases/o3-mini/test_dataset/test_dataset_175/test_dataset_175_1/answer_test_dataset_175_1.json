@@ -1,0 +1,4 @@
+{
+  "answer": "$I=\\frac{\\pi}{16}\\Bigl[\\pi^2-8\\,{}_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;1,\\frac32;\\frac14\\Bigr)\\Bigr]$",
+  "numerical_answer": "0.3317000000"
+}

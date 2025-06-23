@@ -1,0 +1,1 @@
+{"answer": "-\\frac{\\pi^2 \\ln 2}{6} - \\frac{1}{8} \\zeta(3)", "numerical_answer": "-1.2904525078"}

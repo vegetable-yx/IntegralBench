@@ -1,0 +1,1 @@
+{"answer": "\\boxed{3}", "numerical_answer": "3.0000000000"}

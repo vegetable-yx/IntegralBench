@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x^{2} \\arccos x \\arctan x \\, dx",
+  "numerical_answer": "0.1854134638"
+}

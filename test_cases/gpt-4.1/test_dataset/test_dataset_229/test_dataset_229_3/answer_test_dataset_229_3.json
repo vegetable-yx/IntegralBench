@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^2 \\ln^2\\left(x+\\sqrt{x^2+1}\\right)\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\,dx",
+  "numerical_answer": "0.3571716022"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "4 \\int_0^{\\pi/2} \\sin\\theta \\, \\cosh(\\sin(2\\theta)) \\, d\\theta",
+  "numerical_answer": "7.8980262862"
+}

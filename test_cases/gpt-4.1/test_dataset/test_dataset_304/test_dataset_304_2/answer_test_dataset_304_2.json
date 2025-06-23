@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{9} E\\left(\\tfrac{1}{2}\\right) - \\frac{1}{48} K\\left(\\tfrac{1}{2}\\right) + \\frac{1}{48} \\int_0^{\\pi/2} \\frac{\\cos 4\\theta\\, d\\theta}{\\sqrt{1 - 0.25 \\sin^2\\theta}}",
+  "numerical_answer": "0.1380771528"
+}

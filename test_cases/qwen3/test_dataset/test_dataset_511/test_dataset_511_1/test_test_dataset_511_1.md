@@ -1,0 +1,1 @@
+{"answer": "2\\sin(2\\sqrt{2})", "numerical_answer": "0.5757970767"}

@@ -1,0 +1,1 @@
+{"answer": "\\boxed{2 \\sinh(4)}", "numerical_answer": "27.2899171971"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^{-1/2} (1-x)^{-7/8} (1+\\sqrt{1-x})^{1/2} \\ln\\left(\\frac{x}{\\sqrt{1-x}}\\right) dx",
+  "numerical_answer": "-1.3809175534"
+}

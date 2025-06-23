@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2}{16} - \\frac{\\pi^4}{32}", "numerical_answer": "0.2200507441"}

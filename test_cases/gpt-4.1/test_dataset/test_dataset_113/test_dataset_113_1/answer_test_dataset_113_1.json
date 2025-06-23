@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=1}^\\infty \\frac{\\Gamma\\left(\\frac{3}{4} + \\frac{k}{2}\\right)\\Gamma\\left(\\frac{1}{4} + \\frac{k}{2}\\right)}{k^2 \\Gamma(1+k)}",
+  "numerical_answer": "1.2500206460"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{32} \\sum_{k=1}^{\\infty} \\frac{(2k+1)(2k+3)}{(k+1)k^2(k+2)^2 4^k}",
+  "numerical_answer": "0.0217000000"
+}

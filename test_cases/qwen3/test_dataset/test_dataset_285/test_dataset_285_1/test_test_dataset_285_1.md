@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{8} \\left( \\ln^2(1 + \\sqrt{2}) \\right) - \\frac{\\sqrt{2}}{2} + \\frac{1}{2}", "numerical_answer": "0.1608724157"}

@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\sqrt{3} \\cdot \\left( \\frac{\\sqrt{\\pi}}{\\Gamma\\left(\\frac{3}{4}\\right)} \\right)^2 \\cosh(3)}", "numerical_answer": "6.6762275763"}

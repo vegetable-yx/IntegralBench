@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{4\\sqrt{2}(k+1)}{(2k+1)(2k+3)\\binom{2k}{k}}",
+  "numerical_answer": "2.3668061203"
+}

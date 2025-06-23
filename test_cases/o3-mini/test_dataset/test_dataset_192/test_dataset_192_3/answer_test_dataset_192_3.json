@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{16}\\ln^3(1+\\sqrt{2}) - \\frac{3}{16}\\ln(1+\\sqrt{2})\\,\\operatorname{Li}_2\\Bigl((\\sqrt{2}-1)^2\\Bigr) + \\frac{1}{16}\\operatorname{Li}_3\\Bigl((\\sqrt{2}-1)^2\\Bigr) + \\frac{1}{8}\\Bigl[\\operatorname{Li}_3\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_3\\Bigl(1-\\sqrt{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.3497530624"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{a}{2} \\sum_{k=0}^{\\infty} \\frac{(-1)^k a^{2k}}{(k + 1)(2k + 1)^2 (2k)!)}", "numerical_answer": "0.4863853766"}

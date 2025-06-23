@@ -1,0 +1,1 @@
+{"answer": "\\frac{20}{3}", "numerical_answer": "6.6666666667"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x^3 \\arccos x \\arcsin^2(0.5x) \\, dx",
+  "numerical_answer": "0.0208333333"
+}

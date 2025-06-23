@@ -1,0 +1,4 @@
+{
+  "answer": "e^{-0.25} \\left[656 \\, \\Gamma\\left(\\frac{5}{2}, 0.25\\right) - 1152 \\, \\Gamma\\left(\\frac{7}{2}, 0.25\\right) + 256 \\, \\Gamma\\left(\\frac{9}{2}, 0.25\\right) \\right]",
+  "numerical_answer": "-203.8325417000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$-\\frac{\\pi^3+4\\pi\\ln^2 2-8\\ln2\\,\\operatorname{Li}_2(\\frac{1}{2})-3\\operatorname{Li}_3(\\frac{1}{2})}{32}$",
+  "numerical_answer": "-1.0064140625"
+}

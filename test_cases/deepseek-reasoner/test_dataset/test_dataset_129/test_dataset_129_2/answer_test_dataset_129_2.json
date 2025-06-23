@@ -1,0 +1,4 @@
+{
+  "answer": "8\\sqrt{2} \\sum_{m=1}^{\\infty} \\frac{m^2}{(2m + 1)!}",
+  "numerical_answer": 2.2831775176
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{48} \\, {}_2F_1\\left(\\frac{1}{2}, \\frac{3}{2}; 3; \\frac{1}{4}\\right)", "numerical_answer": "0.0894291084"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\frac{1}{2}} \\ln(\\sqrt{1-x} - \\sqrt{x}) \\, dx",
+  "numerical_answer": "-0.34657359027997264"
+}

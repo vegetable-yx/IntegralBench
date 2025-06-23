@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\ln^4 2}{4}", "numerical_answer": "0.0577088039"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 x^3 \\ln^2\\left(\\sinh^{-1}(x)\\right) \\arccos x \\, dx",
+  "numerical_answer": "0.0207944154"
+}

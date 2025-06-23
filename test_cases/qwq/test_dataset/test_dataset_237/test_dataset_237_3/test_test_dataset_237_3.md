@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{\\pi} \\left(\\sqrt{2} - \\ln\\left(1 + \\sqrt{2}\\right)\\right)", "numerical_answer": "1.8888686200"}

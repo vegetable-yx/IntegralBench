@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x \\ln\\frac{1+\\sqrt{1-x^2}}{1-\\sqrt{1-x^2}} \\mathbf{K}(0.5x) \\, dx",
+  "numerical_answer": "1.1507964474"
+}

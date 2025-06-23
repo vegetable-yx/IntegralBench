@@ -1,0 +1,4 @@
+{
+  "answer": "$(1/2)[\\operatorname{Li}_{2}(\\sqrt{2}-1)-\\operatorname{Li}_{2}(1-\\sqrt{2})]+(\\pi/4)\\ln(1+\\sqrt{2})$",
+  "numerical_answer": "1.1506000000"
+}

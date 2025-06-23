@@ -1,0 +1,8 @@
+import mpmath as mp
+mp.dps = 15  # Set internal precision to 15 decimal places
+
+# Direct assignment of the constant value
+result = mp.mpf(4)
+
+# Print result with 10 decimal places using mpmath's string formatting
+print(mp.nstr(result, n=10))

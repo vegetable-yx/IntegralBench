@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{16}+\\frac{1}{8}\\ln^2\\Bigl(\\frac{\\sqrt{2}-1}{\\sqrt{2}+1}\\Bigr)-\\frac{1}{8}\\Bigl(\\operatorname{Li}_2((\\sqrt{2}-1)^2)+\\operatorname{Li}_2\\Bigl(1-(\\sqrt{2}-1)^2\\Bigr)\\Bigr)",
+  "numerical_answer": "0.8417335000"
+}

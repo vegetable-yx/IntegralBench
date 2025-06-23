@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^2 \\frac{1}{x (2-x)^2} J_1(x) J_2(2-x) \\, dx",
+  "numerical_answer": "0.1175494351"
+}

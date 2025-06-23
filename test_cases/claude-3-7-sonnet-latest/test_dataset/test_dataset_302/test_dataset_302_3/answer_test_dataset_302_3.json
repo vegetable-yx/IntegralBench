@@ -1,0 +1,4 @@
+{
+  "answer": "\\arcsin\\left(\\frac{1}{4}\\right) \\cdot \\frac{\\pi}{2} - \\frac{(\\arcsin(1/4))^2}{2}",
+  "numerical_answer": "0.3649819506"
+}

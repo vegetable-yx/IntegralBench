@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum\\limits_{k=0}^{\\infty} \\sum\\limits_{l=0}^{\\infty} \\frac{(-1)^{k+l}}{k!\\,l!\\,\\Gamma(k+3.5)\\,\\Gamma(l+1.5)} \\cdot \\frac{\\Gamma(2k+1.5)\\,\\Gamma(2l+1.5)}{\\Gamma(2k+2l+3)}",
+  "numerical_answer": "0.0946553345"
+}

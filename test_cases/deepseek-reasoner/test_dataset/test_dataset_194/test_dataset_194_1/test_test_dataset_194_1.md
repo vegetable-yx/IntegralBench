@@ -1,0 +1,1 @@
+{"answer": "\\int_{0}^{1} \\arcsin\\left(\\frac{x}{2}\\right) \\arccos(x) \\, dx", "numerical_answer": "0.2105196505"}

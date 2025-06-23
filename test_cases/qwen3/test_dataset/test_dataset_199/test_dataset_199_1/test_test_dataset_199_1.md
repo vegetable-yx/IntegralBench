@@ -1,0 +1,3 @@
+```json
+{"answer": "\\sqrt{2} \\pi H_0(1)", "numerical_answer": "2.5263150743"}
+```

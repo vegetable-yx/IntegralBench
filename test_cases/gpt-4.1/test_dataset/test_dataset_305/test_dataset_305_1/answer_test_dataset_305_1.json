@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\int_{0}^{1} \\ln\\left( \\sqrt{x(1-x)}+\\sqrt{1+x(1-x)} \\right)dx",
+  "numerical_answer": "0.1039428811"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2}{18} + \\frac{\\pi}{9} \\sqrt{3} - \\frac{2}{3}", "numerical_answer": "0.7707731697"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2\\sqrt{2}} \\int_0^{\\pi} \\frac{\\sin((\\sin\\varphi)^{1/2})}{\\cos(\\varphi/2)}\\, d\\varphi",
+  "numerical_answer": "0.8666561805"
+}

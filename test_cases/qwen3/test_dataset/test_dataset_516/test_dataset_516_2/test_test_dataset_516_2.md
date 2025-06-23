@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\frac{\\pi}{2} - 1}", "numerical_answer": "0.5707963268"}

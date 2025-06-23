@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{(\\ln 2)^4}{4}", "numerical_answer": "0.0577087809"}

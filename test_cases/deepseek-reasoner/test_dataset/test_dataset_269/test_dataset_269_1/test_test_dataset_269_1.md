@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{288} - \\frac{\\pi}{32} + \\frac{\\pi \\sqrt{3}}{48}", "numerical_answer": "0.0386492503"}

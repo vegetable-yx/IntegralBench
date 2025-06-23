@@ -1,0 +1,1 @@
+{"answer": "\\frac{25}{4} e^{-5} \\left(13 I_0(5) + 37 I_1(5) + 12 I_2(5)\\right) \\sqrt{\\pi}", "numerical_answer": "1420.9553571534"}

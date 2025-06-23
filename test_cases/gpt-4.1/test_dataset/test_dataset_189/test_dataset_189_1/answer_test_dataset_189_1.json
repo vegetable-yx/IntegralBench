@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\pi} \\frac{\\cos \\phi \\ln \\sin \\phi}{4 + \\sin^2 \\phi} d\\phi",
+  "numerical_answer": "-0.3352606512"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{2^{\\frac{3}{2}} \\Gamma\\left(\\dfrac{1}{4}\\right)^2}{\\sqrt{\\pi}}", "numerical_answer": "14.4572335523"}

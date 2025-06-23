@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{2} E\\left( \\arcsin\\left( \\frac{1}{4} \\right) \\biggm| 16 \\right)", "numerical_answer": "0.0527786956"}

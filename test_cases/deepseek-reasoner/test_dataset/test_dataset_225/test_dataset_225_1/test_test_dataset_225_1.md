@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{7\\pi^4}{120}", "numerical_answer": "5.6821969771"}

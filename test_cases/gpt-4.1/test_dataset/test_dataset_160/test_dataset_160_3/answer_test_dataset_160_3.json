@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_{0}^{\\pi} \\cos\\left(\\frac{\\phi}{2}\\right) \\cosh\\left(\\sqrt{\\sin\\phi}\\right) d\\phi",
+  "numerical_answer": "4.7274641272"
+}

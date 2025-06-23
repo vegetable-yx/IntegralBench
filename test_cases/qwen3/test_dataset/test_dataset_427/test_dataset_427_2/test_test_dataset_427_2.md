@@ -1,0 +1,1 @@
+{"answer": "\\frac{11\\sqrt{11}}{18}", "numerical_answer": "2.0268262608"}

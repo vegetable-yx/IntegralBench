@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi} \\, \\Gamma\\left(\\frac{1}{4}\\right)^2}{2^{3/2} \\Gamma\\left(\\frac{3}{4}\\right)} \\, {}_1F_2\\left(\\frac{1}{4}; \\frac{3}{4}, \\frac{1}{2}; 4\\right)",
+  "numerical_answer": "15.4161462850"
+}

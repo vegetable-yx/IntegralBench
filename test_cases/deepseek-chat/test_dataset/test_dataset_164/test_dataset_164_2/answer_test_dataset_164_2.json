@@ -1,0 +1,4 @@
+{
+  "answer": "6 \\left[4 \\zeta(4, 0.5) + 4 \\zeta(4, 1.5) - \\frac{1}{2} \\zeta(4, 0.75) - \\frac{1}{2} \\zeta(4, 1.25)\\right]",
+  "numerical_answer": "392.4589950000"
+}

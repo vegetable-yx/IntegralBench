@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{m=0}^{\\infty} \\frac{(-1)^m}{m! \\, \\Gamma(m+1)} \\cdot \\frac{1}{2m+1} \\cdot \\frac{2^{2m} (m!)^2}{(2m+1)!}",
+  "numerical_answer": "0.4960783718"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{3}{8}\\left(e^{\\frac{4}{3}\\sinh^{-1}(7)} + e^{-\\frac{4}{3}\\sinh^{-1}(7)}\\right) - \\frac{3}{4}\\left(e^{\\frac{2}{3}\\sinh^{-1}(7)} + e^{-\\frac{2}{3}\\sinh^{-1}(7)}\\right) + \\frac{3}{4}",
+  "numerical_answer": "9.0045205388"
+}

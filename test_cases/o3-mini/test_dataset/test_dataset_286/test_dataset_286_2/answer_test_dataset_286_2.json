@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\pi}{32}\\ln^2\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+\\frac{1}{16}\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)\\ln\\Bigl(\\frac{3+2\\sqrt{2}}{2}\\Bigr)-\\frac{1}{8}\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt{2}}{2}\\Bigr)+\\frac{1}{8}\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}}{2}\\Bigr)",
+  "numerical_answer": "0.0491650000"
+}

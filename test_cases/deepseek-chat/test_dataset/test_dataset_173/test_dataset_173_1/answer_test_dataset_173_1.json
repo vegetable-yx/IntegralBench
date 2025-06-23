@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0.5}^{1.0} \\sqrt{1 - x^2} \\arcsin^2\\left(\\frac{0.5}{x}\\right) dx",
+  "numerical_answer": "0.0063816715"
+}

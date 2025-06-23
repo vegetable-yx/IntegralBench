@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{3\\sqrt{\\pi}}{2} \\, \\mathrm{K}\\left(\\frac{1}{\\sqrt{2}}\\right) \\sum_{n=0}^\\infty \\frac{(-9)^n}{(2n+1)!(2n+1)} \\frac{\\Gamma(n+\\frac{3}{2})}{\\Gamma(n+2)}",
+  "numerical_answer": "1.0353499640"
+}

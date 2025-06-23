@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8} \\left( \\ln^2(1 + \\sqrt{2}) \\right) - \\frac{\\ln(1 + \\sqrt{2})}{4} \\left( \\sqrt{2} - 1 \\right)",
+  "numerical_answer": "0.0778358011"
+}

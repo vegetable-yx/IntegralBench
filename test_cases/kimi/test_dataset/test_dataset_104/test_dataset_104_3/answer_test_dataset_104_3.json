@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\arcsin\\left(0.5\\sqrt{x(1-x)}\\right) dx",
+  "numerical_answer": "0.2617993878"
+}

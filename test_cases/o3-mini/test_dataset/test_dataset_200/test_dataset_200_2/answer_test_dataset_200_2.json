@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2}\\Bigl[J_{-\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2 - J_{\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2\\Bigr]",
+  "numerical_answer": "0.6250000000"
+}

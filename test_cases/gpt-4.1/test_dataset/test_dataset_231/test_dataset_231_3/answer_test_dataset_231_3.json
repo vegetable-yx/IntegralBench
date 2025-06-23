@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sqrt{2} \\int_0^{\\pi/2} \\frac{\\cos \\theta}{[1 + \\sin 2\\theta]^{3/2}}\\, d\\theta",
+  "numerical_answer": "1.6987037232"
+}

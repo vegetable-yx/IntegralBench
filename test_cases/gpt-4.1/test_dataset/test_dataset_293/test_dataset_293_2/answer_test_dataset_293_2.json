@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{4} \\sum_{n=0}^{\\infty} \\frac{\\left(\\frac{1}{2}\\right)_n^2}{(n!)^2} \\frac{\\left[\\Gamma(n+2)\\right]^2}{\\left[\\Gamma(n+\\frac{5}{2})\\right]^2} 0.25^n",
+  "numerical_answer": "1.4571732078"
+}

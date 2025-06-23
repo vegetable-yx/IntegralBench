@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^\\infty \\frac{2^{3/2} \\, \\Gamma\\left(\\frac{3}{2} + \\frac{k}{2}\\right) \\, \\Gamma\\left(1+\\frac{k}{2}\\right)}{(k!)^2 2^k \\, \\Gamma\\left(\\frac{5}{2} + k\\right)}",
+  "numerical_answer": "2.1437166845"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$I=\\sqrt{\\pi}\\,\\mathrm{erfi}(1)\\,\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+\\frac{\\sqrt{2}}{4}\\Bigl[\\mathrm{Li}_2(1-\\sqrt{2})-\\mathrm{Li}_2(1-1/\\sqrt{2})\\Bigr]$",
+  "numerical_answer": "0.3141592654"
+}

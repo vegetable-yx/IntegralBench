@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\ln(1+\\sqrt{2})} t^2 \\arccos(\\sinh t) \\coth t\\, dt",
+  "numerical_answer": "0.6646951218"
+}

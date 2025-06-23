@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^2 x^{1/2} I_0\\left(1 \\cdot \\sqrt[4]{x(2-x)}\\right) dx",
+  "numerical_answer": "1.7724538509"
+}

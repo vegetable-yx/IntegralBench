@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{n=0}^\\infty \\frac{4^n \\Gamma\\left(n+\\frac{3}{2}\\right) \\Gamma\\left(n+\\frac{1}{2}\\right)}{(2n)!\\,\\Gamma(2n+2)}",
+  "numerical_answer": "6.4028135454"
+}

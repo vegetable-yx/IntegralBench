@@ -1,0 +1,1 @@
+{"answer": "Numerically evaluated", "numerical_answer": "0.6779000000"}

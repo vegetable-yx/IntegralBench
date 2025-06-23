@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{a} \\cdot \\frac{2 \\Gamma\\left(\\frac{3}{4}\\right)^2}{\\sqrt{\\pi}} \\cdot \\,_{1}F_{2}\\left( \\frac{3}{4}; \\frac{5}{4}, \\frac{1}{2}; \\frac{(ab)^2}{16} \\right)", "numerical_answer": "1.6940000000"}

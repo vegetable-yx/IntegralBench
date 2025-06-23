@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{e^{-2}\\Bigl(4\\,\\operatorname{Ei}(2)-4\\,\\operatorname{Ei}(-2)-\\pi\\Bigr)}{16}",
+  "numerical_answer": "0.1426000000"
+}

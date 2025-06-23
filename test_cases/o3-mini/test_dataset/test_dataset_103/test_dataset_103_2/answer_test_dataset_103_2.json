@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{12}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)+\\frac{1}{24}\\Bigl[\\operatorname{Li}_2\\Bigl(-\\frac{\\sqrt{3}-1}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{3}-1}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0507300000"
+}

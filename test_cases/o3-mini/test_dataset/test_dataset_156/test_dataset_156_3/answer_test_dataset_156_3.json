@@ -1,0 +1,4 @@
+{
+  "answer": "$(\\pi/4)\\ln^2 2+\\ln2\\,\\operatorname{Li}_2(1/2)-\\operatorname{Li}_3(1/2)$",
+  "numerical_answer": "0.2428924491"
+}

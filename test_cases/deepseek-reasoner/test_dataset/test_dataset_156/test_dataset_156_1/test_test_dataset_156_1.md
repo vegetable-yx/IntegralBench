@@ -1,0 +1,1 @@
+{"answer": "G", "numerical_answer": "0.9159655942"}

@@ -1,0 +1,1 @@
+{"answer": "\\left(\\frac{\\pi}{16} - \\frac{1}{8}\\right) \\arcsin\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.0195171684"}

@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_{0}^{1} \\frac{J_0(2u)}{u} \\, \\mathbf{E}(\\sqrt{1-u^2}) \\, du",
+  "numerical_answer": "1.4674627852"
+}

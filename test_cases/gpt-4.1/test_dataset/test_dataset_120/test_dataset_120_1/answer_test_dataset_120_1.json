@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{x^2}{\\sqrt{1+x}}\\, \\mathbf{K}\\left(\\sqrt{\\frac{x}{1+x}}\\right) \\mathbf{K}(\\sqrt{1-x}) dx",
+  "numerical_answer": "0.1995607746"
+}

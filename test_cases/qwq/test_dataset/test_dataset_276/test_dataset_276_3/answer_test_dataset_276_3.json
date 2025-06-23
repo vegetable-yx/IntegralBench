@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\left(e^{3} \\text{erf}(\\sqrt{3}) + e^{-3} \\text{erfi}(\\sqrt{3})\\right)",
+  "numerical_answer": "18.33081655"
+}

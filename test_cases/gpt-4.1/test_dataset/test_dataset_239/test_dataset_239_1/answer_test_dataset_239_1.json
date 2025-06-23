@@ -1,0 +1,4 @@
+{
+  "answer": "\\mathcal{L}^{-1}\\left[ \\ln\\left( \\frac{s + \\sqrt{s^2 - 1}}{s} \\right) \\cdot \\frac{\\ln\\left( s + \\sqrt{s^2 + 1} \\right)}{\\sqrt{s^2 + 1}} \\right](2)",
+  "numerical_answer": "0.2386900732"
+}

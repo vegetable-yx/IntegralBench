@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^2 \\mathbf{K}(\\sqrt{x}) \\mathbf{E}(\\sqrt{1-x}) \\, dx",
+  "numerical_answer": "0.4507910844"
+}

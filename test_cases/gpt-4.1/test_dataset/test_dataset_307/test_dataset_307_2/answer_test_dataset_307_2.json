@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\pi \\operatorname{arcsinh}(\\sin x) dx + \\sqrt{2}-1",
+  "numerical_answer": "2.5943776559"
+}

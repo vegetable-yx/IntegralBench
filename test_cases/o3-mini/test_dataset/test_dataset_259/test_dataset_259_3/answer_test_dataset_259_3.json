@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{i}{4}\\left(\\mathrm{Li}_2\\left(e^{-2i}\\right)-\\mathrm{Li}_2\\left(e^{2i}\\right)\\right)",
+  "numerical_answer": "0.4611636000"
+}

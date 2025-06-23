@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\pi} \\arcsin^2\\left( \\frac{1}{2}\\sin\\phi \\right) \\sin^2\\phi d\\phi",
+  "numerical_answer": "0.8031693258"
+}

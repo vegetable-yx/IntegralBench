@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 x^2 \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) \\arcsin^2 x \\, dx",
+  "numerical_answer": "0.07654655446"
+}

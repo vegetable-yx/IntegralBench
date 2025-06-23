@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{2.0} x^{1/2} (2.0 - x)^{-1/2} \\cos\\left(1.0 \\sqrt{x(2.0 - x)}\\right) dx",
+  "numerical_answer": "1.8090484756"
+}

@@ -1,0 +1,1 @@
+{"answer": "12\\sqrt{\\pi} e^{-1/4}", "numerical_answer": "16.5646613568"}

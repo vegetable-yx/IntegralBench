@@ -1,0 +1,4 @@
+{
+  "answer": "\\(\\pi \\left( \\int_0^1 J_0(t) \\, dt - J_0(1) \\right)\\)",
+  "numerical_answer": "0.4854905240"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "I=2^{-11/2}\\pi\\Bigl\\{[\\psi(3)-\\psi(3/2)]^2-\\psi_1(3)+\\psi_1(3/2)\\Bigr\\}\\,_2F_1(7/2,3/2;3;1/2)+\\frac{2^{-7/2}\\Gamma(3/2)^2}{\\Gamma(3)}\\left.\\frac{\\partial}{\\partial a}\\,_2F_1(7/2,a;3;1/2)\\right|_{a=3/2}",
+  "numerical_answer": "0.1550000000"
+}

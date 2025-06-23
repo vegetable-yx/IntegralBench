@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\sum_{n=0}^{\\infty} \\sum_{m=0}^{\\infty} \\frac{(-1)^n 3^{2n+1} ( (2m)! )^2}{(2n+1)(2n+1)! 2^{4m} (m!)^4} \\cdot \\frac{\\Gamma(n + \\frac{3}{2}) \\Gamma(m + 1)}{\\Gamma(n + m + \\frac{5}{2})}", "numerical_answer": "1.6281248581"}

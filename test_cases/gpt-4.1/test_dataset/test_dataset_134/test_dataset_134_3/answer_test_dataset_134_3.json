@@ -1,0 +1,4 @@
+{
+  "answer": "4 \\int_{0}^{\\frac{\\pi}{2}} \\frac{1 + \\cos 2\\theta}{1 + \\cos^2 2\\theta} d\\theta",
+  "numerical_answer": "3.6638623773"
+}

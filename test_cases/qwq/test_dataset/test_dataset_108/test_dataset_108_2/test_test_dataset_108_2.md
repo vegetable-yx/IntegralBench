@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{17 \\sqrt{2} \\pi}{30}", "numerical_answer": "2.5176342400"}

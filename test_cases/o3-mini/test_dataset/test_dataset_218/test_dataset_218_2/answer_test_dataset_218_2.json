@@ -1,0 +1,4 @@
+{
+  "answer": "$(\\frac{\\pi\\ln^2 2}{6}+\\frac{\\zeta(3)}{8}+\\frac{\\pi^2\\ln2}{72}-\\frac{\\ln^3 2}{24})$",
+  "numerical_answer": "0.4826937992"
+}

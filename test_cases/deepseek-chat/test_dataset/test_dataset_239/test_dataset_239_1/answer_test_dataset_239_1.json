@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} \\frac{1}{x} I_1(x) K_0(2 - x) \\, dx",
+  "numerical_answer": "0.4686939399"
+}

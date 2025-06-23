@@ -1,0 +1,1 @@
+{"answer": "4 \\sqrt{\\pi} \\Gamma\\left(\\frac{1}{4}\\right) I_{1/4}(4)", "numerical_answer": "128.13910901"}

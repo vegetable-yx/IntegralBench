@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{m=0}^{\\infty} \\sum_{n=0}^{\\infty} \\binom{1/2}{m} \\binom{1/2}{n}  \\frac{(-0.25)^m}{m+n+1} \\frac{\\sqrt{\\pi} \\, \\Gamma(m + 1/2)}{2 \\Gamma(m+1)} \\cdot \\frac{1}{2n+1}",
+  "numerical_answer": "1.2785751182"
+}

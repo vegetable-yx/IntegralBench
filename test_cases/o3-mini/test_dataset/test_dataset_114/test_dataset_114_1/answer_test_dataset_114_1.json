@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{16\\,\\Gamma(3/4)}\\left[\\psi(1)-\\psi(1/2)+\\psi(3/4)-\\psi(1/4)\\right]",
+  "numerical_answer": "-4.2050000000"
+}

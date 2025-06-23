@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi (4\\sqrt{2} - 5)}{72} + \\frac{\\pi}{6} \\left( \\ln\\left(1 + \\sqrt{2}\\right) - \\ln 2 \\right)",
+  "numerical_answer": "0.1272056220"
+}

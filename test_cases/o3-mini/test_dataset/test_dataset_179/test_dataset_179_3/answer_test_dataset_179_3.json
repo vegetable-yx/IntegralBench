@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{128}\\Bigl[32\\, _1F_2\\Bigl(1;\\frac{3}{2},3;-1\\Bigr)-\\, _1F_2\\Bigl(1;2,\\frac{7}{2};-1\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0933928420"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{e}", "numerical_answer": "0.3678794412"}

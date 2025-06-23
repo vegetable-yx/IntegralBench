@@ -1,0 +1,1 @@
+{"answer": "\\frac{2\\sqrt{\\pi}}{e^{0.25}}", "numerical_answer": "2.7607768966"}

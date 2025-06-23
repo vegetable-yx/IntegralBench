@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_0^{\\pi} \\cos\\left(\\frac{u}{2}\\right)\\, \\operatorname{Li}_2(\\sin u)\\, du",
+  "numerical_answer": "1.4260252766"
+}

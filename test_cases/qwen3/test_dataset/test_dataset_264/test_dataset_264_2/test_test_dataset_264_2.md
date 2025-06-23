@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{4} \\left(1 - J_0^2(1)\\right)", "numerical_answer": "0.3255276144"}

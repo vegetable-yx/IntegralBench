@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\left( e - \\dfrac{1}{e} \\right)", "numerical_answer": "3.3233509704"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\ln 3}{12\\sqrt{3}}\\pi + \\frac{1}{\\sqrt{3}}\\int_{\\pi/6}^{\\pi/3} \\ln(\\tan\\theta) \\, d\\theta",
+  "numerical_answer": "0.2509895720"
+}

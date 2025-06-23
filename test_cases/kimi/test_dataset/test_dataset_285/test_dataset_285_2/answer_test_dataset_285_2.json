@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{x^2}{\\sqrt{1 + x^2}} \\ln\\left(x + \\sqrt{1 + x^2}\\right) \\arccos x \\, dx",
+  "numerical_answer": "0.2078795763"
+}

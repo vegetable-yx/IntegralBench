@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\\\frac{\\\\ln^2 x}{\\\\sqrt{4-x^2}}\\\\,dx = (\\\\ln 2)^2 \\\\frac{\\\\pi}{6} + 2\\\\ln 2 \\\\int_0^{\\\\pi/6} \\\\ln\\\\sin\\\\theta\\\\,d\\\\theta + \\\\int_0^{\\\\pi/6} \\\\ln^2\\\\sin\\\\theta\\\\,d\\\\theta",
+  "numerical_answer": "0.0871349523"
+}

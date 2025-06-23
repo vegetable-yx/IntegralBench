@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle \\frac{\\pi}{12}\\Bigl(\\pi-6+\\sqrt{3}\\ln\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\Bigr)+\\frac{1}{3}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{1}{2}-\\frac{\\sqrt{3}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1}{2}+\\frac{\\sqrt{3}}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.1949999898"
+}

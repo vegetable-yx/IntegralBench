@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{6\\pi}}{2} \\sum_{n=0}^\\infty \\frac{9^n}{(2n)!} \\frac{\\Gamma\\left(n + \\frac{5}{4}\\right)}{\\Gamma\\left(n + \\frac{7}{4}\\right)}",
+  "numerical_answer": "19.6910191300"
+}

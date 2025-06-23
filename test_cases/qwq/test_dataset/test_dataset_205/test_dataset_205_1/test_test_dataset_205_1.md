@@ -1,0 +1,1 @@
+{"answer": "No analytical solution found", "numerical_answer": "2.6287200000"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{8}\\Biggl\\{\\pi\\ln^2(1+\\sqrt2)-4\\ln(1+\\sqrt2)\\,\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt2}{2+\\sqrt2}\\Bigr)+8\\operatorname{Li}_3\\Bigl(\\frac{\\sqrt2}{2+\\sqrt2}\\Bigr)-8\\operatorname{Li}_3\\Bigl(-\\frac{\\sqrt2}{2+\\sqrt2}\\Bigr)\\Biggr\\}",
+  "numerical_answer": "0.1230000000"
+}

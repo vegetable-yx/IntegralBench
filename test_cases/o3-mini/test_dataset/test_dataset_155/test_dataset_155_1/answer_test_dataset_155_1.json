@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{8}\\Bigl[4\\,\\operatorname{Li}_3\\Bigl(\\frac{\\sqrt{2}-1}{2}\\Bigr)-2\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}-1}{2}\\Bigr)-\\ln^3\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0952087500"
+}

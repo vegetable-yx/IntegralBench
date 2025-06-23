@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{n=0}^{\\infty} \\frac{(-1)^n 2^{n+1/2}}{(2n+1)!}\\frac{\\Gamma\\left(1+\\frac{n}{2}\\right)\\Gamma\\left(\\frac{3}{2}+\\frac{n}{2}\\right)}{\\Gamma\\left(\\frac{5}{2}+n\\right)}",
+  "numerical_answer": "0.8225389134"
+}

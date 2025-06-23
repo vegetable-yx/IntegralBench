@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{96} - \\frac{\\pi}{2}\\ln^2(2) + \\frac{\\pi^2}{6}\\ln(2) - \\frac{1}{3}\\ln^3(2) - \\frac{1}{4}\\zeta(3)",
+  "numerical_answer": "-0.4932698766"
+}

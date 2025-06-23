@@ -1,0 +1,4 @@
+{
+  "answer": "2^{-\\frac{1}{4}}\\frac{\\Gamma(1/4)}{\\Gamma(3/4)}\\, _0F_1\\Bigl(;\\frac{5}{4}; -\\frac{1}{4}\\Bigr)",
+  "numerical_answer": "1.9370000000"
+}

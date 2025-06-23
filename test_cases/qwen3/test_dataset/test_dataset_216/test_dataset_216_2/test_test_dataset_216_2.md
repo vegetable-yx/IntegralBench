@@ -1,0 +1,1 @@
+{"answer": "\\boxed{2^{\\frac{1}{4}} \\sqrt{\\pi} J_{-\\frac{1}{4}}(1)}", "numerical_answer": "2.3448278070"}

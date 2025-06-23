@@ -1,0 +1,316 @@
+{"answer": "\\frac{1}{2}E\\left(\\arcsin\\frac{1}{4},4\\right)", "numerical_answer": "0.0984000000", "problem_number": "101"}
+{"answer": "I=\\frac{\\pi}{12}\\ln\\left(\\frac{\\sqrt3+1}{\\sqrt3-1}\\right)-\\frac{1}{4\\sqrt3}\\left[\\operatorname{Li}_2\\left(1-\\frac{\\sqrt3}{2}\\right)-\\operatorname{Li}_2\\left(1+\\frac{\\sqrt3}{2}\\right)\\right]", "numerical_answer": "0.4091420000", "problem_number": "102"}
+{"answer": "\\frac{\\pi}{12}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)+\\frac{1}{24}\\Bigl[\\operatorname{Li}_2\\Bigl(-\\frac{\\sqrt{3}-1}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{3}-1}{2}\\Bigr)\\Bigr]", "numerical_answer": "0.0507300000", "problem_number": "103"}
+{"answer": "$E(\\arcsin(1/4),4)$", "numerical_answer": "0.1943000000", "problem_number": "104"}
+{"answer": "$2E\\left(\\frac{\\pi}{6},2\\right)$", "numerical_answer": "0.8048000000", "problem_number": "105"}
+{"answer": "$\\mathrm{Li}_2(1/2)-\\mathrm{Li}_2(-1/2)$", "numerical_answer": "1.0309744501", "problem_number": "106"}
+{"answer": "$\\displaystyle \\frac{\\Gamma(1/4)^2-2\\,\\Gamma(3/4)^2}{4\\sqrt{2\\pi}}$", "numerical_answer": "1.0292710000", "problem_number": "107"}
+{"answer": "\\\\(\\\\displaystyle \\\\frac{2\\\\sqrt{2}\\\\,\\\\Gamma\\\\left(\\\\frac{1}{4}\\\\right)^2}{3\\\\sqrt{\\\\pi}}\\\\, _2F_1\\\\Bigl(-\\\\frac{1}{2},\\\\frac{1}{4};\\\\frac{3}{4};\\\\frac{1}{4}\\\\Bigr)\\\\)", "numerical_answer": "2.8370000000", "problem_number": "108"}
+{"answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{2\\,\\Gamma(5/4)}\\;_2F_1\\left(\\frac{1}{4},\\frac{1}{2};\\frac{5}{4};\\frac{1}{2}\\right)", "numerical_answer": "2.8590000000", "problem_number": "109"}
+{"answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{3}{4}\\right)}{2\\,\\Gamma\\left(\\frac{5}{4}\\right)}\\, {}_2F_1\\left(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{4}\\right)", "numerical_answer": "1.1705670000", "problem_number": "110"}
+{"answer": "\\sqrt{2}\\Biggl(\\frac{\\pi^3}{12} - \\frac{\\pi}{4}\\ln^2(2) + \\ln(2)\\,\\operatorname{Li}_2\\Bigl(\\frac{1}{2}\\Bigr) - \\operatorname{Li}_3\\Bigl(\\frac{1}{2}\\Bigr) + 2\\,\\operatorname{Li}_3\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Biggr)", "numerical_answer": "2.6266860000", "problem_number": "111"}
+{"answer": "\\frac{\\sqrt{2}\\,\\pi^{3/2}\\,\\Gamma(1/4)}{16\\,\\Gamma(3/4)} - \\frac{\\Gamma(1/4)^2}{8}\\,_2F_1\\Bigl(\\frac{1}{4},\\frac{1}{2};\\frac{3}{4};\\frac{1}{2}\\Bigr)", "numerical_answer": "2.3888290000", "problem_number": "112"}
+{"answer": "$I=\\frac{\\Gamma(1/4)^2}{16\\sqrt{2}}\\Bigl\\{8\\,{}_3F_2\\Bigl(\\frac{1}{4},\\frac{1}{2},\\frac{3}{4};\\frac{5}{4},1;1\\Bigr)-\\Gamma(1/4)^2\\Bigr\\}$", "numerical_answer": "1.2973670000", "problem_number": "113"}
+{"answer": "-\\frac{\\pi^{3/2}}{16}\\frac{\\Gamma(3/4)}{\\Gamma(5/4)}\\Bigl(6\\ln2+3\\psi(3/4)-3\\psi(5/4)\\Bigr)", "numerical_answer": "-0.7450000000", "problem_number": "114"}
+{"answer": "\\(\\frac{1}{4}\\Bigl[\\pi\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{3}{2};1,\\frac{3}{2};\\frac{1}{2}\\Bigr)-2\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{3}{2};\\frac{3}{2},\\frac{3}{2};\\frac{1}{2}\\Bigr)\\Bigr]\\)", "numerical_answer": "0.6606000000", "problem_number": "115"}
+{"answer": "\\frac{\\Gamma(\\tfrac{1}{4})^8}{1536\\pi^2}", "numerical_answer": "1.9530890000", "problem_number": "116"}
+{"answer": "\\frac{\\Gamma(1/4)^8 - 4\\pi^2\\Gamma(1/4)^4 + 96\\pi^4}{3072\\pi^2}", "numerical_answer": "1.0685000000", "problem_number": "117"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{128\\pi^2}", "numerical_answer": "23.5683582361", "problem_number": "118"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{1024\\pi^2}", "numerical_answer": "2.9511020000", "problem_number": "119"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^8}{2560\\sqrt{2}\\pi^2}", "numerical_answer": "0.8346854321", "problem_number": "120"}
+{"answer": "I = \\frac{3\\pi^{3/2}\\,\\Gamma(1/4)}{16\\,\\Gamma(3/4)}\\, _2F_1\\left(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{4}\\right)", "numerical_answer": "2.9600000000", "problem_number": "121"}
+{"answer": "\\frac{\\pi^{3/2}\\Gamma(1/4)^2}{16\\Gamma(3/4)^2}", "numerical_answer": "3.0460100000", "problem_number": "122"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "123"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^8+32\\pi^2\\Gamma(\\frac{1}{4})^4-512\\pi^4}{1024\\pi^2}", "numerical_answer": "3.3570000000", "problem_number": "124"}
+{"answer": "(\\Gamma(1/4)^8+8\\pi^2\\Gamma(1/4)^4-64\\pi^4)/(6144\\pi^2)", "numerical_answer": "0.6135300000", "problem_number": "125"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^4}{64\\sqrt{2\\pi}}", "numerical_answer": "1.0767184473", "problem_number": "126"}
+{"answer": "\\( \\frac{\\pi\\sqrt{2}}{4}\\, {}_1F_{2}\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};\\frac{1}{16}\\Bigr) \\)", "numerical_answer": "1.0568500000", "problem_number": "127"}
+{"answer": "$\\displaystyle \\frac{2^{1/4}e^{1/2}\\Gamma(3/4)}{2\\sqrt{\\pi}}\\,W_{-1/8,1/4}(1)$", "numerical_answer": "2.9478000000", "problem_number": "128"}
+{"answer": "\\frac{2e^{1/2}K_{1/4}(1/2)}{\\sqrt{\\pi}}", "numerical_answer": "2.8337560000", "problem_number": "129"}
+{"answer": "\\sqrt{2\\pi}e^{1/2}\\Bigl[I_{-1/4}(1/2)-I_{1/4}(1/2)\\Bigr]", "numerical_answer": "1.7739152190", "problem_number": "130"}
+{"answer": "$\n\\int_0^2 x^{-1/4}(2-x)^{1/4}I_0\\Bigl((x(2-x))^{1/4}\\Bigr)\\,dx=\\frac{9}{4}\\,\\Gamma\\Bigl(\\frac{3}{4}\\Bigr)\\Gamma\\Bigl(\\frac{5}{4}\\Bigr)\\,{}_1F_2\\Bigl(\\frac{1}{2};\\frac{3}{4},\\frac{5}{4};\\frac{1}{16}\\Bigr)\\,,$", "numerical_answer": "2.5778878477", "problem_number": "131"}
+{"answer": "$\\\\displaystyle \\\\frac{2^{3/2}\\\\sqrt{\\\\pi}\\\\,\\\\Gamma(1/4)}{20}\\\\;I_{3/4}(1/2)$", "numerical_answer": "0.3503000000", "problem_number": "132"}
+{"answer": "\\frac{\\sqrt{2\\pi}\\,e^{-\\frac{1}{2}}\\,\\Gamma\\left(\\frac{1}{4}\\right)\\,I_{-\\frac{1}{4}}\\left(\\frac{1}{2}\\right)}{4\\,\\Gamma\\left(\\frac{3}{4}\\right)}", "numerical_answer": "1.3569501234", "problem_number": "133"}
+{"answer": "$\\sqrt{2}\\pi$", "numerical_answer": "4.4428829382", "problem_number": "134"}
+{"answer": "$\\frac{3\\pi}{4}$", "numerical_answer": "2.3561944902", "problem_number": "135"}
+{"answer": "2E\\left(\\frac{1}{2}\\right)", "numerical_answer": "2.9349244187", "problem_number": "136"}
+{"answer": "$2$", "numerical_answer": "2.0000000000", "problem_number": "137"}
+{"answer": "$\\frac{1}{3}\\Bigl(I_1(6)K_2(6)-I_2(6)K_1(6)\\Bigr)$", "numerical_answer": "0.0138195000", "problem_number": "138"}
+{"answer": "$\\pi\\left[I_1(2)\\,L_0(2)-I_0(2)\\,L_1(2)\\right]$", "numerical_answer": "1.7800000000", "problem_number": "139"}
+{"answer": "16\\left[\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{8\\,\\Gamma(11/4)}\\,{}_2F_1\\left(-\\frac{1}{2},\\frac{1}{4};\\frac{11}{4};4\\right)-\\frac{\\sqrt{\\pi}\\,\\Gamma(7/4)}{8\\,\\Gamma(13/4)}\\,{}_2F_1\\left(-\\frac{1}{2},\\frac{3}{4};\\frac{13}{4};4\\right)\\right]", "numerical_answer": "4.0274000000", "problem_number": "140"}
+{"answer": "\\frac{\\pi}{2}\\left[I_1(a)\\,L_0(a)-I_0(a)\\,L_1(a)\\right]", "numerical_answer": "0.3366710000", "problem_number": "141"}
+{"answer": "$\\displaystyle \\sum_{m=0}^{\\infty}\\frac{\\left(\\frac{a^2}{4}\\right)^m}{(m!)^2\\,(2m+1)}$", "numerical_answer": "1.0865200000", "problem_number": "142"}
+{"answer": "\\frac{\\pi}{8}\\, _1F_2\\Bigl(\\frac{1}{2}; \\frac{3}{2},2;\\frac{a^2}{4}\\Bigr) - \\frac{a}{8}\\, _1F_2\\Bigl(1; \\frac{3}{2},\\frac{3}{2};\\frac{a^2}{4}\\Bigr)", "numerical_answer": "0.2695555000", "problem_number": "143"}
+{"answer": "$\\int_0^1 x^2\\arccos(x)\\,I_0(ax)\\,dx= \\frac{2}{3}\\,{}_{1}F_{2}\\left(1;\\frac{3}{2},\\frac{5}{2};\\frac{a^2}{4}\\right) - \\frac{a^2}{6}\\,{}_{1}F_{2}\\left(1;\\frac{5}{2},3;\\frac{a^2}{4}\\right)$", "numerical_answer": "0.5400625000", "problem_number": "144"}
+{"answer": "\\frac{\\pi a}{4}\\Bigl[I_0(a)-L_0(a)\\Bigr]-\\frac{a}{2}\\Bigl[I_1(a)-L_1(a)\\Bigr]", "numerical_answer": "0.4697350000", "problem_number": "145"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^4}{16\\sqrt{2\\pi}}", "numerical_answer": "4.3000000000", "problem_number": "146"}
+{"answer": "\\frac{\\Gamma(1/4)^4}{4 \\sqrt{2\\pi}}", "numerical_answer": "17.2300000000", "problem_number": "147"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^4}{16\\sqrt{2}\\pi}", "numerical_answer": "2.4248006650", "problem_number": "148"}
+{"answer": "\\frac{\\pi^2\\sqrt{2}}{2}\\, {}_{3}F_{2}\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};1,1;\\frac{1}{2}\\Bigr)", "numerical_answer": "7.5430000000", "problem_number": "149"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^4}{4\\sqrt{2\\pi}}", "numerical_answer": "17.2280000000", "problem_number": "150"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "151"}
+{"answer": "\\frac{\\Gamma(1/4)^4}{16\\sqrt{2\\pi}}", "numerical_answer": "4.3020000000", "problem_number": "152"}
+{"answer": "\\frac{1}{2}\\Bigl(\\operatorname{Li}_{3}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_{3}\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)-\\frac{1}{8}\\ln\\frac{\\sqrt{2}+1}{\\sqrt{2}-1}\\Bigl(\\operatorname{Li}_{2}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_{2}\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)", "numerical_answer": "0.3885190000", "problem_number": "153"}
+{"answer": "$\\frac{1}{8}\\Bigl[26\\,\\operatorname{Li}_3\\Bigl(\\frac{1}{2}\\Bigr)-13\\,\\ln2\\,\\operatorname{Li}_2\\Bigl(\\frac{1}{2}\\Bigr)+\\ln^3 2\\Bigr]$", "numerical_answer": "1.1320640000", "problem_number": "154"}
+{"answer": "$\\frac{\\pi^2-2\\ln^2 2-4\\operatorname{Li}_2(1/2)+4\\operatorname{Li}_2(-1/2)}{8}$", "numerical_answer": "0.5982594000", "problem_number": "155"}
+{"answer": "\\frac{\\pi^2}{8} - \\frac{\\pi}{4}\\ln^2 2 - \\frac{1}{2}\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)", "numerical_answer": "0.5648302869", "problem_number": "156"}
+{"answer": "$12 \\sqrt{\\pi}e^{-1/4}$", "numerical_answer": "16.5786195060", "problem_number": "157"}
+{"answer": "$1$", "numerical_answer": "1.0000000000", "problem_number": "158"}
+{"answer": "a^{3/2}\\sum_{n\\ge0}\\frac{(a\\,b^2)^n}{(2n)!}\\frac{\\Gamma(n/2+3/2)\\,\\Gamma(n/2+1)}{\\Gamma(n+5/2)}", "numerical_answer": "0.8047619048", "problem_number": "159"}
+{"answer": "8\\sqrt{a}\\Biggl[ {}_1F_2\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};\\frac{b^2a}{16}\\Bigr)-\\frac{3}{4}\\Biggr]", "numerical_answer": "2.3358200000", "problem_number": "160"}
+{"answer": "a\\,\\Gamma\\left(\\frac{5}{4}\\right)\\Gamma\\left(\\frac{3}{4}\\right)\\, {}_0F_1\\left(;2;\\frac{b^4a^2}{256}\\right)+\\frac{b^2a^2}{16}\\,\\Gamma\\left(\\frac{7}{4}\\right)\\Gamma\\left(\\frac{5}{4}\\right)", "numerical_answer": "1.1649904362", "problem_number": "161"}
+{"answer": "$I=2^{3/4}a^{1/2}\\,\\Gamma\\left(\\frac{3}{4}\\right)e^{\\frac{b^2a}{32}}W_{-\\frac{1}{4},0}\\Bigl(\\frac{b^2a}{16}\\Bigr)$", "numerical_answer": "2.1287767747", "problem_number": "162"}
+{"answer": "\\zeta(3,\\frac{1}{4}) - \\zeta(3,\\frac{3}{4})", "numerical_answer": "62.0101100000", "problem_number": "163"}
+{"answer": "$7\\pi^4+384$", "numerical_answer": "1065.8636372380", "problem_number": "164"}
+{"answer": "$(\\frac{\\pi}{2})\\left[\\mathbf{H}_0(2)-Y_0(2)\\right]$", "numerical_answer": "1.5717050000", "problem_number": "165"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "166"}
+{"answer": "\\frac{\\pi}{4}\\, {}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};1,\\frac{3}{2};\\frac{1}{4}\\Bigr)", "numerical_answer": "1.2583000000", "problem_number": "167"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{128\\pi^2}", "numerical_answer": "23.6672002070", "problem_number": "168"}
+{"answer": "$\nI=\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{12}\\;_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;\\frac34,\\frac54;\\frac14\\Bigr)-\\frac{\\Gamma(1/4)^4}{96\\pi}\\,,$", "numerical_answer": "1.4454478166", "problem_number": "169"}
+{"answer": "I=\\frac{1}{32}\\Bigl[16\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};\\frac{3}{2},\\frac{3}{2};\\frac{1}{16}\\Bigr)-8\\,\\ln2\\,{}_3F_2\\Bigl(\\frac{1}{2},\\frac{1}{2},1;\\frac{3}{2},\\frac{3}{2};\\frac{1}{16}\\Bigr)\\Bigr]", "numerical_answer": "0.3326170000", "problem_number": "170"}
+{"answer": "I=\\frac{1}{2^{17}\\pi^2}\\Biggl\\{\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)^8\\, _2F_1\\Bigl(\\frac{1}{4},\\frac{1}{4};\\frac{1}{2};\\frac{1}{16}\\Bigr) -8\\,\\Gamma\\Bigl(\\frac{3}{4}\\Bigr)^8\\, _2F_1\\Bigl(\\frac{3}{4},\\frac{3}{4};\\frac{3}{2};\\frac{1}{16}\\Bigr)\\Biggr\\}", "numerical_answer": "0.0160640000", "problem_number": "171"}
+{"answer": "\\( \\frac{\\Gamma(1/4)^2}{64\\sqrt{2\\pi}}\\Bigl[ 8\\sqrt{\\pi}\\,_2F_1\\Bigl(-\\frac12,\\frac14;\\frac34;\\frac12\\Bigr)-\\Gamma(1/4)^2 \\Bigr] \\)", "numerical_answer": "0.2234500000", "problem_number": "172"}
+{"answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)^2}{32\\,\\Gamma(5/4)}\\;_3F_2\\left(\\begin{array}{c}1/2,1/2,1\\\\3/2,3/2\\end{array};1/4\\right)", "numerical_answer": "0.0497300000", "problem_number": "173"}
+{"answer": "\\\\frac{\\\\pi}{8}\\\\Biggl[\\\\pi\\\\,\\\\arcsin^2\\\\!\\\\left(\\\\frac{1}{4}\\\\right)-2\\\\,\\\\arctan\\\\!\\\\left(\\\\sqrt{15}\\\\right)\\\\,\\\\arcsin\\\\!\\\\left(\\\\frac{1}{4}\\\\right)+\\\\operatorname{Li}_2\\\\Bigl(\\\\frac{1}{4}+\\\\frac{i\\\\sqrt{15}}{4}\\\\Bigr)+\\\\operatorname{Li}_2\\\\Bigl(\\\\frac{1}{4}-\\\\frac{i\\\\sqrt{15}}{4}\\\\Bigr)\\\\Biggr]", "numerical_answer": "0.0500082487", "problem_number": "174"}
+{"answer": "I = \\\\frac{\\\\pi^{3/2}\\\\,\\\\Gamma(3/4)^2}{16\\\\,\\\\Gamma(5/4)^2}\\\\Biggl\\\\{\\\\;_2F_1\\\\Bigl(-\\\\frac12,\\\\frac12;\\\\frac34;\\\\frac14\\\\Bigr)-2\\\\, _2F_1\\\\Bigl(-\\\\frac12,\\\\frac12;\\\\frac54;\\\\frac14\\\\Bigr)\\\\Biggr\\\\}", "numerical_answer": "0.3141592654", "problem_number": "175"}
+{"answer": "$\\frac{\\pi}{4}\\, {}_3F_2\\left(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};\\frac{3}{2},\\frac{3}{2};\\frac{1}{4}\\right)$", "numerical_answer": "0.4186865723", "problem_number": "176"}
+{"answer": "I(a)=\\frac{\\pi}{2}\\,{}_1F_{2}\\left(\\frac{1}{2};\\frac{3}{4},\\frac{5}{4};-\\frac{a^2}{16}\\right)-\\frac{a\\,\\Gamma(3/4)^2}{2\\sqrt{2}\\,\\Gamma(5/4)}\\,{}_1F_{2}\\left(1;\\frac{3}{4},\\frac{3}{2};-\\frac{a^2}{16}\\right)", "numerical_answer": "0.9660000000", "problem_number": "177"}
+{"answer": "\\frac{\\sqrt{2\\pi}}{32}\\Bigl[ {}_1F_2\\Bigl(\\frac{3}{2};\\frac{3}{4},\\frac{5}{4};-\\frac{1}{4}\\Bigr)- {}_1F_2\\Bigl(\\frac{3}{2};\\frac{5}{4},\\frac{7}{4};-\\frac{1}{4}\\Bigr)\\Bigr]", "numerical_answer": "0.0473333333", "problem_number": "178"}
+{"answer": "$\\displaystyle \\frac12\\,_1F_2\\Bigl(1;\\frac32,2;-1\\Bigr)-\\frac13\\,_1F_2\\Bigl(1;2,\\frac52;-1\\Bigr)$", "numerical_answer": "0.0929860000", "problem_number": "179"}
+{"answer": "\\frac{\\sqrt{2}\\,\\Gamma(3/4)^2}{4\\sqrt{\\pi}}\\Bigl[J_{-1/4}(\\sqrt{2})-J_{1/4}(\\sqrt{2})\\Bigr]", "numerical_answer": "0.6939027370", "problem_number": "180"}
+{"answer": "\\frac{e^{-2}\\Bigl(4\\,\\operatorname{Ei}(2)-4\\,\\operatorname{Ei}(-2)-\\pi\\Bigr)}{16}", "numerical_answer": "0.1426000000", "problem_number": "181"}
+{"answer": "\\frac{1}{2}\\Bigl(\\pi\\ln\\frac{\\sqrt{5}+1}{2}+\\operatorname{Li}_{2}\\Bigl(\\frac{1-\\sqrt{5}}{2}\\Bigr)-\\operatorname{Li}_{2}\\Bigl(\\frac{1+\\sqrt{5}}{2}\\Bigr)\\Bigr)", "numerical_answer": "0.7108322500", "problem_number": "182"}
+{"answer": "\\frac{\\pi}{4}\\ln\\left(2+\\sqrt{5}\\right)", "numerical_answer": "1.1341100000", "problem_number": "183"}
+{"answer": "\\frac{\\pi \\ln(3)}{8}", "numerical_answer": "0.4314240369", "problem_number": "184"}
+{"answer": "\\frac{\\sqrt{\\pi}}{4}\\frac{\\Gamma\\Bigl(\\frac{3+\\sqrt{8}}{4}\\Bigr)}{\\Gamma\\Bigl(\\frac{5+\\sqrt{8}}{4}\\Bigr)}\\, _2F_1\\Bigl(\\frac12,\\frac{3+\\sqrt{8}}{4};\\frac{5+\\sqrt{8}}{4};-1\\Bigr)", "numerical_answer": "0.0754740000", "problem_number": "185"}
+{"answer": "\\frac{1}{8}\\Biggl[\\pi\\,\\operatorname{arctanh}\\frac{1}{\\sqrt2+\\sqrt3}-\\operatorname{Li}_2\\Bigl(-\\frac{1}{\\sqrt2+\\sqrt3}\\Bigr)+\\operatorname{Li}_2\\Bigl(\\frac{1}{\\sqrt2+\\sqrt3}\\Bigr)\\Biggr]", "numerical_answer": "0.0496000000", "problem_number": "186"}
+{"answer": "\\frac{\\pi}{8}+\\frac{\\sqrt{\\pi}}{4}\\frac{\\Gamma\\Bigl(\\frac{11+\\sqrt{120}+1}{4}\\Bigr)}{\\Gamma\\Bigl(\\frac{11+\\sqrt{120}+3}{4}\\Bigr)}\\Bigl[\\psi\\Bigl(\\frac{11+\\sqrt{120}+3}{4}\\Bigr)-\\psi\\Bigl(\\frac{11+\\sqrt{120}+1}{4}\\Bigr)\\Bigr]", "numerical_answer": "0.4095000000", "problem_number": "187"}
+{"answer": "\\frac{\\pi}{16}\\, {}_2F_1\\Bigl(1,\\frac{1}{2\\left(13+\\sqrt{168}\\right)};1+\\frac{1}{2\\left(13+\\sqrt{168}\\right)};-1\\Bigr)", "numerical_answer": "0.1932010000", "problem_number": "188"}
+{"answer": "$\\displaystyle \\frac{1}{2\\sqrt5}\\Biggl[\\Li_2\\Bigl(\\frac{3-\\sqrt5}{2}\\Bigr)-\\Li_2\\Bigl(\\frac{3+\\sqrt5}{2}\\Bigr)\\Biggr]+\\frac{\\pi}{4\\sqrt5}\\ln\\Bigl(\\frac{\\sqrt5+1}{2}\\Bigr)$", "numerical_answer": "0.7094720529", "problem_number": "189"}
+{"answer": "\\(I = \\frac{1}{64}\\Biggl\\{\\pi\\Bigl[8\\ln^2(1+\\sqrt{2})-16\\ln(2)\\ln(1+\\sqrt{2})+8\\ln^2(2)-\\pi^2\\Bigr]+32\\Bigl[\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_2\\Bigl(1-\\sqrt{2}\\Bigr)\\Bigr]\\Biggr\\}\\) ", "numerical_answer": "0.0614600000", "problem_number": "190"}
+{"answer": "\\frac{1}{64}\\Bigl\\{(3+2\\sqrt{2})\\ln^3(1+\\sqrt{2}) - 6\\ln(1+\\sqrt{2})\\operatorname{Li}_2(1-\\sqrt{2}) - 12\\operatorname{Li}_3(1-\\sqrt{2}) + 12\\operatorname{Li}_3\\Bigl(\\frac{1}{1+\\sqrt{2}}\\Bigr)\\Bigr\\}", "numerical_answer": "0.0647240000", "problem_number": "191"}
+{"answer": "\\displaystyle \\frac{\\pi}{8}\\ln^2\\!\\left(\\frac{\\sqrt{2}+1}{2}\\right)+\\frac{1}{8}\\Bigl[\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_2\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]", "numerical_answer": "0.3678794412", "problem_number": "192"}
+{"answer": "\\frac{1}{8}\\Bigl\\{\\pi\\ln^3(1+\\sqrt{2})-6\\ln(1+\\sqrt{2})\\Bigl[\\operatorname{Li}_2(\\frac{1}{2}-\\frac{1}{2\\sqrt{2}})+\\operatorname{Li}_2(\\frac{1}{2}+\\frac{1}{2\\sqrt{2}})\\Bigr]+6\\Bigl[\\operatorname{Li}_3(\\frac{1}{2}-\\frac{1}{2\\sqrt{2}})+\\operatorname{Li}_3(\\frac{1}{2}+\\frac{1}{2\\sqrt{2}})\\Bigr]\\Bigr\\}", "numerical_answer": "0.2336831053", "problem_number": "193"}
+{"answer": "\\displaystyle \\frac{\\pi}{12}\\Bigl(\\pi-6+\\sqrt{3}\\ln\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\Bigr)+\\frac{1}{3}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{1}{2}-\\frac{\\sqrt{3}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1}{2}+\\frac{\\sqrt{3}}{2}\\Bigr)\\Bigr]", "numerical_answer": "0.1949999898", "problem_number": "194"}
+{"answer": "2 - \\frac{\\pi}{2}", "numerical_answer": "0.4292036732", "problem_number": "195"}
+{"answer": "\\frac{1}{48}\\Bigl(\\pi^2 - 6\\operatorname{Li}_2\\Bigl(e^{i\\pi/3}\\Bigr) - 6\\operatorname{Li}_2\\Bigl(e^{-i\\pi/3}\\Bigr)\\Bigr)", "numerical_answer": "0.1114940000", "problem_number": "196"}
+{"answer": "$\\frac{1}{4}$", "numerical_answer": "0.2500000000", "problem_number": "197"}
+{"answer": "I=\\frac{\\pi}{\\sqrt{2}}\\Bigl[J_{-\\frac{1}{4}}\\Bigl(\\frac{1}{2}\\Bigr)J_{\\frac{3}{4}}\\Bigl(\\frac{1}{2}\\Bigr)+J_{\\frac{1}{4}}\\Bigl(\\frac{1}{2}\\Bigr)J_{-\\frac{3}{4}}\\Bigl(\\frac{1}{2}\\Bigr)\\Bigr]", "numerical_answer": "1.6489000000", "problem_number": "198"}
+{"answer": "$\\frac{\\pi}{2}\\Bigl[J_{-\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-J_{\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]$", "numerical_answer": "1.2710000000", "problem_number": "199"}
+{"answer": "\\frac{\\pi}{2}\\Bigl[J_{-\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2 - J_{\\frac{1}{4}}\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)^2\\Bigr]", "numerical_answer": "0.6250000000", "problem_number": "200"}
+{"answer": "\\pi J_{1}(1)", "numerical_answer": "1.3820000000", "problem_number": "201"}
+{"answer": "\\pi J_{1}(1)", "numerical_answer": "1.3824596870", "problem_number": "202"}
+{"answer": "$\\pi\\left[J_0(1)+J_2(1)\\right]-2J_1(1)$", "numerical_answer": "1.8844998300", "problem_number": "203"}
+{"answer": "$\\displaystyle \\frac{\\pi}{2^{5/4}\\,\\Gamma(3/4)}\\Bigl[I_{-1/4}\\Bigl(\\frac{1}{2}\\Bigr)-I_{1/4}\\Bigl(\\frac{1}{2}\\Bigr)\\Bigr]$", "numerical_answer": "1.4000000000", "problem_number": "204"}
+{"answer": "\\frac{\\sqrt{2\\pi}}{2}\\left(\\frac{\\Gamma(3/4)}{\\Gamma(5/4)}J_{-1/4}(1)-\\frac{\\Gamma(5/4)}{\\Gamma(7/4)}J_{1/4}(1)\\right)", "numerical_answer": "0.8200000000", "problem_number": "205"}
+{"answer": "\\frac{\\sqrt{\\pi}}{4}\\Bigl[\\Gamma(1/4)\\, _1F_1(1/4;1/2;-1)+2\\,\\Gamma(3/4)\\, _1F_1(3/4;3/2;-1)\\Bigr]", "numerical_answer": "1.5047753661", "problem_number": "206"}
+{"answer": "I = \\frac{\\sqrt{\\pi}}{2^{1/4}}\\Bigl[(\\gamma+2\\ln2)\\sin\\frac{\\pi}{8}-\\frac{\\pi}{2}\\cos\\frac{\\pi}{8}\\Bigr]", "numerical_answer": "-1.0434983895", "problem_number": "207"}
+{"answer": "\\frac{\\pi^2+8\\ln^2 2-16\\operatorname{Li}_2(\\frac{1}{2})+16\\operatorname{Li}_2(-\\frac{1}{2})}{96}+\\frac{7}{18}", "numerical_answer": "0.3599500000", "problem_number": "208"}
+{"answer": "\\frac{\\pi^3}{48}+\\frac{\\pi}{8}\\ln^2(2)-\\frac{1}{2}\\ln(2)\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)+\\frac{1}{2}\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)", "numerical_answer": "0.9017050000", "problem_number": "210"}
+{"answer": "$\\pi e^{-1/2}\\Bigl[I_{-1/4}(1/2)-I_{1/4}(1/2)\\Bigr]$", "numerical_answer": "0.8237000000", "problem_number": "211"}
+{"answer": "$(\\frac{\\pi}{2})(J_0(1)-J_2(1))$", "numerical_answer": "1.0210176120", "problem_number": "212"}
+{"answer": "\\pi J_0(1)", "numerical_answer": "2.4041138066", "problem_number": "213"}
+{"answer": "$\\pi J_0(1)$", "numerical_answer": "2.4041138063", "problem_number": "214"}
+{"answer": "$(\\frac{\\Gamma(3/4)^2}{\\Gamma(3/2)})\\,_0F_1\\left(;\\frac{3}{2};-\\frac{1}{4}\\right)$", "numerical_answer": "1.4260000000", "problem_number": "215"}
+{"answer": "$\\pi\\sqrt{2}\\,J_0(1)$", "numerical_answer": "3.4011620000", "problem_number": "216"}
+{"answer": "\\frac{\\Gamma(1/4)^2\\cos 2}{\\sqrt{\\pi}}", "numerical_answer": "-3.0849000000", "problem_number": "217"}
+{"answer": "$(\\frac{\\pi\\ln^2 2}{6}+\\frac{\\zeta(3)}{8}+\\frac{\\pi^2\\ln2}{72}-\\frac{\\ln^3 2}{24})$", "numerical_answer": "0.4826937992", "problem_number": "218"}
+{"answer": "$\\sqrt{2}\\pi\\left[J_{-1/4}(1/4)-J_{1/4}(1/4)\\right]$", "numerical_answer": "3.0891510000", "problem_number": "219"}
+{"answer": "\\frac{5\\pi}{4\\sqrt{2}}", "numerical_answer": "2.7768018363", "problem_number": "220"}
+{"answer": "\\frac{3\\pi}{16}", "numerical_answer": "0.5890486225", "problem_number": "221"}
+{"answer": "$3\\pi$", "numerical_answer": "9.4247779608", "problem_number": "222"}
+{"answer": "\\frac{\\pi^3}{48} + \\frac{\\pi}{8}\\ln^2(2) + \\frac{1}{4}\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)", "numerical_answer": "0.9690100000", "problem_number": "223"}
+{"answer": "\\frac{\\pi}{8}\\ln^2(3+2\\sqrt{2})+\\frac{1}{4}\\Bigl[\\operatorname{Li}_2(1/\\sqrt{2})-\\operatorname{Li}_2(-1/\\sqrt{2})\\Bigr]", "numerical_answer": "1.5039042786", "problem_number": "224"}
+{"answer": "$(\\pi/2)\\ln^2 2+4\\,\\Im\\,\\Li_3(1+i)$", "numerical_answer": "2.8289072402", "problem_number": "225"}
+{"answer": "$\n\\frac{\\pi^3}{16}+\\frac{\\pi}{4}\\ln^2\\Bigl(\\frac{1+\\sqrt2}{2}\\Bigr)+\\frac12\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt2}{2}\\Bigr)-\\frac12\\operatorname{Li}_2\\Bigl(1+\\frac{\\sqrt2}{2}\\Bigr)$", "numerical_answer": "1.9379000000", "problem_number": "226"}
+{"answer": "$I=\\frac{1}{96}\\Bigl\\{16\\Bigl[\\operatorname{Li}_3(2-\\sqrt2)-\\operatorname{Li}_3(\\sqrt2-1)\\Bigr]-8\\ln(1+\\sqrt2)\\Bigl[\\operatorname{Li}_2(2-\\sqrt2)-\\operatorname{Li}_2(\\sqrt2-1)\\Bigr]+\\ln^3(1+\\sqrt2)+6\\pi^2\\ln(1+\\sqrt2)+48\\zeta(3)\\Bigr\\}$", "numerical_answer": "0.2362170000", "problem_number": "227"}
+{"answer": "\\frac{1}{16}\\Bigl[\\operatorname{Li}_3(1-\\sqrt{2})-\\operatorname{Li}_3(1+\\sqrt{2})\\Bigr]-\\frac{\\pi^2}{16}\\ln(1+\\sqrt{2})+\\frac{1}{12}\\ln^3(1+\\sqrt{2})", "numerical_answer": "0.0937000000", "problem_number": "229"}
+{"answer": "$\\frac{\\pi^3-12\\pi\\ln^2(1+\\sqrt{2})+8\\ln^3(1+\\sqrt{2})}{48}$", "numerical_answer": "0.1490970000", "problem_number": "230"}
+{"answer": "\\sqrt{2}", "numerical_answer": "1.4142135624", "problem_number": "231"}
+{"answer": "\\frac{\\pi \\sqrt{2}}{4}\\, _2F_1\\left(\\frac{3}{2},\\frac{3}{4};2;\\frac{1}{4}\\right)", "numerical_answer": "1.3030000000", "problem_number": "232"}
+{"answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)^2}{4}", "numerical_answer": "5.8257500000", "problem_number": "233"}
+{"answer": "$2$", "numerical_answer": "2.0000000000", "problem_number": "234"}
+{"answer": "\\frac{\\sqrt{2}\\,\\Gamma(1/4)^2}{2\\sqrt{\\pi}}", "numerical_answer": "5.2430880338", "problem_number": "235"}
+{"answer": "$\\frac{\\pi\\sqrt{2}}{4}\\, {}_2F_1\\left(1,\\frac{3}{2};2;\\frac{1}{4}\\right)$", "numerical_answer": "1.3730000000", "problem_number": "236"}
+{"answer": "$\\displaystyle \\\\frac{13\\\\pi}{6\\\\,3^{1/4}}$", "numerical_answer": "5.1754444763", "problem_number": "237"}
+{"answer": "\\frac{\\sqrt{2}\\,\\Gamma(1/4)^2}{3\\sqrt{\\pi}}", "numerical_answer": "3.4964310108", "problem_number": "238"}
+{"answer": "\\frac{1}{2a}\\left\\{\\pi\\Bigl[I_0(a)\\,L_1(a)-I_1(a)\\,L_0(a)\\Bigr]-2\\right\\}", "numerical_answer": "0.6496340000", "problem_number": "239"}
+{"answer": "\\frac{1}{2}(2\\ln2-1)", "numerical_answer": "0.1931471806", "problem_number": "240"}
+{"answer": "\\frac{\\Gamma(1/4)^2}{16\\sqrt{2\\pi}}\\Bigl[\\psi(1/4)-\\psi(3/4)\\Bigr]", "numerical_answer": "-0.8610000000", "problem_number": "241"}
+{"answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(\\frac{1}{3})^3}{12\\,\\Gamma(\\frac{5}{6})}", "numerical_answer": "2.5160032832", "problem_number": "242"}
+{"answer": "\\frac{1}{8}\\left[\\psi^{(1)}\\left(\\frac{1}{4}\\right)-\\psi^{(1)}\\left(\\frac{3}{4}\\right)\\right]", "numerical_answer": "1.4218387375", "problem_number": "243"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{128\\pi^2}", "numerical_answer": "23.6822845259", "problem_number": "244"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^8}{512\\sqrt{2}\\pi^2}", "numerical_answer": "4.1940169294", "problem_number": "245"}
+{"answer": "\\frac{9}{280}\\;_4F_3\\Bigl(\\begin{array}{c} 4,4,4,4\\\\[1mm] \\frac{1}{2}, \\frac{9}{2}, 8 \\end{array}\\Bigl|1\\Bigr)", "numerical_answer": "0.0879654321", "problem_number": "246"}
+{"answer": "\\frac{\\Gamma(1/4)^8 - 4\\pi^2\\Gamma(1/4)^4 + 16\\pi^4}{5120\\pi^2}", "numerical_answer": "0.4867271196", "problem_number": "247"}
+{"answer": "\\frac{\\pi}{4}\\ln\\left(\\frac{3+\\sqrt{5}}{3-\\sqrt{5}}\\right)+\\frac{1}{2}\\left[\\operatorname{Li}_2\\left(\\frac{\\sqrt{5}-1}{2\\sqrt{5}}\\right)-\\operatorname{Li}_2\\left(-\\frac{\\sqrt{5}+1}{2\\sqrt{5}}\\right)\\right]", "numerical_answer": "1.8878000000", "problem_number": "248"}
+{"answer": "\\frac{\\pi}{2}(\\sqrt{5}-2)", "numerical_answer": "0.3707655928", "problem_number": "249"}
+{"answer": "$\\pi(\\sqrt{2}-1)$", "numerical_answer": "1.3007025361", "problem_number": "250"}
+{"answer": "\\pi \\ln\\left(1+\\sqrt{2}\\right)", "numerical_answer": "2.7690356807", "problem_number": "251"}
+{"answer": "\\pi \\ln\\left(1+\\sqrt{2}\\right)", "numerical_answer": "2.7689320221", "problem_number": "252"}
+{"answer": "-3\\pi", "numerical_answer": "-9.4247779608", "problem_number": "254"}
+{"answer": "$-3\\pi$", "numerical_answer": "$-9.4247779608$", "problem_number": "255"}
+{"answer": "$-3\\sqrt{2}\\pi$", "numerical_answer": "-13.3286488120", "problem_number": "256"}
+{"answer": "2\\sqrt{\\pi}e^{-\\frac{1}{4}}", "numerical_answer": "2.7621742633", "problem_number": "258"}
+{"answer": "\\frac{\\pi}{2}\\Bigl[J_{1}(1)\\,\\mathbf{H}_{0}(1)-J_{0}(1)\\,\\mathbf{H}_{1}(1)\\Bigr]", "numerical_answer": "0.1541000000", "problem_number": "259"}
+{"answer": "\\frac{\\pi}{2}\\left[J_0(1)H_0(1)-J_1(1)H_1(1)\\right]", "numerical_answer": "0.8715978478", "problem_number": "260"}
+{"answer": "1+\\frac{\\pi}{2}\\Bigl[J_{0}(a)\\,L_{1}(a)-J_{1}(a)\\,L_{0}(a)\\Bigr]", "numerical_answer": "1.0235600000", "problem_number": "261"}
+{"answer": "\\frac{\\pi}{2a}\\Bigl[J_0(a)H_0(a)-J_1(a)H_1(a)\\Bigr]", "numerical_answer": "0.5457000000", "problem_number": "262"}
+{"answer": "\\frac{\\pi\\Bigl[ J_0(a)\\,H_0(a)-J_1(a)\\,H_1(a)\\Bigr]-2J_1(a)}{2a}", "numerical_answer": "0.1464000000", "problem_number": "264"}
+{"answer": "\\frac{1}{a^2} - \\frac{\\pi}{2a}\\Bigl[J_0(a)\\,H_1(a)+J_1(a)\\,H_0(a)\\Bigr]", "numerical_answer": "0.3700000000", "problem_number": "265"}
+{"answer": "\\frac{\\pi}{2}\\left[J_0(a)\\mathbf{H}_0(a)-J_1(a)\\mathbf{H}_1(a)\\right]", "numerical_answer": "0.5464780000", "problem_number": "266"}
+{"answer": "\\frac{-\\pi^3+12\\pi\\ln^2(2)-24\\ln(2)\\,\\operatorname{Li}_2(\\frac12)+48\\operatorname{Li}_3(\\frac12)}{32}", "numerical_answer": "0.1012194000", "problem_number": "267"}
+{"answer": "\\frac{\\pi \\zeta(3)}{8}", "numerical_answer": "0.4720466563", "problem_number": "268"}
+{"answer": "\\frac{1}{48}\\Bigl[8\\sqrt{3}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)+\\pi\\Bigl(16-6\\sqrt{3}-16\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)\\Bigr)+16\\,\\Im\\Bigl(\\Li_2\\Bigl(\\frac{1+i\\sqrt{3}}{2}\\Bigr)\\Bigr)\\Bigr]", "numerical_answer": "0.0372458200", "problem_number": "269"}
+{"answer": "\\frac{\\pi^3}{96} - \\frac{\\pi^2}{64} - \\frac{\\pi\\sqrt{3}}{192} + \\frac{\\sqrt{3}}{32}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr) + \\frac{1}{64}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{1-\\sqrt{3}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{3}-1}{2}\\Bigr)\\Bigr]", "numerical_answer": "0.0205459000", "problem_number": "270"}
+{"answer": "$\\frac{19\\pi}{512}$", "numerical_answer": "0.1166400391", "problem_number": "271"}
+{"answer": "\\frac{\\pi (2-\\sqrt{2})}{2\\sqrt{2}}-\\frac{\\pi}{4}\\ln\\frac{3+2\\sqrt{2}}{4}", "numerical_answer": "0.3552400169", "problem_number": "272"}
+{"answer": "$$\\frac{\\pi^2}{96}+\\frac{1}{64}\\ln^2\\!\\Bigl(\\frac{\\sqrt{2}-1}{\\sqrt{2}+1}\\Bigr)+\\frac{1}{32}\\Bigl[\\operatorname{Li}_2(1-\\sqrt{2})-\\operatorname{Li}_2(1+\\sqrt{2})\\Bigr]$$", "numerical_answer": "0.1197189462", "problem_number": "273"}
+{"answer": "I = \\frac{a^3}{3}\\,_0F_1\\Bigl(;\\frac{5}{2};\\frac{b^2a^2}{16}\\Bigr)", "numerical_answer": "0.3419642857", "problem_number": "274"}
+{"answer": "I=\\frac{2a^{3/2}}{3}\\;{}_0F_1\\left(;\\frac{5}{2};\\frac{b^2a^2}{16}\\right)", "numerical_answer": "0.6834828313", "problem_number": "275"}
+{"answer": "2\\sqrt{a}\\;_0F_1\\left(;\\frac{3}{2};\\frac{a^2b^2}{16}\\right)", "numerical_answer": "2.3518900000", "problem_number": "276"}
+{"answer": "\\frac{\\pi a^2}{8}\\Bigl[I_0\\Bigl(\\frac{ab}{2}\\Bigr)+I_2\\Bigl(\\frac{ab}{2}\\Bigr)\\Bigr]", "numerical_answer": "0.4671371710", "problem_number": "277"}
+{"answer": "\\frac{a\\pi}{2}I_0\\left(\\frac{ab}{2}\\right)", "numerical_answer": "1.6702012597", "problem_number": "278"}
+{"answer": "\\pi I_0\\left(\\frac{a b}{4}\\right)", "numerical_answer": "3.1921753297", "problem_number": "279"}
+{"answer": "\\\\frac{\\\\sqrt{\\\\pi} 2^{1/4} a^{1/4}}{b^{1/4}} I_{1/4}\\\\left(\\\\frac{ab}{2}\\\\right)", "numerical_answer": "1.7270000000", "problem_number": "280"}
+{"answer": "\\pi\\sqrt{2}\\, {}_0F_1\\left(;1;\\frac{a^2b^2}{4}\\right)", "numerical_answer": "5.6150263819", "problem_number": "281"}
+{"answer": "I=\\frac{\\Gamma(\\frac{1}{4})^2}{\\sqrt{\\pi}\\,a^{1/2}}\\, {}_1F_2\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};\\frac{a^2b^2}{16}\\Bigr)", "numerical_answer": "7.7248221345", "problem_number": "282"}
+{"answer": "$(\\frac{\\pi}{8}\\ln^2\\frac{1+\\sqrt{5}}{2}+\\frac{1}{4}\\Bigl(\\operatorname{Li}_2(\\frac{1-\\sqrt{5}}{2})-\\operatorname{Li}_2(\\frac{\\sqrt{5}-1}{2})\\Bigr))$", "numerical_answer": "0.4655350000", "problem_number": "283"}
+{"answer": "$$\\frac{1}{8}\\Bigl[(4-\\pi)\\ln^2(1+\\sqrt{2})+8\\,\\Li_2\\Bigl(2-\\sqrt{2}\\Bigr)-8\\,\\Li_2\\Bigl(\\sqrt{2}-1\\Bigr)\\Bigr]$$", "numerical_answer": "0.3138283837", "problem_number": "284"}
+{"answer": "$\nI=\\frac{1}{128}\\Bigl[16\\,\\operatorname{Li}_2\\Bigl(\\frac{1}{\\sqrt2}\\Bigr)-16\\,\\operatorname{Li}_2\\Bigl(-\\frac{1}{\\sqrt2}\\Bigr)+8\\ln^2(1+\\sqrt2)-\\pi^2\\Bigr]\\,,$", "numerical_answer": "0.1077349896", "problem_number": "285"}
+{"answer": "I=\\frac{\\pi}{32}\\ln^2\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)+\\frac{1}{16}\\ln\\Bigl(\\frac{\\sqrt{2}+1}{2}\\Bigr)\\ln\\Bigl(\\frac{3+2\\sqrt{2}}{2}\\Bigr)-\\frac{1}{8}\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt{2}}{2}\\Bigr)+\\frac{1}{8}\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}}{2}\\Bigr)", "numerical_answer": "0.0491650000", "problem_number": "286"}
+{"answer": "I=\\frac{\\pi\\ln^4(1+\\sqrt{2})}{64}-\\frac{\\ln^2(1+\\sqrt{2})}{8}\\Bigl[\\operatorname{Li}_2(1-\\sqrt{2})+\\operatorname{Li}_2(\\sqrt{2}-1)\\Bigr]+\\frac{1}{4}\\Bigl[\\operatorname{Li}_3(1-\\sqrt{2})-\\operatorname{Li}_3(\\sqrt{2}-1)\\Bigr]+\\frac{1}{8}\\Bigl[\\operatorname{Li}_3((\\sqrt{2}-1)^2)-\\operatorname{Li}_3((1-\\sqrt{2})^2)\\Bigr]", "numerical_answer": "0.0411619029", "problem_number": "287"}
+{"answer": "I=\\frac{1}{8}\\Bigl[\\sqrt{2}\\ln^3(1+\\sqrt{2})-\\pi\\ln^2(1+\\sqrt{2})-4\\ln(1+\\sqrt{2})\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)+4\\operatorname{Li}_3\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-4\\operatorname{Li}_3\\Bigl(-\\frac{1}{1+\\sqrt{2}}\\Bigr)\\Bigr]", "numerical_answer": "0.1312834285", "problem_number": "288"}
+{"answer": "$$\\frac{a}{8\\sqrt{\\pi}}\\Biggl[\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)^2\\;_1F_2\\Bigl(\\frac{3}{4};\\frac{3}{2},\\frac{5}{4};-\\frac{a^2}{4}\\Bigr)-\\Gamma\\Bigl(\\frac{3}{4}\\Bigr)^2\\;_1F_2\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};-\\frac{a^2}{4}\\Bigr)\\Biggr]$$", "numerical_answer": "0.7490000000", "problem_number": "289"}
+{"answer": "e^{\\frac{a}{2}} - \\frac{1+\\cosh(a)}{2}", "numerical_answer": "0.3771809534", "problem_number": "290"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{960\\pi^2}", "numerical_answer": "3.1530000000", "problem_number": "291"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{128\\pi^2}", "numerical_answer": "23.6444110412", "problem_number": "292"}
+{"answer": "\\frac{\\Gamma(1/4)^8}{2048\\pi^2}", "numerical_answer": "1.4783150000", "problem_number": "293"}
+{"answer": "$\\frac{\\pi^2}{4}\\;_4F_3\\Bigl(-\\frac12,-\\frac12,\\frac14,\\frac34;1,1,1;\\frac14\\Bigr)$", "numerical_answer": "2.0379044112", "problem_number": "294"}
+{"answer": "\\frac{\\Gamma(\\frac{1}{4})^4}{32\\pi}", "numerical_answer": "1.7182800000", "problem_number": "295"}
+{"answer": "\\frac{\\Gamma(3/4)^2\\Bigl(8\\sqrt{2}\\,\\Gamma(1/4)^2-\\Gamma(3/4)^2\\Bigr)}{96\\sqrt{2\\pi}}", "numerical_answer": "0.9177390340", "problem_number": "296"}
+{"answer": "$\n\\int_0^1 x^2E(\\sqrt{x})E(\\sqrt{1-x})\\,dx=\\frac{\\pi^{3/2}\\,\\Gamma(1/4)^2}{64\\,\\Gamma(7/4)^2}\\Bigl\\{\\,_2F_1\\Bigl(-\\frac12,\\frac12;\\frac34;\\frac12\\Bigr)-\\,_2F_1\\Bigl(-\\frac12,\\frac12;\\frac74;\\frac12\\Bigr)\\Bigr\\},\n$", "numerical_answer": "0.6130160000", "problem_number": "297"}
+{"answer": "\\frac{\\pi^2}{4}\\, {}_{3}F_{2}\\left(\\frac{1}{2},\\frac{1}{2},\\frac{1}{2};1,\\frac{3}{2};\\frac{1}{4}\\right)", "numerical_answer": "2.5210000000", "problem_number": "298"}
+{"answer": "$2^{-\\frac{1}{4}}\\sqrt{\\pi}\\frac{\\Gamma\\left(\\frac{1}{8}\\right)}{\\Gamma\\left(\\frac{5}{8}\\right)}\\Bigl[\\psi\\Bigl(\\frac{1}{2}\\Bigr)-\\psi\\Bigl(\\frac{1}{8}\\Bigr)-\\frac{1}{2}\\Bigl(\\psi\\Bigl(\\frac{5}{8}\\Bigr)-\\psi(1)\\Bigr)\\Bigr]$", "numerical_answer": "52.2300000000", "problem_number": "299"}
+{"answer": "I=2^{-11/2}\\pi\\Bigl\\{[\\psi(3)-\\psi(3/2)]^2-\\psi_1(3)+\\psi_1(3/2)\\Bigr\\}\\,_2F_1(7/2,3/2;3;1/2)+\\frac{2^{-7/2}\\Gamma(3/2)^2}{\\Gamma(3)}\\left.\\frac{\\partial}{\\partial a}\\,_2F_1(7/2,a;3;1/2)\\right|_{a=3/2}", "numerical_answer": "0.1550000000", "problem_number": "300"}
+{"answer": "$\\frac{\\pi^2}{12}-6\\ln^2 2+8\\ln2-4$", "numerical_answer": "-0.5150746390", "problem_number": "301"}
+{"answer": "$\\frac{1}{2}\\left(\\operatorname{Li}_2(\\frac{1}{4})-\\operatorname{Li}_2(-\\frac{1}{4})\\right)$", "numerical_answer": "0.2517793350", "problem_number": "302"}
+{"answer": "I = \\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{64\\,\\Gamma(5/4)}\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{16}\\Bigr) - \\frac{1}{32}\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{16}\\Bigr)", "numerical_answer": "0.0203000000", "problem_number": "303"}
+{"answer": "\\frac{\\pi}{6}\\;{}_2F_1\\left(-\\frac32,\\frac12;1;\\frac14\\right)", "numerical_answer": "0.4350150071", "problem_number": "304"}
+{"answer": "\\frac{\\sqrt{5}}{4}\\ln\\!\\left(\\frac{\\sqrt{5}+1}{\\sqrt{5}-1}\\right)+\\frac{1}{2}\\ln\\!\\left(\\frac{3-\\sqrt{5}}{2}\\right)+\\ln2-\\frac{1}{4}\\Bigl(\\operatorname{Li}_2\\Bigl(\\frac{1-\\sqrt{5}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1+\\sqrt{5}}{2}\\Bigr)\\Bigr)", "numerical_answer": "0.9714680000", "problem_number": "305"}
+{"answer": "\\frac{\\Gamma(1/4)^2}{2\\sqrt{2\\pi}} - \\pi\\ln\\left(\\frac{\\sqrt{2}+1}{\\sqrt{2}}\\right)", "numerical_answer": "0.9360350000", "problem_number": "306"}
+{"answer": "$I = \\pi \\ln\\left(\\frac{\\sqrt{2}+1}{2}\\right) + \\sqrt{2}\\Bigl[2E\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-K\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]$", "numerical_answer": "1.7905970000", "problem_number": "307"}
+{"answer": "$\\pi\\ln\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)+\\frac{\\pi}{8}\\,_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;\\frac32,\\frac32;-1\\Bigr)$", "numerical_answer": "1.0610000000", "problem_number": "308"}
+{"answer": "\\frac{\\pi\\sqrt{2}}{4}\\Bigl(\\psi(\\tfrac{3}{4})-\\psi(\\tfrac{1}{4})\\Bigr)+\\pi\\ln\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)", "numerical_answer": "3.4944390000", "problem_number": "309"}
+{"answer": "\\frac{\\sqrt{\\pi}}{8}\\,\\operatorname{erfi}(1) + \\frac{1}{16}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}-1}{\\sqrt{2}}\\Bigr) - \\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}+1}{\\sqrt{2}}\\Bigr)\\Bigr]", "numerical_answer": "0.7888880000", "problem_number": "310"}
+{"answer": "$\\frac{1}{4}$", "numerical_answer": "0.2500000000", "problem_number": "311"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "312"}
+{"answer": "\\frac{\\Gamma(1/4)^2}{4\\sqrt{2\\pi}}\\, _2F_1\\left(\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{2}\\right)", "numerical_answer": "0.5447000000", "problem_number": "313"}
+{"answer": "$-\\frac{\\pi^3+4\\pi\\ln^2 2-8\\ln2\\,\\operatorname{Li}_2(\\frac{1}{2})-3\\operatorname{Li}_3(\\frac{1}{2})}{32}$", "numerical_answer": "-1.0064140625", "problem_number": "314"}
+{"answer": "$-\\ln2\\,\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)-\\frac{1}{2}\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)+\\frac{1}{2}\\ln^3 2+\\frac{\\pi^2\\ln2}{8}-\\frac{7\\zeta(3)}{8}$", "numerical_answer": "-0.7022600000", "problem_number": "315"}
+{"answer": "\\frac{1}{8}\\Biggl[4\\ln2\\,\\ln\\frac{1+\\sqrt{2}}{2}+2\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)-2\\operatorname{Li}_2\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)+\\operatorname{Li}_2\\Bigl(\\frac{1}{2}-\\frac{1}{\\sqrt{2}}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1}{2}+\\frac{1}{\\sqrt{2}}\\Bigr)\\Biggr]", "numerical_answer": "1.0338000000", "problem_number": "316"}
+{"answer": "2\\sqrt{2}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{1-1/\\sqrt{2}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1+1/\\sqrt{2}}{2}\\Bigr)\\Bigr]-\\sqrt{2}\\ln(3+2\\sqrt{2})\\ln2", "numerical_answer": "-4.6609820000", "problem_number": "317"}
+{"answer": "\\(\\frac{\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{3}{4}\\right)}{2\\,\\Gamma\\left(\\frac{5}{4}\\right)}\\;_1F_2\\left(\\frac{1}{4};\\frac{1}{2},\\frac{5}{4};-\\frac{a^2}{4}\\right)-\\frac{a^2\\,\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{3}{4}\\right)}{6\\,\\Gamma\\left(\\frac{7}{4}\\right)}\\;_1F_2\\left(\\frac{3}{4};\\frac{3}{2},\\frac{7}{4};-\\frac{a^2}{4}\\right)\\)", "numerical_answer": "0.7195600000", "problem_number": "318"}
+{"answer": "I(a)=\\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{2\\,\\Gamma(5/4)}\\Bigl[\\frac{a}{2}\\,{}_{1}F_{2}\\Bigl(\\frac12;\\frac34,\\frac54;\\frac{a^2}{4}\\Bigr)-{}_{1}F_{2}\\Bigl(-\\frac12;\\frac14,\\frac34;\\frac{a^2}{4}\\Bigr)\\Bigr]", "numerical_answer": "For a=1: 0.7778878234", "problem_number": "319"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2a}\\Biggl[\\Gamma\\left(\\frac{1}{4}\\right)^2\\, _1F_2\\left(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};-\\frac{a^2}{4}\\right) - a\\,\\Gamma\\left(\\frac{3}{4}\\right)^2\\, _1F_2\\left(\\frac{3}{4};\\frac{5}{4},\\frac{3}{2};-\\frac{a^2}{4}\\right)\\Biggr]", "numerical_answer": "8.6210000000", "problem_number": "320"}
+{"answer": "I(a)=\\frac{\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{1}{4}\\right)}{4\\,\\Gamma\\left(\\frac{3}{4}\\right)}\\;_1F_{2}\\Bigl(\\frac{1}{4};\\frac{1}{2},\\frac{3}{4};\\frac{a^{2}}{4}\\Bigr)+\\frac{a\\,\\sqrt{\\pi}\\,\\Gamma\\left(\\frac{3}{4}\\right)}{8\\,\\Gamma\\left(\\frac{5}{4}\\right)}\\;_1F_{2}\\Bigl(\\frac{3}{4};\\frac{3}{2},\\frac{5}{4};\\frac{a^{2}}{4}\\Bigr)", "numerical_answer": "1.8742000000", "problem_number": "321"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "401"}
+{"answer": "2\\log(\\frac{\\pi}{3})", "numerical_answer": "0.0922351944", "problem_number": "402"}
+{"answer": "$5040$", "numerical_answer": "5040.0000000000", "problem_number": "403"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "404"}
+{"answer": "$e^4 - 1$", "numerical_answer": "53.5981500331", "problem_number": "405"}
+{"answer": "2\\sin^{-1}\\left(\\frac{\\sqrt{3}-1}{2}\\right)", "numerical_answer": "0.7500000000", "problem_number": "406"}
+{"answer": "\\frac{\\pi}{2}\\Bigl(\\operatorname{erf}(\\frac{\\sqrt{3}}{2})-\\operatorname{erf}(\\frac{1}{2\\sqrt{3}})\\Bigr)", "numerical_answer": "0.7260000000", "problem_number": "407"}
+{"answer": "(1/8)\\left(\\ln(5/3)-2/5\\right)", "numerical_answer": "0.0138532030", "problem_number": "408"}
+{"answer": "$$\\int_0^1\\arctan(x^2-x+1)\\,dx = \\frac{5\\pi}{24}+\\frac{1}{12\\sqrt{3}}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\Bigr)$$", "numerical_answer": "0.7178000000", "problem_number": "409"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2}e^{-1}", "numerical_answer": "0.3260246661", "problem_number": "410"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "411"}
+{"answer": "$e$", "numerical_answer": "2.7182818285", "problem_number": "412"}
+{"answer": "$506\\pi$", "numerical_answer": "1589.6458827165", "problem_number": "413"}
+{"answer": "$0$", "numerical_answer": "0.0000000000", "problem_number": "414"}
+{"answer": "\\frac{4}{5}", "numerical_answer": "0.8000000000", "problem_number": "415"}
+{"answer": "\\frac{\\sqrt{2}e^{\\pi/4} - 1}{2}", "numerical_answer": "1.0510889415", "problem_number": "416"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "417"}
+{"answer": "\\frac{\\pi^2}{6} - 1", "numerical_answer": "0.6449340668", "problem_number": "418"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "419"}
+{"answer": "$(3-\\sqrt{5})/2+\\frac{1}{2}\\ln((1+\\sqrt{5})/2)$", "numerical_answer": "0.6225719239", "problem_number": "420"}
+{"answer": "\\sin(1)", "numerical_answer": "0.8414709848", "problem_number": "421"}
+{"answer": "$\\frac{2^{\\frac{4}{3}}}{4}$", "numerical_answer": "0.6299605249", "problem_number": "422"}
+{"answer": "$99$", "numerical_answer": "99.0000000000", "problem_number": "423"}
+{"answer": "$0$", "numerical_answer": "0.0000000000", "problem_number": "424"}
+{"answer": "\\frac{128}{153}", "numerical_answer": "0.8366013072", "problem_number": "425"}
+{"answer": "\\frac{\\pi}{4} + \\ln3", "numerical_answer": "1.8840104521", "problem_number": "426"}
+{"answer": "\\frac{11\\sqrt{11}}{18}", "numerical_answer": "2.0268262619", "problem_number": "427"}
+{"answer": "$17$", "numerical_answer": "17.0000000000", "problem_number": "428"}
+{"answer": "\\ln\\left(\\frac{80}{23}\\right)", "numerical_answer": "1.2465324187", "problem_number": "429"}
+{"answer": "$-\\frac{2023}{2022}$", "numerical_answer": "-1.0004945545", "problem_number": "430"}
+{"answer": "\\frac{2}{5}", "numerical_answer": "0.4000000000", "problem_number": "501"}
+{"answer": "\\frac{10747}{10}+6\\ln(2)", "numerical_answer": "1078.8588830834", "problem_number": "502"}
+{"answer": "$0$", "numerical_answer": "0.0000000000", "problem_number": "503"}
+{"answer": "\\frac{\\sin^{100}(x)\\sin(100x)}{100} + C", "numerical_answer": "-0.0000000002 (approximately for x=1)", "problem_number": "504"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "505"}
+{"answer": "1005", "numerical_answer": "1005.0000000000", "problem_number": "506"}
+{"answer": "$18$", "numerical_answer": "18.0000000000", "problem_number": "507"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "508"}
+{"answer": "$\\frac{2\\pi}{3} + 4\\sqrt{3}$", "numerical_answer": "9.0225983327", "problem_number": "509"}
+{"answer": "\\frac{7\\pi}{3\\sqrt{3}}", "numerical_answer": "4.2321601690", "problem_number": "510"}
+{"answer": "$2\\sin(2\\sqrt{2})$", "numerical_answer": "0.6161448444", "problem_number": "511"}
+{"answer": "$e-2$", "numerical_answer": "0.7182818285", "problem_number": "512"}
+{"answer": "$113$", "numerical_answer": "113.0000000000", "problem_number": "513"}
+{"answer": "\\frac{\\pi}{6}+\\frac{\\sqrt{3}}{8}", "numerical_answer": "0.7401051265", "problem_number": "514"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "515"}
+{"answer": "\\frac{\\pi}{2} - 1", "numerical_answer": "0.5707963268", "problem_number": "516"}
+{"answer": "\\sqrt{\\frac{\\pi}{2}} e^{\\frac{1}{8}}", "numerical_answer": "1.4201890000", "problem_number": "517"}
+{"answer": "$4036$", "numerical_answer": "4036.0000000000", "problem_number": "518"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "519"}
+{"answer": "$0$", "numerical_answer": "0.0000000000", "problem_number": "520"}
+{"answer": "\\ln(3)", "numerical_answer": "1.0986122887", "problem_number": "521"}
+{"answer": "\\frac{\\sqrt{\\pi}}{\\sqrt{2019}}", "numerical_answer": "0.0394470000", "problem_number": "522"}
+{"answer": "\\ln 2", "numerical_answer": "0.6931471806", "problem_number": "523"}
+{"answer": "\\frac{e^2+1}{4}", "numerical_answer": "2.0972640247", "problem_number": "524"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "525"}
+{"answer": "\\frac{\\pi \\ln 3}{4}", "numerical_answer": "0.8628480738", "problem_number": "526"}
+{"answer": "$0$", "numerical_answer": "0.0000000000", "problem_number": "527"}
+{"answer": "$e^{e-1}-e$", "numerical_answer": "2.8566326995", "problem_number": "528"}
+{"answer": "$-\\pi$", "numerical_answer": "-3.1415926536", "problem_number": "529"}
+{"answer": "$1$", "numerical_answer": "1.0000000000", "problem_number": "530"}
+{"answer": "$\\frac{5}{6}$", "numerical_answer": "0.8333333333", "problem_number": "531"}
+{"answer": "$\\pi^2$", "numerical_answer": "9.8696044011", "problem_number": "532"}
+{"answer": "\\frac{8}{7}", "numerical_answer": "1.1428571429", "problem_number": "533"}
+{"answer": "2\\sqrt{\\pi}", "numerical_answer": "3.5449077018", "problem_number": "534"}
+{"answer": "$\\frac{e^3}{3}$", "numerical_answer": "6.6951789744", "problem_number": "535"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "536"}
+{"answer": "$3$", "numerical_answer": "3.0000000000", "problem_number": "537"}
+{"answer": "\\pi \\ln 2", "numerical_answer": "2.1775860903", "problem_number": "601"}
+{"answer": "\\frac{\\pi^4}{120}", "numerical_answer": "0.8117424253", "problem_number": "602"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "603"}
+{"answer": "$1$", "numerical_answer": "1.0000000000", "problem_number": "604"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "605"}
+{"answer": "$\\frac{3\\pi^2}{8}-1$", "numerical_answer": "2.7011020000", "problem_number": "606"}
+{"answer": "$(1/2)[\\operatorname{Li}_{2}(\\sqrt{2}-1)-\\operatorname{Li}_{2}(1-\\sqrt{2})]+(\\pi/4)\\ln(1+\\sqrt{2})$", "numerical_answer": "1.1506000000", "problem_number": "607"}
+{"answer": "\\frac{(\\ln 2)^4}{4}", "numerical_answer": "0.0577622650", "problem_number": "608"}
+{"answer": "1-\\frac{\\pi}{2}", "numerical_answer": "-0.5707963268", "problem_number": "609"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "610"}
+{"answer": "\\ln\\left(\\frac{2+\\sqrt{3}}{\\sqrt{3}}\\right)", "numerical_answer": "0.7671952248", "problem_number": "611"}
+{"answer": "$626$", "numerical_answer": "626.0000000000", "problem_number": "612"}
+{"answer": "\\frac{1}{5}", "numerical_answer": "0.2000000000", "problem_number": "613"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "614"}
+{"answer": "$9$", "numerical_answer": "$9.0000000000$", "problem_number": "615"}
+{"answer": "\\frac{\\pi^2}{48} + \\frac{(\\ln 2)^2}{4}", "numerical_answer": "0.3257300118", "problem_number": "616"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "617"}
+{"answer": "$1-\\gamma$", "numerical_answer": "0.4227843351", "problem_number": "618"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "619"}
+{"answer": "\\frac{\\pi}{8}\\ln2", "numerical_answer": "0.2721982613", "problem_number": "620"}
+{"answer": "-\\frac{\\pi}{2}", "numerical_answer": "-1.5707963268", "problem_number": "621"}
+{"answer": "\\frac{\\pi}{4} - \\frac{1}{2}", "numerical_answer": "0.2853981634", "problem_number": "622"}
+{"answer": "$\\pi\\arcsin(1/3)$", "numerical_answer": "1.0683290574", "problem_number": "623"}
+{"answer": "\\frac{\\pi^2}{9}", "numerical_answer": "1.0966227112", "problem_number": "624"}
+{"answer": "\\frac{\\pi\\sqrt{2}}{4}", "numerical_answer": "1.1107207345", "problem_number": "625"}
+{"answer": "$\\ln\\left(\\frac{\\pi}{2}\\right)$", "numerical_answer": "0.4515827053", "problem_number": "626"}
+{"answer": "\\frac{\\pi}{4} + \\frac{1}{2}\\ln 2 - 1", "numerical_answer": "0.1319717538", "problem_number": "627"}
+{"answer": "-\\frac{\\pi+2}{8}", "numerical_answer": "-0.6426990817", "problem_number": "628"}
+{"answer": "\\ln\\left(\\frac{253}{3}\\right)", "numerical_answer": "4.4348157113", "problem_number": "629"}
+{"answer": "$\\frac{1}{2\\sqrt{3}}\\left\\{\\operatorname{Im}\\Bigl[\\operatorname{Li}_2(i\\sqrt{3})-\\operatorname{Li}_2(-i\\sqrt{3})\\Bigr]-\\operatorname{Im}\\Bigl[\\operatorname{Li}_2(i/\\sqrt{3})-\\operatorname{Li}_2(-i/\\sqrt{3})\\Bigr]\\right\\}$", "numerical_answer": "0.1843529416", "problem_number": "630"}
+{"answer": "$\\sin(1)$", "numerical_answer": "0.8414709848", "problem_number": "631"}
+{"answer": "-\\ln{2}", "numerical_answer": "-0.6931471806", "problem_number": "632"}
+{"answer": "$-\\frac{\\pi^2 \\ln 2}{8}+\\frac{7\\zeta(3)}{16}$", "numerical_answer": "-0.3292251000", "problem_number": "633"}

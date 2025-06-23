@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^1 \\frac{\\sqrt{u}}{(1-u^2)^{3/4}} \\cos\\left(2u\\sqrt{1-u^2}\\right) du",
+  "numerical_answer": "2.3548101570"
+}

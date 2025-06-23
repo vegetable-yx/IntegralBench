@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{\\sqrt{9 - 1}}", "numerical_answer": "0.3535533906"}

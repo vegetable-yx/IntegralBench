@@ -1,0 +1,1 @@
+{"answer": "\\text{Li}_2\\left(\\frac{1}{2}\\right) - \\text{Li}_2\\left(-\\frac{1}{2}\\right)", "numerical_answer": "1.0306222986"}

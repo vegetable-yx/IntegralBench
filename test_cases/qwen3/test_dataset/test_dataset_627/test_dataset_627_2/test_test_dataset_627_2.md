@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{4} + \\frac{\\ln 2}{2}", "numerical_answer": "1.1319717537"}

@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\frac{\\sqrt{\\pi}}{2} e^{-1}}", "numerical_answer": "0.3260783855"}

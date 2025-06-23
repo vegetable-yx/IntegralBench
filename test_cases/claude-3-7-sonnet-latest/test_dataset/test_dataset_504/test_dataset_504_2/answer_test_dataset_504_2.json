@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{1}{2^{99}}\\sum_{k=0}^{49}(-1)^{49-k}\\binom{99}{k}\\frac{\\cos((200-2k)x)}{200-2k} + C",
+  "numerical_answer": "N/A"
+}

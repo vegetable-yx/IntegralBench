@@ -1,0 +1,4 @@
+{
+  "answer": "\\(\\frac{3\\pi^4-40\\pi^2\\ln^2(1+\\sqrt2)+160\\ln^4(1+\\sqrt2)+640\\Bigl(\\Li_4\\Bigl(\\frac{1}{1+\\sqrt2}\\Bigr)-\\Li_4\\Bigl(-\\frac{1}{1+\\sqrt2}\\Bigr)\\Bigr)}{6400}\\)",
+  "numerical_answer": "0.0959600000"
+}

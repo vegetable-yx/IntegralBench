@@ -1,0 +1,4 @@
+{
+  "answer": "\\ln(5)\\left(\\frac{\\pi^2}{4} - \\pi\\right) + 2\\,\\text{Li}_2\\left(\\frac{4}{5}\\right)",
+  "numerical_answer": "0.8828785437"
+}

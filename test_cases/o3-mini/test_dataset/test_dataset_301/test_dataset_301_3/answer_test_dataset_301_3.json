@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(1/4)}{64\\,\\Gamma(7/4)} \\Bigl(8\\psi(7/4)-8\\psi(1/4)-3\\pi-8\\ln2\\Bigr)",
+  "numerical_answer": "-0.4009381873"
+}

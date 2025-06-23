@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt[3]{2}}{2}", "numerical_answer": "0.6299605249"}

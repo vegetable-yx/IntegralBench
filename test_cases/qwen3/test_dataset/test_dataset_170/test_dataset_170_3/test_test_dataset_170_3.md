@@ -1,0 +1,1 @@
+{"answer": "\\text{Unable to determine exact analytical solution}", "numerical_answer": "0.1200000000"}

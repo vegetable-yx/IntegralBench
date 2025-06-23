@@ -1,0 +1,4 @@
+{
+  "answer": "4 \\int_0^{\\pi/2} \\sin^{1/2}\\theta \\, \\cos^{3/2}\\theta \\, \\sin\\left( \\sin^{1/2}(2\\theta) \\right) \\, d\\theta",
+  "numerical_answer": "1.2798050516"
+}

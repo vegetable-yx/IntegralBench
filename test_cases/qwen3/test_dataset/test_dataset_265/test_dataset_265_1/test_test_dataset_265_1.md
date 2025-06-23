@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\text{Si}(2) - \\sin(2)}{4}", "numerical_answer": "0.1740288875"}

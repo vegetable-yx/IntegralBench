@@ -1,0 +1,1 @@
+{"answer": "\\sinh^2(1)", "numerical_answer": "1.3817736156"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{\\frac{\\pi}{2}}\\Bigl[\\cos\\frac{\\pi}{4}\\,J_{-\\frac{1}{4}}(1)-\\cos\\frac{3\\pi}{4}\\,J_{\\frac{1}{4}}(1)\\Bigr]",
+  "numerical_answer": "1.5511840000"
+}

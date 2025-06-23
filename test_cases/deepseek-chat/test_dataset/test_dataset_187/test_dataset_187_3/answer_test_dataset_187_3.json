@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{\\arctan\\left(x^{11+\\sqrt{120}}\\right)}{1+x^2} dx",
+  "numerical_answer": "0.1245149216"
+}

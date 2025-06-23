@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2}\\,\\Gamma(3/4)^2}{4\\sqrt{\\pi}}\\Bigl[J_{-1/4}(\\sqrt{2})-J_{1/4}(\\sqrt{2})\\Bigr]",
+  "numerical_answer": "0.6939027370"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^1 \\frac{1}{\\sqrt{1 + t\\sqrt{1-t^2}}} \\textbf{K}\\left(\\frac{t^{1/2}(1-t^2)^{1/4}}{\\sqrt{1 + t\\sqrt{1-t^2}}}\\right) dt",
+  "numerical_answer": "1.5707963268"
+}

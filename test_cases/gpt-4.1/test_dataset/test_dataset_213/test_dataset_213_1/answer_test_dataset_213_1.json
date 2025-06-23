@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\frac{\\pi}{2}} \\cos(\\sin(2\\theta)) \\, d\\theta - \\int_0^{\\frac{\\pi}{2}} \\cos(2\\theta + \\sin(2\\theta)) \\, d\\theta - \\int_0^{\\frac{\\pi}{2}} \\cos(2\\theta - \\sin(2\\theta)) \\, d\\theta",
+  "numerical_answer": "1.2095450366"
+}

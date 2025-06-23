@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\ln\\left(2 + \\sqrt{2}\\right)", "numerical_answer": "1.9297405750"}

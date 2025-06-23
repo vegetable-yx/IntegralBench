@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{\\sqrt{\\pi}}{2} \\sum_{n=0}^{\\infty} \\left[ \\frac{\\pi}{2} \\frac{(-1)^n}{n!} \\frac{(1/2)_n}{1-2n} \\frac{\\Gamma(n+1/2)}{\\Gamma(n)} (\\psi(n+1/2)-\\psi(n)) \\right]",
+  "numerical_answer": "-0.5160697657"
+}

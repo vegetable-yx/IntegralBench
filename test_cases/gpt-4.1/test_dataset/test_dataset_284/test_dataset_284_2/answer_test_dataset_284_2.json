@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\int_0^{\\frac{\\pi}{2}} \\left( \\operatorname{arcsinh}(\\sin\\theta) \\right )^2 \\, d\\theta",
+  "numerical_answer": "0.3161831504"
+}

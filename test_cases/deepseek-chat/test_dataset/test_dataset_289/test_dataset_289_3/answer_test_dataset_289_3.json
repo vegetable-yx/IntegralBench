@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x \\mathbf{H}_0(2\\sqrt{x}) \\mathbf{K}\\left(\\sqrt{1-x}\\right) dx",
+  "numerical_answer": "0.1963495408"
+}

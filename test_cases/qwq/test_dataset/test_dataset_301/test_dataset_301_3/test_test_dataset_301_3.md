@@ -1,0 +1,1 @@
+{"answer": "8 - 4 (\\ln 2)^2 - \\frac{5 \\pi^2}{6}", "numerical_answer": "-2.1464823910"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\frac{\\pi}{2}} \\cosh^{-1}(\\sin(x) + \\cos(x)) \\, dx",
+  "numerical_answer": "1.088793045"
+}

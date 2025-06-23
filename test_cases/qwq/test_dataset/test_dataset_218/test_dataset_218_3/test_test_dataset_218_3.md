@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to a series expression which does not have a simple closed-form and must be computed numerically.", "numerical_answer": "1.0048330000"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{8} \\int_{0}^{\\pi/2} \\sin(2\\theta) \\ln \\cot (\\theta/2) \\, \\mathbf{K}(0.25 \\sin \\theta) \\, d\\theta",
+  "numerical_answer": "0.0235987756"
+}

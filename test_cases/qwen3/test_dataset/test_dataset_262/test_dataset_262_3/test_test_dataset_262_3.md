@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{2} \\int_0^1 \\frac{x J_1(2x)}{\\sqrt{1 - x^2}} \\, dx", "numerical_answer": "0.2644630000"}

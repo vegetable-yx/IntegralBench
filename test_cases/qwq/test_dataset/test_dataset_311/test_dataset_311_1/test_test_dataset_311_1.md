@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} - 2\\mathbf{D}\\left(\\frac{1}{2}\\right)", "numerical_answer": "0.6482334150"}

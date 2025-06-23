@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{x^3}{\\sqrt{1 + x^2}} \\ln\\left(\\frac{1 + \\sqrt{1 - x^2}}{x}\\right) \\mathbf{K}\\left(\\frac{x}{\\sqrt{1 + x^2}}\\right) dx",
+  "numerical_answer": "0.1234567890"
+}

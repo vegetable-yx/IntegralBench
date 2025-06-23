@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{6} \\int_0^{\\pi/2} \\sin^3 \\theta \\, I_1(2\\sin \\theta) \\, d\\theta",
+  "numerical_answer": "0.1703273989"
+}

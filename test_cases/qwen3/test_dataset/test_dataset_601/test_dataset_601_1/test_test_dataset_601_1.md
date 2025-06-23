@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\pi \\ln 2}", "numerical_answer": "2.1775860903"}

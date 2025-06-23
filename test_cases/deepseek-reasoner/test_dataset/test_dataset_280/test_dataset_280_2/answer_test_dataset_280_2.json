@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\cdot 3^{1/4} \\pi \\left( \\text{erfi}(3^{1/4}) + \\text{erf}(3^{1/4}) \\right)",
+  "numerical_answer": "23.3613134700"
+}

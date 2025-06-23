@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{(n+1)^2 \\cdot 4^{n+1}}{(2n+3)(2n+3)!}",
+  "numerical_answer": "0.3658828361"
+}

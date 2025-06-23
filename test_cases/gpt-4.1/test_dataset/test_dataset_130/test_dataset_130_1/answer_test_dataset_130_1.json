@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}\\, \\sum_{m=0}^\\infty \\frac{\\Gamma\\left(\\frac{m+1}{2}\\right)\\Gamma\\left(\\frac{m+2}{2}\\right)}{(m!)^2 2^m \\, \\Gamma(m+3/2)}",
+  "numerical_answer": "3.3493698200"
+}

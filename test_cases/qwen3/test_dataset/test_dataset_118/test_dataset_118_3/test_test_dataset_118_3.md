@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^4}{16\\pi}}", "numerical_answer": "3.4034376583"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{3}{4} \\sqrt{\\pi} e^{3} \\, \\text{erf}(\\sqrt{3}) + \\frac{3}{4} \\sqrt{\\pi} e^{-3} \\, \\text{erfi}(\\sqrt{3})",
+  "numerical_answer": "6.2048368230"
+}

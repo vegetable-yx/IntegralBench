@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2} \\cdot {}_2F_1\\left(\\frac{1}{4}, \\frac{3}{4}; 1; 1\\right)", "numerical_answer": "3.8384224599"}

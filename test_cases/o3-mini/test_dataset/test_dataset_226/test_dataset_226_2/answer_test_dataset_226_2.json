@@ -1,0 +1,4 @@
+{
+  "answer": "$\n\\frac{\\pi^3}{16}+\\frac{\\pi}{4}\\ln^2\\Bigl(\\frac{1+\\sqrt2}{2}\\Bigr)+\\frac12\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt2}{2}\\Bigr)-\\frac12\\operatorname{Li}_2\\Bigl(1+\\frac{\\sqrt2}{2}\\Bigr)$",
+  "numerical_answer": "1.9379000000"
+}

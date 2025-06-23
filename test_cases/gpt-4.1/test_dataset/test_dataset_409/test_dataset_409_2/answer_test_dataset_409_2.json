@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{4} - \\int_0^1 \\frac{2x^2 - x}{x^4 - 2x^3 + 3x^2 - 2x + 2}\\,dx",
+  "numerical_answer": "0.6659266096"
+}

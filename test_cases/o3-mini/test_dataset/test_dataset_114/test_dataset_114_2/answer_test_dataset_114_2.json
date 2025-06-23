@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{\\pi^{3/2}}{16}\\frac{\\Gamma(3/4)}{\\Gamma(5/4)}\\Bigl(6\\ln2+3\\psi(3/4)-3\\psi(5/4)\\Bigr)",
+  "numerical_answer": "-0.7450000000"
+}

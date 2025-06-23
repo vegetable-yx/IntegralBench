@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\left[ \\text{erf}\\left(\\frac{\\sqrt{3}}{2}\\right) - \\text{erf}\\left(\\frac{1}{2\\sqrt{3}}\\right) \\right]", "numerical_answer": "0.7491550177"}

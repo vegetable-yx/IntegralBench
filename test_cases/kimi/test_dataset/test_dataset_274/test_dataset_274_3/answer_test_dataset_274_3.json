@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{5} x^2 \\cosh\\left(2\\sqrt{x(5-x)}\\right) \\, dx",
+  "numerical_answer": "104.1718750000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi\\,\\Gamma(3/4)^2}{16\\,\\Gamma(5/4)^2}\\Bigl\\{ {}_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;\\frac34,\\frac54;\\frac14\\Bigr)-2 \\Bigr\\}",
+  "numerical_answer": "0.3176210000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\left[ \\ln(1+\\sqrt{2}) \\cdot \\cosh(\\ln(1+\\sqrt{2})) - \\sinh(\\ln(1+\\sqrt{2})) \\right]",
+  "numerical_answer": "0.4948367582"
+}

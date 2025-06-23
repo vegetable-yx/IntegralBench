@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{ \\sqrt{\\pi} }{ 2 } \\sum_{k=0}^\\infty \\frac{ \\left( \\sum_{m=0}^k \\frac{ (2m)! }{ 4^m (m!)^2 (2m+1) } \\frac{ (2(k-m))! }{ 4^{k-m} ((k-m)!)^2 (2(k-m)+1) } \\right) \\Gamma\\left( k + \\frac{5}{2} \\right) }{ 2^{2k+2} (2k+4) \\Gamma( k+3 ) }",
+  "numerical_answer": "0.0387954000"
+}

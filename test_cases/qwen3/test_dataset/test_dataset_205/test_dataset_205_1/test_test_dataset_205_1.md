@@ -1,0 +1,1 @@
+{"answer": "\\text{The integral does not have an elementary closed-form solution and requires numerical evaluation.}", "numerical_answer": "1.7741905070"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\int_{0}^{\\pi} \\frac{\\operatorname{Li}_2\\left(0.5\\sin\\phi\\right)}{\\left[\\sin\\frac{\\phi}{2}\\right]^{1/2}\\left[\\cos\\frac{\\phi}{2}\\right]^{3/2}}\\, d\\phi",
+  "numerical_answer": "4.3782466732"
+}

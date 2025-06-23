@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\pi}{12}\\ln\\left(\\frac{\\sqrt3+1}{\\sqrt3-1}\\right)-\\frac{1}{4\\sqrt3}\\left[\\operatorname{Li}_2\\left(1-\\frac{\\sqrt3}{2}\\right)-\\operatorname{Li}_2\\left(1+\\frac{\\sqrt3}{2}\\right)\\right]",
+  "numerical_answer": "0.4091420000"
+}

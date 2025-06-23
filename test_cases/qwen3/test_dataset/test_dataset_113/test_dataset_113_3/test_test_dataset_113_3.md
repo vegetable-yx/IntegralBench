@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{2} \\pi}{\\Gamma\\left(\\frac{1}{4}\\right)^2} \\sum_{n=1}^{\\infty} \\frac{(2n)!}{(8^n n^2 (n!)^2)}", "numerical_answer": "1.2409149800"}

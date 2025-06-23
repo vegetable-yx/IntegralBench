@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\left( \\sum_{n=0}^k \\frac{(2n)! (2(k-n))!}{2^{4k+2} (n!)^2 ((k-n)!)^2 (2n+1)(2(k-n)+1)} \\right) \\frac{\\sqrt{\\pi} \\, \\Gamma(k+\\frac{3}{2})}{4 (k+1)\\Gamma(k+2)}",
+  "numerical_answer": "0.1013211836"
+}

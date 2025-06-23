@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\frac{\\pi}{2}} \\frac{\\Gamma\\left(\\frac{1}{4}\\right)}{\\Gamma\\left(\\frac{3}{4}\\right)} I_{\\frac{1}{4}}(4)", "numerical_answer": "53.8896152423"}

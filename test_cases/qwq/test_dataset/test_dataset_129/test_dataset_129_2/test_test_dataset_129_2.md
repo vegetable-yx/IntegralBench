@@ -1,0 +1,1 @@
+{"answer": "sqrt{2} e^{2}", "numerical_answer": "10.4540216214"}

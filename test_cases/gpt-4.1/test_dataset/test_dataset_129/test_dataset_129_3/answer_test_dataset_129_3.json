@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k+3}{2}\\right)}{k!\\,2^k\\,\\Gamma\\left(\\frac{3k+5}{2}\\right)}",
+  "numerical_answer": "2.1319776712"
+}

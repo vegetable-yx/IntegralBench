@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\pi/2} \\cos^2\\theta\\, \\arcsin^2\\left(\\frac{1}{2}\\sin\\theta\\right)\\,d\\theta",
+  "numerical_answer": "0.1892575068"
+}

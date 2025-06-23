@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\frac{1}{1-0.25x}\\; \\mathbf{E}(0.5\\sqrt{x})\\; \\mathbf{E}(\\sqrt{1-x})\\; dx",
+  "numerical_answer": "2.4039392408"
+}

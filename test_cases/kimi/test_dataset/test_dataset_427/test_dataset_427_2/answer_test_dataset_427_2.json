@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 (x^6 + x^4 + x^2) \\cdot \\sqrt{2x^4 + 3x^2 + 6} \\, dx",
+  "numerical_answer": "1.6852996313"
+}

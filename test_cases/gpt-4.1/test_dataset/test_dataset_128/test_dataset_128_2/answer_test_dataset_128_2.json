@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{2^{1/4}}{\\sqrt{\\pi}} \\sum_{n=0}^{\\infty} \\frac{2^{n+1/2}}{(2n+1)!} \\frac{\\Gamma\\left(\\frac{n+3}{4}\\right) \\Gamma\\left(\\frac{n+1}{4}\\right)}{\\Gamma\\left(\\frac{n+2}{2}\\right)}",
+  "numerical_answer": "4.8889102644"
+}

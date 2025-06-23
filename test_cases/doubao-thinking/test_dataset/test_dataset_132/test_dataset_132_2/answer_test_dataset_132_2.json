@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{n}{2} + 1\\right) \\Gamma\\left(\\frac{n + 3}{2}\\right)}{2^{2n + 1} n! (n + 1)! \\Gamma\\left(\\frac{2n + 5}{2}\\right)}",
+  "numerical_answer": "0.3503003904"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\sqrt{1 - x^2}\\, \\arcsin^2(0.5x)\\,dx = \\int_0^{\\frac{\\pi}{2}} \\cos^2\\theta\\, \\arcsin^2(0.5\\sin\\theta)\\,d\\theta",
+  "numerical_answer": "0.1131495836"
+}

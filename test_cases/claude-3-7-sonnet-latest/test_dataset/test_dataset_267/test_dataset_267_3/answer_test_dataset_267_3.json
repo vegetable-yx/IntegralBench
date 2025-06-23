@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{216}\\ln 2 + \\frac{\\pi}{12}\\text{Li}_3\\left(\\frac{1}{2}\\right) - \\frac{\\pi}{24}\\zeta(3)",
+  "numerical_answer": "0.0674360335"
+}

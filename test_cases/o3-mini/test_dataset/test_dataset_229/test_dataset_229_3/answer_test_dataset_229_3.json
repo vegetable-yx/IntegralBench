@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{64}\\Bigl(4\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)-4\\ln(2)\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)+\\pi^2\\ln(2)-2\\ln^3(2)\\Bigr)",
+  "numerical_answer": "0.1048070000"
+}

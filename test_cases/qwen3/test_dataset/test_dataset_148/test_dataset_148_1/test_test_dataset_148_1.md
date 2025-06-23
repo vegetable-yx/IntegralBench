@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{2} \\pi^{3/2}}{\\Gamma\\left(\\frac{1}{4}\\right)^2}", "numerical_answer": "2.0524685795"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\pi \\arctan(\\sin u)\\cot\\left(\\frac{u}{2}\\right) du",
+  "numerical_answer": "2.4674011002"
+}

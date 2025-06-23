@@ -1,0 +1,4 @@
+{
+  "answer": "$\\pi\\ln\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)+\\frac{\\pi}{8}\\,_3F_2\\Bigl(\\frac12,\\frac12,\\frac12;\\frac32,\\frac32;-1\\Bigr)$",
+  "numerical_answer": "1.0610000000"
+}

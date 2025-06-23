@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\frac{\\pi}{2}} \\sqrt{ \\tan\\theta } \\, \\operatorname{arcsinh}\\left( \\sqrt{ \\sin 2\\theta } \\right )\\, d\\theta",
+  "numerical_answer": "2.5705016323"
+}

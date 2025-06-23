@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(1/4)^8 - 4\\pi^2\\Gamma(1/4)^4 + 16\\pi^4}{5120\\pi^2}",
+  "numerical_answer": "0.4867271196"
+}

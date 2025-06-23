@@ -1,0 +1,1 @@
+{"answer": "\\frac{348 \\sinh(4) - 295 \\cosh(4) + 175}{32}", "numerical_answer": "50.4988276440"}

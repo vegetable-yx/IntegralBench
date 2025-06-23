@@ -1,0 +1,4 @@
+{
+  "answer": "-\\sum_{m=0}^\\infty \\frac{1}{2^{2m+1} (2m+1)^3}",
+  "numerical_answer": "-1.0098110421"
+}

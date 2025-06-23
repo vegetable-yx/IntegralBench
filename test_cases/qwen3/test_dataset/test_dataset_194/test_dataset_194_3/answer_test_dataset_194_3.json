@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{6} + \\sqrt{3} - 2 - \\left( \\frac{\\pi}{2} \\cdot \\left( \\frac{\\pi}{6} + \\sqrt{3} - 2 \\right) - \\int_{0}^{1} \\arcsin\\left(\\frac{x}{2}\\right) \\arcsin(x) \\, dx \\right)",
+  "numerical_answer": "0.1906042905"
+}

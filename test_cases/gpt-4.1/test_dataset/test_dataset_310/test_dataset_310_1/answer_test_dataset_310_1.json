@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_{0}^{\\frac{\\pi}{2}} \\ln\\cot\\left(\\frac{\\theta}{2}\\right) \\mathbf{D}(\\sin\\theta) \\cos\\theta\\,d\\theta",
+  "numerical_answer": "0.8282365852"
+}

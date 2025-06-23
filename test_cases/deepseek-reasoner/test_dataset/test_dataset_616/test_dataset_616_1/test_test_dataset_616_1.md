@@ -1,0 +1,1 @@
+{"answer": "\dfrac{\pi^2 + 12 (\ln 2)^2}{48}", "numerical_answer": "0.3257300118"}

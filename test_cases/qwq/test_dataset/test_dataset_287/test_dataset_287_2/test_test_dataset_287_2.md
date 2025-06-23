@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{16} \\left( \\ln(1+\\sqrt{2}) \\right)^2", "numerical_answer": "0.1525878906"}

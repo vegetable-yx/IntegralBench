@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{16} - (3+\\sqrt{8}) \\int_0^1 \\frac{\\arctan x \\; x^{2+\\sqrt{8}}}{1 + x^{2(3+\\sqrt{8})}} dx",
+  "numerical_answer": "0.3713490108"
+}

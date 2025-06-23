@@ -1,0 +1,4 @@
+{
+  "answer": "2\\,\\mathrm{Li}_2\\left(\\frac{\\sqrt{2}}{1+\\sqrt{2}}\\right)-2\\,\\mathrm{Li}_2\\left(-\\frac{\\sqrt{2}}{1+\\sqrt{2}}\\right)+\\frac{\\pi}{2}\\ln^2(1+\\sqrt{2})",
+  "numerical_answer": "1.9020000000"
+}

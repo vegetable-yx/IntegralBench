@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\pi\\ln(1+\\sqrt{2})}{4} - \\frac{\\arctan(\\sqrt{2})\\ln^2(1+\\sqrt{2})}{\\sqrt{2}} + \\sqrt{2}\\Bigl[\\Li_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr) - \\Li_2\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.1052102010"
+}

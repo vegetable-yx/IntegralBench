@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{8} - \\pi \\ln 2", "numerical_answer": "1.6981984947"}

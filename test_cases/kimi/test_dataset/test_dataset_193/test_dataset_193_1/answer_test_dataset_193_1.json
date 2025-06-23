@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{1}\\frac{1}{x}\\ln^2\\left(x+\\sqrt{x^2+1}\\right)\\arccos x\\,dx",
+  "numerical_answer": "0.5224077577"
+}

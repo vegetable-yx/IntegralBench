@@ -1,0 +1,1 @@
+{"answer": "2\\int_{0}^{1} x \\sin(x) \\operatorname{artanh}\\left(\\sqrt{1 - x^2}\\right) \\, dx", "numerical_answer": "0.5115161232"}

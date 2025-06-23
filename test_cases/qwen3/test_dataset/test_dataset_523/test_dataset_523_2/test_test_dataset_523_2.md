@@ -1,0 +1,1 @@
+{"answer": "\\ln 2", "numerical_answer": "0.6931471806"}

@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{4}{5}", "numerical_answer": "0.8000000000"}

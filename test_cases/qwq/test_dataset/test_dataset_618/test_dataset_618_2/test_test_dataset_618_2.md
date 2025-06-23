@@ -1,0 +1,1 @@
+{"answer": "1 - \\gamma", "numerical_answer": "0.4227843351"}

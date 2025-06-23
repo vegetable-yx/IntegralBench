@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2} (\\cosh(1) - 1)", "numerical_answer": "1.5360648234"}

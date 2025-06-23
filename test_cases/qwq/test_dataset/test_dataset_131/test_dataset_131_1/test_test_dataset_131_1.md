@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2\\pi} \\, {}_1F_3\\left(\\frac{3}{2}; 1, 1, 2; \\frac{1}{4}\\right)", "numerical_answer": "2.6599094700"}

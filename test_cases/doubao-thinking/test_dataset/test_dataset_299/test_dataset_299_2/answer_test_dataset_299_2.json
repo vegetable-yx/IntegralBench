@@ -1,0 +1,4 @@
+{
+  "answer": "2\\left[\\int_0^1 t^{-3/4}(1-t)^{-1/2}\\left(\\ln(1-t) + \\ln(1+t) - \\ln(t)\\right) dt\\right]",
+  "numerical_answer": "-0.3221430000"
+}

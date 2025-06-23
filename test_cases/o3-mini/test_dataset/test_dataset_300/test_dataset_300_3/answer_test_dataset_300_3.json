@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2048}\\Bigl\\{\\Bigl[2\\ln2+\\psi(3)-\\psi(\\tfrac32)\\Bigr]^2-2\\ln^2 2-\\psi_1(\\tfrac32)+\\psi_1(3)\\Bigr\\}",
+  "numerical_answer": "0.0056259963"
+}

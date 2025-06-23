@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\int_{0}^{\\ln(2 + \\sqrt{5})} y\\, \\arccos\\left( \\frac{1}{2} \\sinh y \\right) \\, dy",
+  "numerical_answer": "0.4256963482"
+}

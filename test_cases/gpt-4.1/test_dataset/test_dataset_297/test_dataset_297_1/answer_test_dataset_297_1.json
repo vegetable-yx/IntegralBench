@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^2 \\, \\operatorname{E}(\\sqrt{x}) \\, \\operatorname{E}(\\sqrt{1-x}) \\, dx",
+  "numerical_answer": "0.1210428176"
+}

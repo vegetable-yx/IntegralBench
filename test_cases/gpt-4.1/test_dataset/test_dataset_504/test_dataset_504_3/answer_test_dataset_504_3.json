@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2^{100}} \\sum_{j=0}^{99} \\binom{99}{j} \\left( \\frac{\\sin(2(1+j)x)}{2(1+j)} - \\frac{\\sin(2(100-j)x)}{2(100-j)} \\right ) + C",
+  "numerical_answer": "See note: result is a sum of many small oscillating terms; for definite limits substitute values into the formula."
+}

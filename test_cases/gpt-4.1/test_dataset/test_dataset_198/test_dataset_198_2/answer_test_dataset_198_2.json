@@ -1,0 +1,4 @@
+{
+  "answer": "4 \\int_{0}^{\\frac{\\pi}{2}} \\sqrt{\\sin \\theta} \\cos^{3/2}\\theta \\; \\sin\\left( (\\sin 2\\theta)^{1/2} \\right) \\, d\\theta",
+  "numerical_answer": "1.4588167932"
+}

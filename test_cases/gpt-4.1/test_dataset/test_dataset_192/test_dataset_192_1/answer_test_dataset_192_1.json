@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\pi/2} u \\tan u\\, [\\operatorname{arcsinh}(\\cos u)]^2 du",
+  "numerical_answer": "0.8591561674"
+}

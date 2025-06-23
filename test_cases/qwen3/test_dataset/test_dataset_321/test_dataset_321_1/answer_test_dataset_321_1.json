@@ -1,0 +1,4 @@
+{
+  "answer": "\\\\frac{\\pi^3}{8} \\\\sum_{k=0}^\\\\infty \\\\frac{1}{4^k (k+1)(2k+1)(k!)^2}",
+  "numerical_answer": "4.0413735376"
+}

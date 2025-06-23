@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{7}\\left(\\sqrt[3]{\\sqrt{x^{2}+1}+x}-\\sqrt[3]{\\sqrt{x^{2}+1}-x}\\right)\\:\\mathrm{d}x",
+  "numerical_answer": "1.931851652578137"
+}

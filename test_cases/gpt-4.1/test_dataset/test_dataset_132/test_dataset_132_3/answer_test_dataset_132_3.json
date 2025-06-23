@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k}{2}+1\\right) \\Gamma\\left(\\frac{k+3}{2}\\right)}{k! [\\Gamma(k+2)]^2 2^{2k+1}}",
+  "numerical_answer": "0.4713906632"
+}

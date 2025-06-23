@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\int_0^{\\frac{\\pi}{2}} \\cos\\theta\\, \\mathbf{K}(\\sqrt{\\sin 2\\theta})\\, d\\theta",
+  "numerical_answer": "3.7096620878"
+}

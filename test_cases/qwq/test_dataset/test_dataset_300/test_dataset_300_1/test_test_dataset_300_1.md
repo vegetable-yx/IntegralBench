@@ -1,0 +1,1 @@
+{"answer": "Exact answer not found analytically, but the numerical approximation is provided.", "numerical_answer": "0.1780000000"}

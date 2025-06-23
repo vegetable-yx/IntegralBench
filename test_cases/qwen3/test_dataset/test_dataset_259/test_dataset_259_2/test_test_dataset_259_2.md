@@ -1,0 +1,1 @@
+{"answer": "\\text{Si}(1) - \\sin(1) + \\frac{\\pi}{2} J_0(1) - \\int_0^{\\frac{\\pi}{2}} \\frac{\\sin(\\sin\\theta)}{\\sin\\theta} \\, d\\theta", "numerical_answer": "0.1857081114"}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{4}{\\sqrt{2}} \\left(\\sinh(1) - 1\\right)", "numerical_answer": "0.4945750258"}

@@ -1,0 +1,4 @@
+{
+  "answer": "-4\\int_{0}^{\\frac{\\pi}{2}} \\frac{\\cos\\theta \\ln\\tan(\\theta/2)}{1+4\\sin^2\\theta}\\; d\\theta - \\frac{\\pi}{\\sqrt{5}}",
+  "numerical_answer": "-0.8565938134"
+}

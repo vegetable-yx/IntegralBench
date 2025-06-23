@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^{2.0} x^{-3/4}(2.0 - x)^{-1/4} I_1\\left(1.0 \\sqrt[4]{x(2.0 - x)}\\right) dx",
+  "numerical_answer": "2.5061841460"
+}

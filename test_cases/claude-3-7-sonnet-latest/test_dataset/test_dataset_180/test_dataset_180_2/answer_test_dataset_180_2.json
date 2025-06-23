@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{8\\cdot\\Gamma^2(5/4)}{\\Gamma(5/2)\\cdot\\sqrt{2\\pi\\sqrt{2}}}\\left(\\frac{\\sin(2\\sqrt{2})}{2\\sqrt{2}} - \\cos(2\\sqrt{2})\\right)",
+  "numerical_answer": "0.7071067812"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\frac{\\pi}{2}} \\ln\\left( \\sin x + \\cos x + \\sqrt{ \\sin 2x } \\right ) \\, dx",
+  "numerical_answer": "1.1415926536"
+}

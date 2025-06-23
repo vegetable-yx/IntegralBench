@@ -1,0 +1,13 @@
+import mpmath as mp
+
+# Set internal precision to 15 decimal places
+mp.dps = 15
+
+# Compute π (pi) using mpmath constant
+pi_value = mp.pi
+
+# Divide π by 4 to get the result
+result = pi_value / 4
+
+# Print the result to exactly 10 decimal places
+print(mp.nstr(result, n=10))

@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\pi \\sum_{n=0}^{\\infty} \\frac{(-1)^n}{(2n+1) 4^n (n!)^2}", "numerical_answer": "4.0860001234"}

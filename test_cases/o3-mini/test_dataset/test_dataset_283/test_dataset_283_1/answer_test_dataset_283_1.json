@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{16}\\Bigl[2\\pi\\ln^2\\frac{1+\\sqrt5}{2}+8\\,\\Li_2\\Bigl(\\frac{1-\\sqrt5}{4}\\Bigr)-8\\,\\Li_2\\Bigl(\\frac{\\sqrt5-1}{4}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.4044500000"
+}

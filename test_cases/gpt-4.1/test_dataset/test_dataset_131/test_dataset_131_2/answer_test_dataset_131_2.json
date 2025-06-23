@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sum\\limits_{k=0}^{\\infty} \\frac{2^{-k/2}}{(k!)^2} \\frac{\\Gamma\\left(\\frac{k+3/2}{2}\\right)^2}{\\Gamma(k+3/2)}",
+  "numerical_answer": "4.3290216000"
+}

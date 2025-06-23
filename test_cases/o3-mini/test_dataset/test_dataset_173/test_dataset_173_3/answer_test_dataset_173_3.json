@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\frac{\\pi^{3/2}}{64}\\left\\{\\frac{\\Gamma(3/4)}{\\Gamma(11/4)}\\,_2F_1\\Bigl(\\frac12,\\frac14;\\frac{11}{4};\\frac14\\Bigr) + \\frac{2\\,\\Gamma(7/4)}{\\Gamma(5/4)}\\,_2F_1\\Bigl(\\frac12,-\\frac14;\\frac{5}{4};\\frac14\\Bigr)\\right\\} -\\frac{\\pi^3}{144}$$",
+  "numerical_answer": "0.0504440000"
+}

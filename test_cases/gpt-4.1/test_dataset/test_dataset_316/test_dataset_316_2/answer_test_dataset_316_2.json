@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2}\\int_{0}^{\\frac{\\pi}{2}} \\frac{\\cos\\theta}{\\sin^2\\theta} \\ln(1+2\\sin^2\\theta)\\ln\\cot\\left(\\frac{\\theta}{2}\\right)\\,d\\theta",
+  "numerical_answer": "1.6945831428"
+}

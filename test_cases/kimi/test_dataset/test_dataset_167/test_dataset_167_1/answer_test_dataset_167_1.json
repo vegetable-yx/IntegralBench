@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\ln\\left(\\frac{1 + 0.5\\sqrt{x}}{1 - 0.5\\sqrt{x}}\\right) \\mathrm{K}\\left(\\sqrt{1 - x}\\right) dx",
+  "numerical_answer": "1.150963994"
+}

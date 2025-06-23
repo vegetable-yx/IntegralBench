@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^2 \\ln\\left(\\frac{2+\\sqrt{4-x^2}}{x}\\right) I_1(3x) \\, dx",
+  "numerical_answer": "12.8535371423"
+}

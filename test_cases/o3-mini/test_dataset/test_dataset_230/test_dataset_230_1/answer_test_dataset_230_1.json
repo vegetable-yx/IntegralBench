@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{64}\\Bigl[6\\pi^2\\ln^2(1+\\sqrt{2})-\\pi^4-8\\ln^4(1+\\sqrt{2})+64\\,\\Li_4(\\sqrt{2}-1)\\Bigr]",
+  "numerical_answer": "0.0869035508"
+}

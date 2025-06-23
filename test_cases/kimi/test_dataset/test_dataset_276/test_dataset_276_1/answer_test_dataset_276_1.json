@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{3} x^{-1/2} \\cosh\\left(2\\sqrt{x(3-x)}\\right) dx",
+  "numerical_answer": "1.7724538509"
+}

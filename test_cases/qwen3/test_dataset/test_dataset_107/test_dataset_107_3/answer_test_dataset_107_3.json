@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} \\frac{\\arcsin\\left(\\frac{\\sqrt{x(2 - x)}}{2}\\right)}{\\sqrt{x(2 - x)}} \\, dx",
+  "numerical_answer": "1.0306549346"
+}

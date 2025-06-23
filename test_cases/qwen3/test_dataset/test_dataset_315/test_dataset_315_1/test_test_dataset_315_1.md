@@ -1,0 +1,1 @@
+{"answer": "-\\zeta(3)", "numerical_answer": "-1.2020569031"}

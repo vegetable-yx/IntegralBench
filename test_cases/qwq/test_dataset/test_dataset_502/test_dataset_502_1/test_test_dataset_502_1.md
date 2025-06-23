@@ -1,0 +1,1 @@
+{"answer": "\\frac{10747}{10} + 6\\ln 2", "numerical_answer": "1078.8588830834"}

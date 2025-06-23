@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\ln\\left(\\frac{5}{3}\\right)}{8} - \\frac{1}{20}", "numerical_answer": "0.0138532030"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{4} \\sum_{n=0}^\\infty \\sum_{m=0}^\\infty \\frac{((2n-1)!!)^2 ((2m-1)!!)^2 (-1)^m n! m!}{2^{4n + 2m} (n!) (m!) (2m+1) (n+m+1)!}",
+  "numerical_answer": "2.2955871498"
+}

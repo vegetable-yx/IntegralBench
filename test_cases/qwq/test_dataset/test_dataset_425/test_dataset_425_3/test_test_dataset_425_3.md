@@ -1,0 +1,1 @@
+{"answer": "\\frac{128}{153}", "numerical_answer": "0.8366074282"}

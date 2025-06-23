@@ -1,0 +1,8 @@
+import mpmath as mp
+mp.dps = 15
+
+# Calculate 3 times pi using high-precision arithmetic
+result = 3 * mp.pi
+
+# Print the result with exactly 10 decimal places
+print(mp.nstr(result, n=10))

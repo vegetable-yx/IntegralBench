@@ -1,0 +1,1 @@
+{"answer": "\\frac{125 \\pi}{16} \\left(4 I_1(5) - I_0(5) - I_2(5)\\right)", "numerical_answer": "237.114809800"}

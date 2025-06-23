@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\sqrt{\\pi}\\,\\Gamma\\Bigl(\\frac{1}{11+\\sqrt{120}}\\Bigr)}{4(11+\\sqrt{120})\\,\\Gamma\\Bigl(\\frac{1}{2}+\\frac{1}{11+\\sqrt{120}}\\Bigr)}\\, _2F_1\\Bigl(\\frac{1}{11+\\sqrt{120}},1;\\frac{1}{2}+\\frac{1}{11+\\sqrt{120}};-1\\Bigr)",
+  "numerical_answer": "0.0208601743"
+}

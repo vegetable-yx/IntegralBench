@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle \\sum_{n=1}^{\\infty} \\frac{\\Gamma\\Big(\\frac{2n+1}{4}\\Big)\\Gamma\\Big(\\frac{2n+3}{4}\\Big)}{n^2\\,\\Gamma(n+1)}",
+  "numerical_answer": "1.3440820000"
+}

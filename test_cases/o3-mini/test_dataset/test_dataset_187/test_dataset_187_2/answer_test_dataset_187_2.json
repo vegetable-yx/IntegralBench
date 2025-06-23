@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8}+\\frac{\\sqrt{\\pi}}{4}\\frac{\\Gamma\\Bigl(\\frac{11+\\sqrt{120}+1}{4}\\Bigr)}{\\Gamma\\Bigl(\\frac{11+\\sqrt{120}+3}{4}\\Bigr)}\\Bigl[\\psi\\Bigl(\\frac{11+\\sqrt{120}+3}{4}\\Bigr)-\\psi\\Bigl(\\frac{11+\\sqrt{120}+1}{4}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.4095000000"
+}

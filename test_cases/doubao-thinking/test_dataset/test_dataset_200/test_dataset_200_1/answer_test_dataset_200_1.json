@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\int_{0}^{\\pi/2} \\frac{\\sin(\\sin\\theta)}{\\sin\\theta} d\\theta",
+  "numerical_answer": "4.0999999995"
+}

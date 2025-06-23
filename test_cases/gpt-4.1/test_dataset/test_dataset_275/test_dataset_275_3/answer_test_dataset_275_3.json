@@ -1,0 +1,4 @@
+{
+  "answer": "3^{3/2} \\sum_{n=0}^\\infty \\frac{36^n \\, \\Gamma(n+3/2)\\,\\Gamma(n+1)}{(2n)!\\,\\Gamma(2n+5/2)}",
+  "numerical_answer": "650.2381831000"
+}

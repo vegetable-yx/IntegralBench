@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi \\ln^2 2}{6} - \\frac{\\pi^3}{216} + \\frac{1}{2} \\text{Li}_3\\left(\\frac{1}{2}\\right)",
+  "numerical_answer": "0.5252991370"
+}

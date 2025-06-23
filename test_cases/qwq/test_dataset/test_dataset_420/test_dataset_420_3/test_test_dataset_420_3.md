@@ -1,0 +1,1 @@
+{"answer": "\\frac{3 - \\sqrt{5}}{2} - \\frac{1}{2} \\ln\\left( \\frac{\\sqrt{5} - 1}{2} \\right)", "numerical_answer": "0.6225719330"}

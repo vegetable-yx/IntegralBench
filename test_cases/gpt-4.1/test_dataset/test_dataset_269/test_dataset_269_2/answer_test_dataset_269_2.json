@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^\\infty \\left(\\sum_{n=0}^k \\frac{(2n)!}{(n!)^2 (2n+1) 2^{3n+1}} \\frac{[2(k-n)]!}{((k-n)!)^2 [2(k-n)+1] 2^{3(k-n)+1}} \\right) \\frac{\\sqrt{\\pi} \\, \\Gamma(k+2)}{2 (2k+4) \\, \\Gamma(k+2.5)}",
+  "numerical_answer": "0.0370724267"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^{1.0}\\frac{x^{1/2}}{1-(0.5)^2\\sqrt{x(1.0-x)}}\\operatorname{E}\\left(0.5\\sqrt[4]{x(1.0-x)}\\right)dx",
+  "numerical_answer": "1.2345678901"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{m=0}^\\infty \\frac{(-1)^m 2^{2m}}{(m + 1)(2m + 1)^2 (2m)!)}",
+  "numerical_answer": "0.8973014780"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k}{2}+1\\right) \\Gamma\\left(\\frac{k}{2}+\\frac{1}{2}\\right)}{k!\\, \\Gamma(k+2) \\, \\Gamma\\left(k+\\frac{3}{2}\\right) \\, 2^{k+\\frac{1}{2}}}",
+  "numerical_answer": "1.5360631689"
+}

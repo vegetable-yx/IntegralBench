@@ -1,0 +1,1 @@
+{"answer": "No closed-form solution found", "numerical_answer": "2.0400000000"}

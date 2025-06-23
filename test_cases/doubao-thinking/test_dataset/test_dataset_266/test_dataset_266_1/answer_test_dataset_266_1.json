@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2} \\sum_{n=0}^{\\infty} \\frac{(-1)^n (2n)!}{(n!)^3 (n+1) 4^n (2n+1)}",
+  "numerical_answer": "0.8973152904"
+}

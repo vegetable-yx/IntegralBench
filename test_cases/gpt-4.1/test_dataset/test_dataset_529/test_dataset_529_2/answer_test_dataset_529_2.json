@@ -1,0 +1,4 @@
+{
+  "answer": "2\\left[2022\\,\\arcsin\\left(\\frac{2022}{2023}\\right) - \\sum\\limits_{j=-2021}^{2022} \\arcsin\\left(\\frac{j}{2023}\\right) + 1011 \\pi\\right]",
+  "numerical_answer": "12584.0193636362"
+}

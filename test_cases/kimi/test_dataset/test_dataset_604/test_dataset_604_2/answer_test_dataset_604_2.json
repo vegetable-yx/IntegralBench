@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^1 \\frac{\\sin(\\sqrt{x})}{\\sinh(\\sqrt{x}) + \\sin(\\sqrt{x})} \\, dx",
+  "numerical_answer": "0.4207402905"
+}

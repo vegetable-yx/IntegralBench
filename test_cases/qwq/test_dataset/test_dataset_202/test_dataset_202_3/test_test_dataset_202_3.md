@@ -1,0 +1,1 @@
+{"answer": "2 \\int_{0}^{1} \\frac{z \\cos(z)}{\\sqrt{1 - z^2}} \\, dz", "numerical_answer": "1.3765278910"}

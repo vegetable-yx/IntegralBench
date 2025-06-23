@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^{3/2}}{2^{5/2} \\Gamma\\left(\\frac{3}{4}\\right)}", "numerical_answer": "0.4567439854"}

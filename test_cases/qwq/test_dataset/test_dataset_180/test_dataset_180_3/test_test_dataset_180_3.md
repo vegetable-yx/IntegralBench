@@ -1,0 +1,1 @@
+{"answer": "{\\sqrt{2}/2}", "numerical_answer": "0.7056685395"}

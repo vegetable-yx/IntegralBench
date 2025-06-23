@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{8\\sqrt{2}}", "numerical_answer": "2.7390889140"}

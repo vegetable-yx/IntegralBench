@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2}\\ln^2 2+2\\Bigl[\\Li_2\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-\\Li_2\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "2.9928941732"
+}

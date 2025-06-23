@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 t^{-1/4} (1-t)^{-3/4} \\sin\\left(2^{1/2}(t(1-t))^{1/4}\\right)dt",
+  "numerical_answer": "2.5630992063"
+}

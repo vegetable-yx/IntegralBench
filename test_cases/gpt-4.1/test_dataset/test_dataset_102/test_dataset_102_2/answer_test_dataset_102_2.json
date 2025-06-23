@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\pi/6} \\frac{\\sqrt{1-4\\sin^{2} u}}{\\sin u} \\, u \\, du",
+  "numerical_answer": "0.2425887845"
+}

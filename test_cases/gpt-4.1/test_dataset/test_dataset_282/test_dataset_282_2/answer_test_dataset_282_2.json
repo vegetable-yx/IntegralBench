@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\Gamma\\left(\\frac{1}{4}\\right)^2 \\sum_{n=0}^\\infty \\frac{16^n}{(2n)!} \\frac{1}{\\Gamma\\left(\\frac{1}{4}+n\\right)^2}",
+  "numerical_answer": "125.0444671000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$\nI=\\frac{1}{128}\\Bigl[16\\,\\operatorname{Li}_2\\Bigl(\\frac{1}{\\sqrt2}\\Bigr)-16\\,\\operatorname{Li}_2\\Bigl(-\\frac{1}{\\sqrt2}\\Bigr)+8\\ln^2(1+\\sqrt2)-\\pi^2\\Bigr]\\,,$",
+  "numerical_answer": "0.1077349896"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle\\sum_{n=0}^{\\infty} \\frac{(-1)^n 2^n\\, \\Gamma(n+1)\\, \\Gamma\\left(n+\\tfrac{1}{2}\\right)}{(2n+1)! \\, \\Gamma(2n+2)}",
+  "numerical_answer": "1.7239492812"
+}

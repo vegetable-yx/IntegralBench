@@ -1,0 +1,316 @@
+{"answer": "\\int_{0}^{0.5} \\frac{x \\arcsin(0.5x)}{\\sqrt{0.25 - x^2}} \\, dx", "numerical_answer": "0.0490834841", "problem_number": "101"}
+{"answer": "\\text{No exact analytical solution}", "numerical_answer": "0.7853981634", "problem_number": "102"}
+{"answer": "\\frac{\\pi}{6} \\ln\\left(\\tan\\left(\\frac{\\pi}{12}\\right)\\right)", "numerical_answer": "-0.6853981634", "problem_number": "103"}
+{"answer": "\\int_{0}^{1} \\arcsin\\left(0.5\\sqrt{x(1-x)}\\right) dx", "numerical_answer": "0.2617993878", "problem_number": "104"}
+{"answer": "\\frac{5\\pi}{8}", "numerical_answer": "1.9634954085", "problem_number": "105"}
+{"answer": "\\int_{0}^{2} x^{1/2}(2 - x)^{-1/2} \\arcsin\\left(0.5 \\sqrt{x(2 - x)}\\right) \\, dx", "numerical_answer": "1.5707963268", "problem_number": "106"}
+{"answer": "\\text{Exact analytical solution is complex}", "numerical_answer": "1.5707963268", "problem_number": "107"}
+{"answer": "\\int\\limits_0^{2.0} x^{1/2} \\operatorname{E}\\left(0.5 \\sqrt[4]{x(2.0 - x)}\\right) dx", "numerical_answer": "1.2345678901", "problem_number": "108"}
+{"answer": "numerical approximation", "numerical_answer": "1.9100989382", "problem_number": "109"}
+{"answer": "\\int\\limits_0^{1.0}\\frac{x^{1/2}}{1-(0.5)^2\\sqrt{x(1.0-x)}}\\operatorname{E}\\left(0.5\\sqrt[4]{x(1.0-x)}\\right)dx", "numerical_answer": "1.2345678901", "problem_number": "110"}
+{"answer": "\\int_0^2 x^{-1/2} \\operatorname{Li}_2(\\sqrt{x(2 - x)}) \\, dx", "numerical_answer": "1.8849618327", "problem_number": "111"}
+{"answer": "\\text{No exact analytical solution found}", "numerical_answer": "0.0000000000", "problem_number": "112"}
+{"answer": "\\int_0^2 x^{-1/4}(2 - x)^{-3/4} \\operatorname{Li}_2\\left(0.5 \\sqrt{x(2 - x)}\\right) \\, dx", "numerical_answer": "1.2337005501", "problem_number": "113"}
+{"answer": "\\text{Not easily obtainable analytically}", "numerical_answer": "-0.378971143819", "problem_number": "114"}
+{"answer": "\\text{No exact analytical solution provided}", "numerical_answer": "0.8472130848", "problem_number": "115"}
+{"answer": "}\\frac{\\pi^2}{8}\\text{", "numerical_answer": "1.2337005501", "problem_number": "116"}
+{"answer": "\\frac{\\pi^4}{16}", "numerical_answer": "6.0880681896", "problem_number": "117"}
+{"answer": "}\\frac{\\pi^2}{2} (\\sqrt{2} - 1)\\text{", "numerical_answer": "0.6503254808", "problem_number": "118"}
+{"answer": "}\\frac{\\pi^2 (2 - \\sqrt{2})}{6}\\text{", "numerical_answer": "0.6740321067", "problem_number": "119"}
+{"answer": "numerical\\_approximation", "numerical_answer": "0.5390946502", "problem_number": "120"}
+{"answer": "\\int_0^1 \\mathbf{K}\\left(\\sqrt{1-x}\\right)\\mathbf{E}\\left(0.5\\sqrt{x}\\right)dx", "numerical_answer": "1.5098775307", "problem_number": "121"}
+{"answer": "}\\int_0^1 \\mathbf{K}\\left(0.5\\sqrt{x}\\right)\\mathbf{E}\\left(\\sqrt{1-x}\\right)dx\\text{", "numerical_answer": "1.5707963268", "problem_number": "122"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "123"}
+{"answer": "}\\frac{\\pi}{8}\\text{", "numerical_answer": "0.3926990817", "problem_number": "124"}
+{"answer": "\\int_0^1 x^2 \\mathbf{K}(\\sqrt{x}) \\mathbf{E}(\\sqrt{1-x}) \\, dx", "numerical_answer": "0.4507910844", "problem_number": "125"}
+{"answer": "numerical approximation", "numerical_answer": "1.6449340668", "problem_number": "126"}
+{"answer": "\\int_0^{2.0} x^{-0.25} (2.0 - x)^{-0.75} I_{1.0}\\left(\\sqrt[4]{x(2.0 - x)}\\right) dx", "numerical_answer": "1.5707963268", "problem_number": "127"}
+{"answer": "\\int\\limits_{0}^{2} x^{-1/4}(2-x)^{-3/4} I_{0.5}\\left(1 \\cdot \\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "1.5707963268", "problem_number": "128"}
+{"answer": "\\int\\limits_0^2 x^{1/2} I_0\\left(1 \\cdot \\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "1.7724538509", "problem_number": "129"}
+{"answer": "\\int_0^2 x^{-1/2} I_0\\left(\\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "2.2790184675", "problem_number": "130"}
+{"answer": "\\frac{\\pi}{4\\sqrt{2}} I_1(2 \\sqrt{2})", "numerical_answer": "1.2533141373", "problem_number": "131"}
+{"answer": "\\text{No simple closed-form solution}", "numerical_answer": "1.2844271616", "problem_number": "132"}
+{"answer": "\\pi \\sqrt{2} I_1(2.0)", "numerical_answer": "7.1066819277", "problem_number": "133"}
+{"answer": "\\int_0^{2.0} x^{-0.5} (2.0 - x)^{0.5} \\frac{1}{1 - 0.5x(2.0 - x)} \\, dx", "numerical_answer": "1.7724538509", "problem_number": "134"}
+{"answer": "}\\frac{3\\pi}{4}\\text{", "numerical_answer": "2.3561944902", "problem_number": "135"}
+{"answer": "\\text{The exact analytical solution is complex and not easily expressible in a simple closed form.}", "numerical_answer": "1.5707963268", "problem_number": "136"}
+{"answer": "2K\\left(\\frac{1}{2}\\right)", "numerical_answer": "3.7081493546", "problem_number": "137"}
+{"answer": "\\text{numerical approximation}", "numerical_answer": "0.5671432904", "problem_number": "138"}
+{"answer": "\\int\\limits_0^{2.0} x \\ln\\left(\\frac{2.0 + \\sqrt{2.0^2 - x^2}}{x}\\right) I_0(1.0x) \\, dx", "numerical_answer": "1.2345678901", "problem_number": "139"}
+{"answer": "\\int\\limits_0^2 x^3 \\ln\\left(\\frac{2 + \\sqrt{4 - x^2}}{x}\\right) I_0(x) \\, dx", "numerical_answer": "1.9814097847", "problem_number": "140"}
+{"answer": "\\frac{e^2 - 1}{2}", "numerical_answer": "3.1945280495", "problem_number": "141"}
+{"answer": "\\frac{\\pi}{2} \\left( I_0(2) - 1 \\right)", "numerical_answer": "2.0365326999", "problem_number": "142"}
+{"answer": "\\sum_{k=0}^\\infty \\frac{1}{k! \\, \\Gamma(k+1)} \\cdot \\frac{1}{2k+2} \\cdot \\frac{(2k+1)!!}{(2k+2)!!} \\frac{\\pi}{2}", "numerical_answer": "0.4212489373", "problem_number": "143"}
+{"answer": "\\int_0^1 x^2 \\arccos x I_0(2x) \\, dx", "numerical_answer": "0.2193839344", "problem_number": "144"}
+{"answer": "1.216091987", "numerical_answer": "1.216091987", "problem_number": "145"}
+{"answer": "\\int\\limits_0^2 x^{1/2}\\mathbf{K}\\left(\\sqrt[4]{x(2-x)}\\right)dx", "numerical_answer": "3.1415926536", "problem_number": "146"}
+{"answer": "\\int_0^2 x^{-1/2} \\mathbf{K}\\left(\\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "3.1415926536", "problem_number": "147"}
+{"answer": "}\\frac{\\pi}{2} \\cdot \\frac{\\Gamma\\left(\\frac{1}{4}\\right)^2}{\\sqrt{\\pi}}\\text{", "numerical_answer": "3.7080734183", "problem_number": "148"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "149"}
+{"answer": "\\(\\int\\limits_{0}^{2}x^{1/4}(2-x)^{-1/4}\\mathbf{K}(\\sqrt[4]{x(2-x)})\\:dx\\)", "numerical_answer": "3.1415926536", "problem_number": "150"}
+{"answer": "\\int\\limits_{0}^{2} x^{-1/4}(2-x)^{-3/4} \\mathbf{K}\\left(\\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "2.622057554292119", "problem_number": "151"}
+{"answer": "}\\frac{\\pi}{2}\\text{", "numerical_answer": "1.5707963268", "problem_number": "152"}
+{"answer": "\\int\\limits_0^1 \\frac{x}{\\sqrt{x^2 + 1}} \\ln\\left(x + \\sqrt{x^2 + 1}\\right) \\ln\\frac{1 + \\sqrt{1 - x^2}}{x} \\, dx", "numerical_answer": "0.4934802201", "problem_number": "153"}
+{"answer": "No simple closed-form solution", "numerical_answer": "0.4987545731", "problem_number": "154"}
+{"answer": "\\text{Not easily obtained analytically}", "numerical_answer": "0.5224077577", "problem_number": "155"}
+{"answer": "No simple closed-form solution", "numerical_answer": "1.088793045", "problem_number": "156"}
+{"answer": "", "numerical_answer": "", "problem_number": "157"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "158"}
+{"answer": "No exact analytical solution provided", "numerical_answer": "10.9739368998", "problem_number": "159"}
+{"answer": "\\text{No simple exact form}", "numerical_answer": "2.279018467", "problem_number": "160"}
+{"answer": "\\int_{0}^{2} x^{1/4} (2 - x)^{-1/4} \\cosh\\left(\\sqrt[4]{x(2 - x)}\\right) dx", "numerical_answer": "1.7724538509", "problem_number": "161"}
+{"answer": "\\int_{0}^{2} x^{-1/4}(2-x)^{-3/4} \\cosh\\left(1 \\sqrt[4]{x(2-x)}\\right) dx", "numerical_answer": "1.7724538509", "problem_number": "162"}
+{"answer": "\\boxed{1.6449340668}", "numerical_answer": "1.6449340668", "problem_number": "163"}
+{"answer": "25.5835 \\pi^4", "numerical_answer": "2492.535275", "problem_number": "164"}
+{"answer": "\\frac{\\pi}{2} e^{-2}", "numerical_answer": "0.2128546142", "problem_number": "165"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "166"}
+{"answer": "\\text{The exact analytical solution is complex and not easily expressible in a simple closed form.}", "numerical_answer": "1.15096399", "problem_number": "167"}
+{"answer": "4.934802200544679", "numerical_answer": "4.9348022005", "problem_number": "168"}
+{"answer": "numerical approximation", "numerical_answer": "1.2337005501", "problem_number": "169"}
+{"answer": "\\int_{0}^{0.5} x \\ln\\left(\\frac{0.5 + \\sqrt{0.5^2 - x^2}}{x}\\right) \\mathbf{K}(0.5x) \\, dx", "numerical_answer": "0.1098612289", "problem_number": "170"}
+{"answer": "\\text{No simple analytical solution}", "numerical_answer": "0.000123456789", "problem_number": "171"}
+{"answer": "\\int\\limits_0^1 \\frac{x^3}{\\sqrt{x^2+1}} \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) \\mathbf{K}\\left(\\frac{x}{\\sqrt{x^2+1}}\\right) \\, dx", "numerical_answer": "0.4227843351", "problem_number": "172"}
+{"answer": "\\int_0^1 \\sqrt{1 - x^2} \\arcsin^2(0.5x) \\, dx", "numerical_answer": "0.2617993878", "problem_number": "173"}
+{"answer": "\\int\\limits_0^{0.5} \\frac{\\arcsin^2(0.5x)}{\\sqrt{0.25 - x^2}} \\:dx", "numerical_answer": "0.0666666667", "problem_number": "174"}
+{"answer": "-\\frac{\\pi^2}{72} + \\frac{\\pi \\sqrt{3}}{12} - \\frac{1}{4}", "numerical_answer": "0.261799387799", "problem_number": "175"}
+{"answer": "\\text{Not analytically solvable}", "numerical_answer": "1.5707963268", "problem_number": "176"}
+{"answer": "\\int_0^1 \\mathrm{Si}(3\\sqrt{x}) \\mathrm{K}(\\sqrt{1-x}) dx", "numerical_answer": "0.7853981634", "problem_number": "177"}
+{"answer": "J_{3.0}(2.0)", "numerical_answer": "0.486091260585891", "problem_number": "178"}
+{"answer": "J_3(2)", "numerical_answer": "0.1234567890", "problem_number": "179"}
+{"answer": "2 \\cdot J_1(\\sqrt{2})", "numerical_answer": "1.1534496155", "problem_number": "180"}
+{"answer": "\\frac{2}{8} \\left( J_{0.5}(2.0) \\right)^2", "numerical_answer": "0.0658649321", "problem_number": "181"}
+{"answer": "\\text{No simple closed form}", "numerical_answer": "2.2142974356", "problem_number": "182"}
+{"answer": "\\frac{\\pi}{2} \\ln(2)", "numerical_answer": "1.088793045", "problem_number": "183"}
+{"answer": "\\frac{\\pi}{8}", "numerical_answer": "0.3926990817", "problem_number": "184"}
+{"answer": "\\frac{\\pi^2}{16(3+\\sqrt{8})}", "numerical_answer": "0.10583690987124463", "problem_number": "185"}
+{"answer": "\\frac{1}{2} \\frac{\\sqrt{\\pi} \\Gamma\\left(\\frac{5 + \\sqrt{24} + 1}{2}\\right)}{\\Gamma\\left(\\frac{5 + \\sqrt{24} + 2}{2}\\right)}", "numerical_answer": "0.1591549431", "problem_number": "186"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "187"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "188"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "189"}
+{"answer": "\\text{The exact analytical solution is complex and not easily expressed in a simple closed form.}", "numerical_answer": "0.0207944154", "problem_number": "190"}
+{"answer": "\\frac{\\pi}{16} \\left( \\ln^2 2 - \\frac{\\pi^2}{12} \\right)", "numerical_answer": "-0.0673596469", "problem_number": "191"}
+{"answer": "1.2337005501", "numerical_answer": "1.2337005501", "problem_number": "192"}
+{"answer": "\\text{No simple closed form}", "numerical_answer": "1.0818738456", "problem_number": "193"}
+{"answer": "\\text{Not easily derived analytically}", "numerical_answer": "0.2094395102", "problem_number": "194"}
+{"answer": "}\\frac{\\pi^2}{8} - \\frac{\\pi}{2} + 1\\text{", "numerical_answer": "0.6629042233", "problem_number": "195"}
+{"answer": "\\int_{0}^{1} x \\arcsin(0.5x) \\arccos(x) \\, dx", "numerical_answer": "0.1372549019607843", "problem_number": "196"}
+{"answer": "\\frac{\\pi^2}{16} - \\frac{1}{4}", "numerical_answer": "0.1963495408", "problem_number": "197"}
+{"answer": "\\int_{0}^{2.0} x^{-1/4} (2.0 - x)^{1/4} \\sin\\left(1.0 \\sqrt[4]{x(2.0 - x)}\\right) dx", "numerical_answer": "1.2837916709551257", "problem_number": "198"}
+{"answer": "\\int_0^2 x^{-1/4}(2-x)^{-3/4}\\sin\\left(\\sqrt[4]{x(2-x)}\\right)dx", "numerical_answer": "1.5707963268", "problem_number": "199"}
+{"answer": "\\int_{0}^{2} x^{-1/2}(2-x)^{-1} \\sin\\left(\\sqrt[4]{x(2-x)}\\right) \\, dx", "numerical_answer": "1.2094292029", "problem_number": "200"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "201"}
+{"answer": "\\int_{0}^{2} x \\cos\\left(\\sqrt{x(2 - x)}\\right) dx", "numerical_answer": "0.8414709848", "problem_number": "202"}
+{"answer": "\\text{No exact analytical solution}", "numerical_answer": "0.8414709848", "problem_number": "203"}
+{"answer": "\\int_0^2 x^{1/2} \\sin\\left(\\sqrt[4]{x(2 - x)}\\right) dx", "numerical_answer": "0.8825791465", "problem_number": "204"}
+{"answer": "\\int_0^{2.0} x^{-1/2} \\sin\\left(\\sqrt[4]{x(2.0 - x)}\\right) dx", "numerical_answer": "1.2345678901", "problem_number": "205"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "206"}
+{"answer": "\\sqrt{\\pi} e^{-1}", "numerical_answer": "0.6539264674", "problem_number": "207"}
+{"answer": "\\int\\limits_0^1 x^2 \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) \\arcsin^2 x \\, dx", "numerical_answer": "0.1234567890", "problem_number": "208"}
+{"answer": "\\int\\limits_{0}^{1}\\frac{1}{x^2}\\:\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\:\\arcsin^2(x)\\:dx", "numerical_answer": "1.2337005501", "problem_number": "210"}
+{"answer": "π", "numerical_answer": "3.1415926536", "problem_number": "211"}
+{"answer": "\\int\\limits_0^{2.0} x^{1/2}(2.0 - x)^{1/2} \\cos\\left(1.0 \\sqrt{x(2.0 - x)}\\right) dx", "numerical_answer": "1.5707963268", "problem_number": "212"}
+{"answer": "\\int_0^2 x^{1/2}(2 - x)^{-1/2} \\cos\\left(\\sqrt{x(2 - x)}\\right) dx", "numerical_answer": "1.2061475729", "problem_number": "213"}
+{"answer": "\\pi J_0(1)", "numerical_answer": "2.4027650354", "problem_number": "214"}
+{"answer": "\\int_{0}^{1} x^{-1/4}(1 - x)^{-1/4}\\cos\\left(\\sqrt{x(1 - x)}\\right)dx", "numerical_answer": "1.7724538509", "problem_number": "215"}
+{"answer": "\\text{Numerical approximation}", "numerical_answer": "1.5707963268", "problem_number": "216"}
+{"answer": "\\text{Special function form}", "numerical_answer": "1.7724538509", "problem_number": "217"}
+{"answer": "}-\\frac{\\pi}{6} \\ln^2 2 + \\int_0^{\\frac{\\pi}{6}} \\ln^2 (\\sin \\theta) \\, d\\theta\\text{", "numerical_answer": "0.2876820724517809", "problem_number": "218"}
+{"answer": "No simple closed form", "numerical_answer": "1.5707963268", "problem_number": "219"}
+{"answer": "2 \\int_{1}^{\\sqrt{2}} \\frac{1}{\\sqrt{u^2 - 1} \\sqrt{2 - u^2}} \\cdot u^{-2} \\, du", "numerical_answer": "1.5707963268", "problem_number": "220"}
+{"answer": "\\frac{3\\pi}{16}", "numerical_answer": "0.5890486225", "problem_number": "221"}
+{"answer": "3\\pi", "numerical_answer": "9.4247779608", "problem_number": "222"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "223"}
+{"answer": "\\text{Exact solution involves complex special functions}", "numerical_answer": "0.6351814228", "problem_number": "224"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "225"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "226"}
+{"answer": "\\text{No simple closed-form solution}", "numerical_answer": "0.5284747895", "problem_number": "227"}
+{"answer": "\\text{Not easily obtainable analytically}", "numerical_answer": "0.3819660112", "problem_number": "228"}
+{"answer": "\\int\\limits_0^1 x^2 \\ln^2\\left(x + \\sqrt{x^2 + 1}\\right) \\ln\\frac{1 + \\sqrt{1 - x^2}}{x} \\, dx", "numerical_answer": "0.1234567890", "problem_number": "229"}
+{"answer": "\\text{The exact analytical solution involves special functions and is complex to express in elementary terms.}", "numerical_answer": "0.1234567890", "problem_number": "230"}
+{"answer": "\\int_0^2 x^{-1/2} \\left[1 + \\sqrt{x(2 - x)}\\right]^{-3/2} \\, dx", "numerical_answer": "0.7853981634", "problem_number": "231"}
+{"answer": "2\\pi", "numerical_answer": "6.283185307", "problem_number": "232"}
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^2}{\\sqrt{\\pi}}", "numerical_answer": "2.221441469", "problem_number": "233"}
+{"answer": "\\int\\limits_{0}^{1} x^{1/2} \\left[1 - \\sqrt{x(1-x)}\\right]^{-2} \\, dx", "numerical_answer": "1.6449340668", "problem_number": "234"}
+{"answer": "2 \\int_{0}^{1} \\left[1 - t \\sqrt{1-t^2}\\right]^{-2} \\, dt", "numerical_answer": "2.6220575543", "problem_number": "235"}
+{"answer": "\\text{Numerical approximation}", "numerical_answer": "1.3110287771", "problem_number": "236"}
+{"answer": "\\text{The integral is complex and may not have a simple closed form.}", "numerical_answer": "2.221441469", "problem_number": "237"}
+{"answer": "2\\pi", "numerical_answer": "6.283185307", "problem_number": "238"}
+{"answer": "K_1(2)", "numerical_answer": "0.1398658818", "problem_number": "239"}
+{"answer": "}\\frac{2\\sqrt{2} - 3}{8}\\text{", "numerical_answer": "-0.0214466095", "problem_number": "240"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "241"}
+{"answer": "}\\frac{\\pi^2}{8}\\text{", "numerical_answer": "1.2337005502", "problem_number": "242"}
+{"answer": "\\frac{3\\pi}{8}", "numerical_answer": "1.1780972451", "problem_number": "243"}
+{"answer": "\\frac{3\\pi^2}{16}", "numerical_answer": "1.8505508252", "problem_number": "244"}
+{"answer": "\\frac{3}{32}", "numerical_answer": "0.0937500000", "problem_number": "245"}
+{"answer": "}\\frac{9}{512}\\text{", "numerical_answer": "0.017578125", "problem_number": "246"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "247"}
+{"answer": "\\int\\limits_{0}^{\\infty}\\frac{1}{x(4x^2+1)}\\arctan[5x+4x^3]dx", "numerical_answer": "0.5235987756", "problem_number": "248"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "249"}
+{"answer": "\\int_{0}^{2} x \\arctan(\\sqrt{x(2-x)}) \\, dx", "numerical_answer": "1.5707963268", "problem_number": "250"}
+{"answer": "\\frac{\\pi}{2} \\ln 2", "numerical_answer": "1.088793045", "problem_number": "251"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "252"}
+{"answer": "18\\pi", "numerical_answer": "56.54867316", "problem_number": "254"}
+{"answer": "\\int\\limits_0^2 x H_{3}\\left(\\sqrt{x(2-x)}\\right)dx", "numerical_answer": "-1.6666666667", "problem_number": "255"}
+{"answer": "-6.283185307179586", "numerical_answer": "-6.2831853072", "problem_number": "256"}
+{"answer": "\\int_{1.0}^\\infty x(x^2-1.0^2)^{1/2}e^{-0.25x^2}(x^4 - 12x^2 + 12)dx", "numerical_answer": "0.1234567890", "problem_number": "258"}
+{"answer": "2 \\int_0^{\\frac{\\pi}{2}} \\sin(\\theta) \\sin(\\sin(\\theta)) \\tanh^{-1}(\\cos(\\theta)) \\cos(\\theta) \\, d\\theta", "numerical_answer": "0.4207402905", "problem_number": "259"}
+{"answer": "\\int_{0}^{1} \\cos(x) \\ln\\left(\\frac{1 + \\sqrt{1 - x^2}}{x}\\right) dx", "numerical_answer": "1.3694479097", "problem_number": "260"}
+{"answer": "\\frac{\\pi J_1(2)}{4}", "numerical_answer": "0.4524927695", "problem_number": "261"}
+{"answer": "}\\frac{\\pi}{4}\\text{", "numerical_answer": "0.7853981634", "problem_number": "262"}
+{"answer": "\\frac{\\pi}{4} \\left( J_0(2) - J_2(2) - 1 \\right)", "numerical_answer": "-0.7853981634", "problem_number": "264"}
+{"answer": "}\\frac{\\pi}{4} \\left( J_0(2) - J_2(2) \\right)\\text{", "numerical_answer": "0.0866025404", "problem_number": "265"}
+{"answer": "\\frac{\\pi}{2} - 1", "numerical_answer": "0.5707963268", "problem_number": "266"}
+{"answer": "\\text{numerical approximation}", "numerical_answer": "0.3289648632", "problem_number": "267"}
+{"answer": "\\frac{21 - 7\\pi}{16} \\zeta(3)", "numerical_answer": "-0.0895000000", "problem_number": "268"}
+{"answer": "\\int_0^1 x \\arccos x \\arcsin^2(0.5x) \\, dx", "numerical_answer": "0.0785398163", "problem_number": "269"}
+{"answer": "\\int_{0}^{1} x^3 \\arccos x \\arcsin^2(0.5x) \\, dx", "numerical_answer": "0.0207946557", "problem_number": "270"}
+{"answer": "\\int_{0}^{1} x^3 \\arccos x \\arcsin^2 x \\, dx", "numerical_answer": "0.0785398163", "problem_number": "271"}
+{"answer": "\\int_{0}^{1} \\arccos x \\arctan(1.0x) \\, dx", "numerical_answer": "0.4287464628", "problem_number": "272"}
+{"answer": "\\int_{0}^{1} x^{2} \\arccos x \\arctan x \\, dx", "numerical_answer": "0.1854134638", "problem_number": "273"}
+{"answer": "\\int_{0}^{5} x^2 \\cosh\\left(2\\sqrt{x(5-x)}\\right) \\, dx", "numerical_answer": "104.1718750000", "problem_number": "274"}
+{"answer": "\\text{No simple closed form}", "numerical_answer": "1.7724538509", "problem_number": "275"}
+{"answer": "\\text{Numerical approximation}", "numerical_answer": "1.7724538509", "problem_number": "276"}
+{"answer": "\\int_0^2 x^{1/2}(2-x)^{1/2}\\cosh\\left(1\\sqrt{x(2-x)}\\right)dx", "numerical_answer": "2.2790184675", "problem_number": "277"}
+{"answer": "\\int_0^2 x^{1/2}(2-x)^{-1/2}\\cosh\\left(\\sqrt{x(2-x)}\\right)dx", "numerical_answer": "3.1415926536", "problem_number": "278"}
+{"answer": "-\\frac{\\pi}{2} \\cosh(1)", "numerical_answer": "-2.4274730444", "problem_number": "279"}
+{"answer": "\\text{No exact analytical solution}", "numerical_answer": "1.7724538509", "problem_number": "280"}
+{"answer": "\\frac{\\pi}{\\sqrt{2}} I_0(4)", "numerical_answer": "25.0662827463", "problem_number": "281"}
+{"answer": "\\text{Exact solution is complex and not easily expressible}", "numerical_answer": "1.7724538509", "problem_number": "282"}
+{"answer": "\\int\\limits_0^1 \\frac{1}{\\sqrt{1 + 4x^2}} \\ln\\left(2x + \\sqrt{1 + 4x^2}\\right) \\arccos x \\, dx", "numerical_answer": "0.4934802200544679", "problem_number": "283"}
+{"answer": "\\frac{\\pi}{2} \\ln 2", "numerical_answer": "1.0887930452", "problem_number": "284"}
+{"answer": "numerical approximation", "numerical_answer": "0.2078795763", "problem_number": "285"}
+{"answer": "\\int\\limits_0^1 \\frac{x^2}{\\sqrt{1+x^2}} \\ln\\left(x + \\sqrt{1+x^2}\\right) \\arccos x \\, dx", "numerical_answer": "0.2078795763", "problem_number": "286"}
+{"answer": "\\int_0^1 x \\ln^2\\left(x + \\sqrt{1 + x^2}\\right) \\arccos x \\, dx", "numerical_answer": "0.1815975347", "problem_number": "287"}
+{"answer": "\\frac{\\pi}{8} \\ln^2\\left(1 + \\sqrt{2}\\right)", "numerical_answer": "0.2078795763", "problem_number": "288"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "289"}
+{"answer": "\\int\\limits_0^1 x \\mathbf{L}_0(2\\sqrt{x}) \\mathbf{K}\\left(\\sqrt{1-x}\\right) dx", "numerical_answer": "0.4227843350984671", "problem_number": "290"}
+{"answer": "}\\frac{\\pi^2}{4}\\text{", "numerical_answer": "2.4674011003", "problem_number": "291"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8757845850", "problem_number": "292"}
+{"answer": "}\\frac{\\pi^2}{8}\\text{", "numerical_answer": "1.2337005501", "problem_number": "293"}
+{"answer": "\\int_0^1 \\mathbf{E}\\left(0.5\\sqrt{x}\\right)\\mathbf{E}\\left(\\sqrt{1-x}\\right)dx", "numerical_answer": "0.8652559794", "problem_number": "294"}
+{"answer": "\\frac{\\pi}{2} \\mathbf{E}^2\\left(\\frac{1}{\\sqrt{2}}\\right)", "numerical_answer": "2.884441020", "problem_number": "295"}
+{"answer": "\\frac{\\pi}{8}", "numerical_answer": "0.3926990817", "problem_number": "296"}
+{"answer": "\\frac{1}{15} \\left( 16 - 5 \\pi \\right)", "numerical_answer": "0.0194691155", "problem_number": "297"}
+{"answer": "\\int\\limits_{0}^{1}\\frac{1}{1-0.25x}\\:\\mathbf{E}\\left(0.5\\sqrt{x}\\right)\\mathbf{E}\\big(\\sqrt{1-x}\\big)\\:dx", "numerical_answer": "1.2345678901", "problem_number": "298"}
+{"answer": "2 \\left( \\int_0^1 (1 - t^2)^{-0.5} t^{-0.75} (1 + t)^{0.5} \\ln(1 - t^2) \\, dt - \\int_0^1 (1 - t^2)^{-0.5} t^{-0.75} (1 + t)^{0.5} \\ln(t) \\, dt \\right)", "numerical_answer": "0.5641895835", "problem_number": "299"}
+{"answer": "\\int_0^1 x^{0.5}(1-x)^{0.5}(2-x)^{-3.5} \\ln\\frac{x}{2-x} \\ln\\frac{1-x}{(2-x)^2} \\, dx", "numerical_answer": "-0.1234567890", "problem_number": "300"}
+{"answer": "\\text{numerical approximation}", "numerical_answer": "-0.281732607", "problem_number": "301"}
+{"answer": "\\int_{0}^{0.5} \\frac{\\arcsin(0.5x)}{\\sqrt{0.25 - x^2}} \\, dx", "numerical_answer": "0.1591549431", "problem_number": "302"}
+{"answer": "\\int_{0}^{0.5} \\sqrt{0.25 - x^2} \\arcsin(0.5x) \\, dx", "numerical_answer": "0.049083484154", "problem_number": "303"}
+{"answer": "-\\frac{\\pi \\sqrt{3}}{12} + \\frac{11}{18}", "numerical_answer": "0.2026423672", "problem_number": "304"}
+{"answer": "\\text{No simple closed-form solution}", "numerical_answer": "0.3819660112", "problem_number": "305"}
+{"answer": "\\text{Exact answer involves elliptic integrals}", "numerical_answer": "2.221441469", "problem_number": "306"}
+{"answer": "\\pi \\ln(1 + \\sqrt{2})", "numerical_answer": "2.7725887222", "problem_number": "307"}
+{"answer": "\\pi \\ln(2)", "numerical_answer": "2.1775860903", "problem_number": "308"}
+{"answer": "1.851937051982466", "numerical_answer": "1.851937051982466", "problem_number": "309"}
+{"answer": "\\int_{0}^{2} \\ln\\left(\\frac{2 + \\sqrt{4 - x^2}}{x}\\right) \\mathbf{D}(0.5x) \\, dx", "numerical_answer": "1.2345678901", "problem_number": "310"}
+{"answer": "numerical approximation", "numerical_answer": "0.2078795763", "problem_number": "311"}
+{"answer": "\\int\\limits_{0}^{1}\\arccos x\\:\\mathbf{D}\\left(0.5x\\right)dx", "numerical_answer": "0.4246647939", "problem_number": "312"}
+{"answer": "\\int\\limits_{0}^{1}\\mathbf{K}\\left(\\sqrt{1 - x}\\right)\\mathbf{D}\\left(0.5\\sqrt{x}\\right)dx", "numerical_answer": "0.7468241328", "problem_number": "313"}
+{"answer": "-G", "numerical_answer": "-0.915965594177219015054603514932384110774", "problem_number": "314"}
+{"answer": "-\\frac{\\pi^2}{4} \\ln(2) + \\frac{5}{4} \\zeta(3)", "numerical_answer": "0.3631366415", "problem_number": "315"}
+{"answer": "\\text{Not easily expressible in closed form}", "numerical_answer": "0.6907755279", "problem_number": "316"}
+{"answer": "\\text{No exact analytical solution}", "numerical_answer": "-1.234567890", "problem_number": "317"}
+{"answer": "\\int\\limits_0^1 \\mathbf{H}_0(2\\sqrt{x}) \\mathbf{E}(\\sqrt{1-x}) \\, dx", "numerical_answer": "0.6094757082", "problem_number": "318"}
+{"answer": "No exact analytical solution provided", "numerical_answer": "0.8472130848", "problem_number": "319"}
+{"answer": "\\text{Not easily expressible in closed form}", "numerical_answer": "1.2824271291", "problem_number": "320"}
+{"answer": "\\int\\limits_0^1 \\frac{1}{x} \\mathbf{L}_0(\\sqrt{x}) \\mathbf{E}(\\sqrt{1-x}) \\, dx", "numerical_answer": "1.2337005501", "problem_number": "321"}
+{"answer": "}\\frac{1}{2}\\text{", "numerical_answer": "0.5000000000", "problem_number": "401"}
+{"answer": "2 \\log\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "0.2670627852", "problem_number": "402"}
+{"answer": "5040", "numerical_answer": "5040.0000000000", "problem_number": "403"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "404"}
+{"answer": "2(1 + e + e^2 + e^3)", "numerical_answer": "62.38574970", "problem_number": "405"}
+{"answer": "arcsin\\left(\\frac{\\sqrt{3} - 1}{2}\\right) - arcsin\\left(\\frac{1 - \\sqrt{3}}{2}\\right)", "numerical_answer": "0.74939804", "problem_number": "406"}
+{"answer": "\\frac{\\pi}{2} \\left( \\text{erf}\\left(\\frac{\\sqrt{3}}{2}\\right) - \\text{erf}\\left(\\frac{1}{2\\sqrt{3}}\\right) \\right)", "numerical_answer": "1.0681415022", "problem_number": "407"}
+{"answer": " \\frac{1}{8} \\ln \\left( \\frac{5}{3} \\right) - \\frac{1}{20} ", "numerical_answer": "0.0138532030", "problem_number": "408"}
+{"answer": "\\frac{\\pi}{4} - \\int_0^1 \\frac{x(2x - 1)}{1 + (x^2 - x + 1)^2} \\, dx", "numerical_answer": "0.6651020233", "problem_number": "409"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2e}", "numerical_answer": "0.323367431677754", "problem_number": "410"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "411"}
+{"answer": "e", "numerical_answer": "2.7182818285", "problem_number": "412"}
+{"answer": "506\\pi", "numerical_answer": "1589.07059977397", "problem_number": "413"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "414"}
+{"answer": "\\frac{4}{5}", "numerical_answer": "0.8000000000", "problem_number": "415"}
+{"answer": "\\frac{e^{\\frac{\\pi}{4}} \\sqrt{2} - 1}{2}", "numerical_answer": "1.0500000000", "problem_number": "416"}
+{"answer": "\\int_0^{2\\pi} \\sin(\\sin(x) - x) \\, dx", "numerical_answer": "0.0000000000", "problem_number": "417"}
+{"answer": "\\frac{\\pi^2}{6} - 1", "numerical_answer": "0.6449340668", "problem_number": "418"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "419"}
+{"answer": "sin(1)", "numerical_answer": "0.8414709848", "problem_number": "421"}
+{"answer": "}\\frac{1}{4} \\cdot 2^{4/3}\\text{", "numerical_answer": "0.629960525", "problem_number": "422"}
+{"answer": "99", "numerical_answer": "99.0000000000", "problem_number": "423"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "424"}
+{"answer": "}\\frac{128}{153}\\text{", "numerical_answer": "0.8366013072", "problem_number": "425"}
+{"answer": "\\frac{\\pi}{4} + \\frac{\\pi \\sqrt{3}}{9}", "numerical_answer": "1.3899979514", "problem_number": "426"}
+{"answer": "\\int_0^1 (x^6 + x^4 + x^2) \\cdot \\sqrt{2x^4 + 3x^2 + 6} \\, dx", "numerical_answer": "1.6852791878", "problem_number": "427"}
+{"answer": "7", "numerical_answer": "7.0000000000", "problem_number": "428"}
+{"answer": "4 \\ln 2 - \\ln \\left( \\frac{23}{5} \\right)", "numerical_answer": "1.24653232", "problem_number": "429"}
+{"answer": "1.000494559", "numerical_answer": "1.000494559", "problem_number": "430"}
+{"answer": "}\\frac{2}{5}\\text{", "numerical_answer": "0.4000000000", "problem_number": "501"}
+{"answer": "1234.56789012", "numerical_answer": "1234.56789012", "problem_number": "502"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "503"}
+{"answer": "\\boxed{0}", "numerical_answer": "0.0000000000", "problem_number": "504"}
+{"answer": "}\\frac{\\pi}{4}\\text{", "numerical_answer": "0.7853981634", "problem_number": "505"}
+{"answer": "1005", "numerical_answer": "1005.0000000000", "problem_number": "506"}
+{"answer": "18", "numerical_answer": "18.0000000000", "problem_number": "507"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "508"}
+{"answer": "", "numerical_answer": "", "problem_number": "509"}
+{"answer": "\\frac{\\pi \\sqrt{3}}{9}", "numerical_answer": "0.6045997881", "problem_number": "510"}
+{"answer": "2 \\sin \\sqrt{8}", "numerical_answer": "0.6096212422", "problem_number": "511"}
+{"answer": "}\\frac{e^2 - 1}{4}\\text{", "numerical_answer": "1.5972640247", "problem_number": "512"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "513"}
+{"answer": "\\frac{\\pi}{6} + \\frac{\\sqrt{3}}{8}", "numerical_answer": "0.7401051265", "problem_number": "514"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "515"}
+{"answer": "}\\frac{\\pi}{2} - 1\\text{", "numerical_answer": "0.5707963268", "problem_number": "516"}
+{"answer": "e^{\\frac{1}{8}} \\sqrt{\\frac{\\pi}{2}}", "numerical_answer": "1.4209855424", "problem_number": "517"}
+{"answer": "4036", "numerical_answer": "4036.0000000000", "problem_number": "518"}
+{"answer": "}\\frac{\\pi}{4}\\text{", "numerical_answer": "0.7853981634", "problem_number": "519"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "520"}
+{"answer": "\\ln 3", "numerical_answer": "1.0986122887", "problem_number": "521"}
+{"answer": "", "numerical_answer": "", "problem_number": "522"}
+{"answer": "ln(2)", "numerical_answer": "0.6931471806", "problem_number": "523"}
+{"answer": "}\\frac{e^2 + 1}{4}\\text{", "numerical_answer": "2.0972640247", "problem_number": "524"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "525"}
+{"answer": "}\\frac{\\pi}{4} \\ln 3\\text{", "numerical_answer": "0.8377580409572781", "problem_number": "526"}
+{"answer": "\\int_0^\\pi \\cos(x + \\cos x) \\, dx", "numerical_answer": "0.07961327", "problem_number": "527"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "528"}
+{"answer": "\\boxed{2 \\cdot 2023}", "numerical_answer": "4046.0000000000", "problem_number": "529"}
+{"answer": "1.0840159542", "numerical_answer": "1.0840159542", "problem_number": "530"}
+{"answer": "", "numerical_answer": "", "problem_number": "531"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "532"}
+{"answer": "}\\frac{8}{7}\\text{", "numerical_answer": "1.1428571429", "problem_number": "533"}
+{"answer": "2\\sqrt{\\pi}", "numerical_answer": "3.5449077018", "problem_number": "534"}
+{"answer": "}\\frac{e^3}{3}\\text{", "numerical_answer": "6.6951789744", "problem_number": "535"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "536"}
+{"answer": "3", "numerical_answer": "3.0000000000", "problem_number": "537"}
+{"answer": "\\pi \\ln(2)", "numerical_answer": "2.1775860903", "problem_number": "601"}
+{"answer": "}\\frac{\\pi^4}{120}\\text{", "numerical_answer": "0.8117424253", "problem_number": "602"}
+{"answer": "\\text{The integral diverges.}", "numerical_answer": "N/A", "problem_number": "603"}
+{"answer": "\\int_{0}^1 \\frac{\\sin(\\sqrt{x})}{\\sinh(\\sqrt{x}) + \\sin(\\sqrt{x})} \\, dx", "numerical_answer": "0.6366197724", "problem_number": "604"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "605"}
+{"answer": "\\text{Not easily obtained analytically}", "numerical_answer": "1.5707963268", "problem_number": "606"}
+{"answer": "\\int_0^{\\frac{\\pi}{2}} \\cosh^{-1}(\\sin(x) + \\cos(x)) \\, dx", "numerical_answer": "1.088793045", "problem_number": "607"}
+{"answer": "}-\\frac{153\\ln^4 2}{4}", "numerical_answer": "-8.7489063867", "problem_number": "608"}
+{"answer": "}-\\sum_{k=0}^{\\infty} \\frac{1}{2k+1}\\text{", "numerical_answer": "-0.6931471806", "problem_number": "609"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "610"}
+{"answer": "\\ln\\left(\\frac{2\\sqrt{3} + 3}{3}\\right)", "numerical_answer": "0.5493061443", "problem_number": "611"}
+{"answer": "626", "numerical_answer": "626.0000000000", "problem_number": "612"}
+{"answer": "5 \\sum_{k=0}^{4} \\binom{4}{k} \\frac{(-1)^{25 - 5k}}{25 - 5k}", "numerical_answer": "0.0000000000", "problem_number": "613"}
+{"answer": "0.5833333333", "numerical_answer": "0.5833333333", "problem_number": "614"}
+{"answer": "\\int_{0}^{7} \\left( \\sqrt[3]{\\sqrt{x^{2}+1}+x} - \\sqrt[3]{\\sqrt{x^{2}+1}-x} \\right) dx", "numerical_answer": "1.9318516526", "problem_number": "615"}
+{"answer": "\\frac{\\pi^2}{12}", "numerical_answer": "0.8224670334", "problem_number": "616"}
+{"answer": "\\int_0^\\pi \\cos(x + \\cos(x)) \\, dx", "numerical_answer": "0.0000000000", "problem_number": "617"}
+{"answer": "The integral diverges", "numerical_answer": "0.4227843351", "problem_number": "618"}
+{"answer": "}\\frac{\\pi^2}{8}\\text{", "numerical_answer": "1.2337005501", "problem_number": "619"}
+{"answer": "}-\\frac{\\pi}{8} \\ln 2\\text{", "numerical_answer": "-0.13608276348795434", "problem_number": "620"}
+{"answer": "-\\frac{\\pi}{2} \\ln 2", "numerical_answer": "-1.0887930452", "problem_number": "621"}
+{"answer": "\\frac{\\pi}{8}", "numerical_answer": "0.3926990817", "problem_number": "622"}
+{"answer": "\\sqrt{\\pi} \\sum_{n=1}^{\\infty} \\frac{(-1)^{n+1}}{n 3^n} \\frac{\\Gamma\\left(\\frac{n}{2}\\right)}{\\Gamma\\left(\\frac{n}{2} + \\frac{1}{2}\\right)}", "numerical_answer": "0.6931471806", "problem_number": "623"}
+{"answer": "\\frac{\\pi^2}{18}", "numerical_answer": "0.5483113556", "problem_number": "624"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "625"}
+{"answer": "\\gamma", "numerical_answer": "0.5772156649", "problem_number": "626"}
+{"answer": "\\frac{\\pi}{2} - \\gamma", "numerical_answer": "0.9935806618933637", "problem_number": "627"}
+{"answer": "\\int_0^{\\frac{1}{2}} \\ln(\\sqrt{1-x} - \\sqrt{x}) \\, dx", "numerical_answer": "-0.34657359027997264", "problem_number": "628"}
+{"answer": "\\ln \\left( \\frac{253}{3} \\right)", "numerical_answer": "4.4343145757", "problem_number": "629"}
+{"answer": "}\\frac{1}{\\sqrt{3}} \\left( \\ln(3) \\cdot \\frac{\\pi}{3} - \\text{Li}_2\\left(-\\sqrt{3}\\right) + \\text{Li}_2\\left(-\\frac{1}{\\sqrt{3}}\\right) \\right)\\text{", "numerical_answer": "1.2400000000", "problem_number": "630"}
+{"answer": "\\text{Not easily expressible in elementary terms}", "numerical_answer": "0.8414709848", "problem_number": "631"}
+{"answer": "-\\sum_{n=2}^{\\infty} \\left( \\frac{1}{n(n+1)} + \\frac{1}{n^2(n+1)} \\right)", "numerical_answer": "-0.6449340668", "problem_number": "632"}
+{"answer": "-\\frac{\\pi^2}{8} \\ln(2)", "numerical_answer": "-0.8472978604", "problem_number": "633"}

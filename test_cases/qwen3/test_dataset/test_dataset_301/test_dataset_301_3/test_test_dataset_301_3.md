@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2}{12} - \\frac{(\\ln 2)^2}{2}", "numerical_answer": "0.2106484835"}

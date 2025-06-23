@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2}}{8}\\Bigl(\\pi^2-8\\,\\Li_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)+8\\,\\Li_2(1-\\sqrt{2})+4\\ln^2\\frac{1+\\sqrt{2}}{2}\\Bigr)",
+  "numerical_answer": "0.7771340000"
+}

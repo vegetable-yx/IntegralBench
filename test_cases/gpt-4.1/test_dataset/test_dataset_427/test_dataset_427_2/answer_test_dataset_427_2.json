@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{71}{105} \\sqrt{11} - \\frac{1}{2}\\int_0^1 \\left( \\frac{8}{7} x^{10} + \\frac{86}{35} x^{8} + \\frac{58}{15} x^{6} + 2 x^4 \\right) (2x^4 + 3x^2 + 6)^{-1/2} dx",
+  "numerical_answer": "3.2013229467"
+}

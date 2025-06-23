@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\sum_{k=0}^\\infty \\frac{\\Gamma\\left(\\frac{k+1}{2}\\right)\\Gamma\\left(\\frac{k+2}{2}\\right)}{(k!)^2 2^k \\Gamma(k+2)}",
+  "numerical_answer": "2.7368875497"
+}

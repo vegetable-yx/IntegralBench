@@ -1,0 +1,4 @@
+{
+  "answer": "2^{1/4}\\sqrt{\\pi}\\Bigl(J_{-1/4}(1/\\sqrt{2})-J_{1/4}(1/\\sqrt{2})\\Bigr)",
+  "numerical_answer": "1.7090000000"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\int_0^1 \\frac{\\cos(s)}{\\sqrt{s(1 - s)}} \\, ds", "numerical_answer": "2.6220590223"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{486} + \\frac{\\pi (\\ln 2)^2}{6} - \\frac{\\ln 2}{2} \\operatorname{Cl}_2\\left(\\frac{\\pi}{3}\\right) + \\int_0^{\\pi/6} (\\ln \\sin \\theta)^2 \\, d\\theta",
+  "numerical_answer": "0.5024164108"
+}

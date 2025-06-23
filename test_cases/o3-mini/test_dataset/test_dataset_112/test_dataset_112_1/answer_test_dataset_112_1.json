@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac12\\sum_{n=1}^{\\infty}\\frac{\\Gamma\\left(\\frac{n}{2}+\\frac{1}{4}\\right)\\Gamma\\left(\\frac{n}{2}-\\frac{1}{4}\\right)}{n^2\\,\\Gamma(n)}",
+  "numerical_answer": "2.3902540000"
+}

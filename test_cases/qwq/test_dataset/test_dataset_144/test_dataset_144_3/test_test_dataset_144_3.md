@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to a series involving Bessel functions and gamma functions as derived analytically", "numerical_answer": "0.3465297645"}

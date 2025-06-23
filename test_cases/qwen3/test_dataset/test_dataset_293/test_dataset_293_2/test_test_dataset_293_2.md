@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{8 \\sqrt{2} \\, \\Gamma\\left(\\frac{3}{4}\\right)^4}", "numerical_answer": "1.4445932751"}

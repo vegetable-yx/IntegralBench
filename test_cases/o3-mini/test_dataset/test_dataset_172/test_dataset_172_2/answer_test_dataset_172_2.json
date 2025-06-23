@@ -1,0 +1,4 @@
+{
+  "answer": "\\( \\frac{\\Gamma(1/4)^2}{64\\sqrt{2\\pi}}\\Bigl[ 8\\sqrt{\\pi}\\,_2F_1\\Bigl(-\\frac12,\\frac14;\\frac34;\\frac12\\Bigr)-\\Gamma(1/4)^2 \\Bigr] \\)",
+  "numerical_answer": "0.2234500000"
+}

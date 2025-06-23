@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{16} \\arcsin\\left(\\frac{1}{4}\\right) - \\frac{1}{8} \\int_{0}^{0.5} \\frac{x \\sqrt{0.25 - x^2}}{\\sqrt{4 - x^2}} \\, dx - \\frac{1}{8} \\int_{0}^{0.5} \\frac{\\arcsin(2x)}{\\sqrt{4 - x^2}} \\, dx", "numerical_answer": "0.0068190752"}

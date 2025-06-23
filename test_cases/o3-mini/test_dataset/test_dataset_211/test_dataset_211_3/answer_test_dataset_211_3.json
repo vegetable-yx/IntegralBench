@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{\\frac{\\pi}{2}}\\,e^{-\\frac{1}{2}}\\Bigl[I_{-\\frac{1}{4}}\\Bigl(\\frac{1}{2}\\Bigr)+I_{\\frac{1}{4}}\\Bigl(\\frac{1}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "1.5005400000"
+}

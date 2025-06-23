@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{1}\\frac{1}{1-0.5^2x}\\:\\mathbf{E}\\left(0.5\\sqrt{x}\\right)\\mathbf{E}\\big(\\sqrt{1-x}\\big)\\:dx",
+  "numerical_answer": "1.6449340668"
+}

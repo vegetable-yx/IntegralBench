@@ -1,0 +1,4 @@
+{
+  "answer": "\\left[ \\frac{\\partial^2}{\\partial \\alpha \\partial \\beta} + 2 \\frac{\\partial^2}{\\partial \\alpha \\partial \\gamma } + \\frac{\\partial^2}{ \\partial \\beta \\partial \\gamma } + \\frac{\\partial^2}{\\partial \\gamma^2 } \\right] \\left. \\left[ \\frac{ \\Gamma(\\alpha)\\Gamma(\\beta) }{ \\Gamma(\\alpha+\\beta) } 2^{-\\gamma} \\,{}_2F_1(\\gamma, \\alpha ; \\alpha+\\beta; 1/2 ) \\right] \\right|_{\\substack{ \\alpha = 3/2 \\\\ \\beta = 3/2 \\\\ \\gamma = 7/2}}",
+  "numerical_answer": "0.0146766604"
+}

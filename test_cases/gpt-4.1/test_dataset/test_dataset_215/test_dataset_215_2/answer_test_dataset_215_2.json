@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{\\frac{\\pi}{2}}\\sum_{n=0}^{\\infty} \\frac{(-1)^n}{(2n)!\\; 4^n} \\frac{\\Gamma\\left(n+\\frac{3}{4}\\right)}{\\Gamma\\left(n+\\frac{5}{4}\\right)}",
+  "numerical_answer": "1.5705768872"
+}

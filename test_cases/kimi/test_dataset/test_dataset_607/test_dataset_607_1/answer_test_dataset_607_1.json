@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{\\frac{\\pi}{4}}^{\\frac{3\\pi}{4}} \\cosh^{-1}(\\sqrt{2} \\sin(u)) \\, du",
+  "numerical_answer": "1.1507964474"
+}

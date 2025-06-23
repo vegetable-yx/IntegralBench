@@ -1,0 +1,4 @@
+{
+  "answer": "sqrt(3) * Gamma(1/4)^2 / (2^{1/2} * Gamma(3/4))",
+  "numerical_answer": "30.2656059713"
+}

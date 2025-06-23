@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 \\frac{1}{\\sqrt{1 + 4x^2}} \\ln\\left(2x + \\sqrt{1 + 4x^2}\\right) \\arccos x \\, dx",
+  "numerical_answer": "0.4934802200544679"
+}

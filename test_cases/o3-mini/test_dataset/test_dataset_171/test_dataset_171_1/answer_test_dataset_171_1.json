@@ -1,0 +1,4 @@
+{
+  "answer": "\\(\\displaystyle I=\\frac{1}{9216}\\Biggl[256\\, _4F_3\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{3}{2},\\frac{3}{2};1,\\frac{7}{4},\\frac{9}{4};\\frac{1}{4}\\Bigr)-512\\, _4F_3\\Bigl(\\frac{1}{2},\\frac{1}{2},\\frac{3}{2},\\frac{3}{2};1,\\frac{5}{4},\\frac{7}{4};\\frac{1}{4}\\Bigr)\\Biggr] \\),",
+  "numerical_answer": "0.0159480123"
+}

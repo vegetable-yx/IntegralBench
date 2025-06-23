@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{25} \\cdot \\frac{\\Gamma\\left(\\frac{1}{25}\\right) \\Gamma\\left(\\frac{21}{20}\\right)}{\\Gamma\\left(\\frac{1}{25} + \\frac{21}{20}\\right)} - \\frac{1}{20} \\cdot \\frac{\\Gamma\\left(\\frac{1}{20}\\right) \\Gamma\\left(\\frac{26}{25}\\right)}{\\Gamma\\left(\\frac{1}{20} + \\frac{26}{25}\\right)}",
+  "numerical_answer": "0.0000000000"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{3}{4} \\ln\\left(\\frac{1 + \\sqrt{5}}{2}\\right) - \\frac{\\sqrt{5}}{8}", "numerical_answer": "0.0814003720"}

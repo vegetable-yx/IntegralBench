@@ -1,0 +1,4 @@
+{
+  "answer": "}\\frac{1}{\\sqrt{3}} \\left( \\frac{\\pi \\ln(3)}{3} - \\frac{1}{2} \\text{Li}_2(-3) + \\frac{1}{2} \\text{Li}_2\\left(-\\frac{1}{3}\\right) \\right)\\text{",
+  "numerical_answer": "1.55940399"
+}

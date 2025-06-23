@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\pi} \\sinh(4)", "numerical_answer": "48.371854600"}

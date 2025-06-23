@@ -1,0 +1,1 @@
+{"answer": "\\frac{5\\sqrt{\\pi}}{2} \\left(5 I_0(5) - I_1(5)\\right)", "numerical_answer": "451.1190683000"}

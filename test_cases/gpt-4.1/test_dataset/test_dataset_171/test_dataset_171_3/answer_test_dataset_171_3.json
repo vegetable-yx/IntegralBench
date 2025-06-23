@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{16} \\int_{0}^{\\frac{\\pi}{2}} \\sin^3\\theta \\, \\ln\\cot\\frac{\\theta}{2} \\, \\mathbf{K}\\left(\\frac{1}{4}\\sin\\theta\\right)\\cos\\theta\\; d\\theta",
+  "numerical_answer": "0.0117174536"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2}}{8}\\Bigl(16\\,\\operatorname{Li}_3(1/\\sqrt{2})-8\\,\\operatorname{Li}_3(1-1/\\sqrt{2})-24\\,\\operatorname{Li}_3(1/2)+15\\,\\zeta(3)\\Bigr)",
+  "numerical_answer": "2.7078700000"
+}

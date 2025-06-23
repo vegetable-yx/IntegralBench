@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\ln\\left(x + \\sqrt{x^2 + 1}\\right) \\ln\\left(\\frac{1 + \\sqrt{1 - x^2}}{1 - \\sqrt{1 - x^2}}\\right) \\, dx",
+  "numerical_answer": "0.4674011003"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{\\pi^3}{4} \\log 2 + \\frac{7\\pi}{16} \\zeta(3) + \\frac{\\pi^4}{32} - \\frac{45}{32}\\zeta(4)",
+  "numerical_answer": "-2.2023220030"
+}

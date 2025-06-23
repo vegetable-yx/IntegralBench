@@ -1,0 +1,4 @@
+{
+  "answer": "{\\sum_{m=1}^{\\infty} \\frac{4^m m^2}{(2m + 1)(2m + 1)!}}",
+  "numerical_answer": "0.3465295811"
+}

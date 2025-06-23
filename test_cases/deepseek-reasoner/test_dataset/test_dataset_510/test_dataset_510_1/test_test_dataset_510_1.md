@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{7\\pi\\sqrt{3}}{9}", "numerical_answer": 4.2321982864}

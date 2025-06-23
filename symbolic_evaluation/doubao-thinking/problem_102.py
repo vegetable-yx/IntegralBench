@@ -1,0 +1,14 @@
+import mpmath as mp
+mp.dps = 15
+
+# Calculate π using mpmath's constant
+pi_value = mp.pi
+
+# Square the π value
+pi_squared = pi_value ** 2
+
+# Divide by 24 to get final result
+result = pi_squared / 24
+
+# Print result with 10 decimal precision
+print(mp.nstr(result, n=10))

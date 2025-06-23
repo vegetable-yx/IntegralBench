@@ -1,0 +1,1 @@
+{"answer": "\\ln\\left(\\frac{3}{253}\\right)", "numerical_answer": "-4.4347772002"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{(-1)^n \\cdot 2^{2n + 1} \\cdot (n!)^2}{(2n)! \\cdot (2n + 1)!}",
+  "numerical_answer": "1.3765280289"
+}

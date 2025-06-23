@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2}\\int_0^{\\frac{\\pi}{2}} \\sin\\theta \\sqrt{1+\\sin^2\\theta} \\ln\\left(\\sin\\theta + \\sqrt{1+\\sin^2\\theta}\\right) d\\theta - \\frac{1}{4}\\int_0^{\\frac{\\pi}{2}} \\left[ \\ln\\left( \\sin\\theta + \\sqrt{1+\\sin^2\\theta } \\right) \\right]^2 d\\theta - \\frac{\\pi}{16}",
+  "numerical_answer": "-0.0629870915"
+}

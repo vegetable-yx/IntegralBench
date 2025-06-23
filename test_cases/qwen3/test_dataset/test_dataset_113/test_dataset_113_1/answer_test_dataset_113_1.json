@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\pi \\left( 2 \\operatorname{Li}_2\\left( \\frac{\\sqrt{2} - 1}{2} \\right) - \\left( \\ln\\left( \\frac{\\sqrt{2} + 1}{2} \\right) \\right)^2 \\right)",
+  "numerical_answer": "1.2408834056"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{3} \\int_0^{\\pi/2} \\sin^{1/2} \\phi \\cdot \\cosh(3 \\sin \\phi) \\, d\\phi",
+  "numerical_answer": "5.4412438723"
+}

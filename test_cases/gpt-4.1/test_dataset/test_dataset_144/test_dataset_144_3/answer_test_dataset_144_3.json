@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{k+1}{k! (2k+3) \\Gamma\\left(k+\\frac{5}{2}\\right)}",
+  "numerical_answer": "0.3465735903"
+}

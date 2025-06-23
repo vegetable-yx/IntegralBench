@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2} \\cdot \\Gamma\\left(\\frac{3}{4}\\right)^2", "numerical_answer": "1.7539397832"}

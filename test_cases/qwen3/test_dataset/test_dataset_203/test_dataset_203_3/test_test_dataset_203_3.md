@@ -1,0 +1,1 @@
+{"answer": "\\text{The integral cannot be expressed in terms of elementary functions and requires special functions or numerical approximation.}", "numerical_answer": "0.8183469902"}

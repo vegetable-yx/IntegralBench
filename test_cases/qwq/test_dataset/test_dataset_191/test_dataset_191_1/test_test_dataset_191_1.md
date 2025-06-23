@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\pi^2 \\ln^2\\left(1+\\sqrt{2}\\right)}{120}", "numerical_answer": "0.0638829920"}

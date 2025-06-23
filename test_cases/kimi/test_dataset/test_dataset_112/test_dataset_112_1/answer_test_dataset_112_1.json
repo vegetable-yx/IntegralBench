@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} x^{-3/4} (2 - x)^{-5/4} \\mathrm{Li}_2\\left(0.5 \\sqrt{x(2 - x)}\\right) \\, dx",
+  "numerical_answer": "0.0000000000"
+}

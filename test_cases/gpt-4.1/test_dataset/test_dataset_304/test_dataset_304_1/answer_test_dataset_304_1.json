@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{16} K\\left(\\frac{1}{2}\\right) + \\frac{\\pi}{24}\\; {}_2F_1\\left( \\frac{1}{2}, \\frac{5}{2}; 1; \\frac{1}{4} \\right ) + \\frac{\\pi}{96}\\; {}_2F_1\\left( \\frac{1}{2}, \\frac{9}{2}; 1; \\frac{1}{4} \\right )",
+  "numerical_answer": "0.3437739408"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{96}+\\frac{\\pi\\ln^2 2}{16}-\\frac{\\ln2\\,\\operatorname{Li}_2(1/2)}{8}+\\frac{\\operatorname{Li}_3(1/2)}{8}",
+  "numerical_answer": "0.4338460000"
+}

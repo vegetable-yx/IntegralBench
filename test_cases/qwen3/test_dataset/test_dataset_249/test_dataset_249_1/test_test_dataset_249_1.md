@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} (\\sqrt{5} - 2)", "numerical_answer": "0.3708147229"}

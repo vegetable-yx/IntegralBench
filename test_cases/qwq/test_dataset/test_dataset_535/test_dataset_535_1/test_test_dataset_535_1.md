@@ -1,0 +1,1 @@
+{"answer": "\\frac{e^3}{3}", "numerical_answer": "6.6951789744"}

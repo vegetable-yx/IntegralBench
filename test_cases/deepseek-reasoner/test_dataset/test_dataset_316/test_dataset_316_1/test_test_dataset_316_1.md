@@ -1,0 +1,1 @@
+{"answer": "4\\sqrt{2}\\,\\pi\\ln 2 - \\frac{7\\sqrt{2}}{2}\\,\\zeta(3)", "numerical_answer": "2.1774867879"}

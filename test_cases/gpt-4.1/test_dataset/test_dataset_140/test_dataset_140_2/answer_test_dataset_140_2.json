@@ -1,0 +1,4 @@
+{
+  "answer": "16 \\int_0^{\\frac{\\pi}{2}} \\sin^3\\theta\\, \\cos\\theta\\, \\ln\\left[ \\cot\\left(\\frac{\\theta}{2}\\right) \\right] I_0(2\\sin\\theta)\\, d\\theta",
+  "numerical_answer": "4.0605104608"
+}

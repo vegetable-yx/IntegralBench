@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{\\pi^{3/2}\\Gamma\\left(\\frac{3}{4}\\right)}{2\\sqrt{2}\\,\\Gamma\\left(\\frac{5}{4}\\right)}\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{4}\\Bigr)$",
+  "numerical_answer": "3.3892282000"
+}

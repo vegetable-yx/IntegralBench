@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{1}{x} \\arccos x \\, I_1(2x) \\, dx",
+  "numerical_answer": "1.2160919540229885"
+}

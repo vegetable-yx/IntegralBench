@@ -1,0 +1,4 @@
+{
+  "answer": "4\\ln(2) + \\int_1^2\\frac{9}{x^4+3x+1}dx",
+  "numerical_answer": "5.5129612558"
+}

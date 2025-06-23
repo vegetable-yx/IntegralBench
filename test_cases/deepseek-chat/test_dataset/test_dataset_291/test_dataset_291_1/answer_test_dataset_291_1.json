@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\mathbf{K}\\left(\\frac{\\sqrt{x}}{2}\\right) \\mathbf{K}\\left(\\sqrt{1 - x}\\right) dx",
+  "numerical_answer": "2.2544186039"
+}

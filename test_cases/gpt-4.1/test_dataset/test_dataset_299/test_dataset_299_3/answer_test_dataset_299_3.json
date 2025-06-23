@@ -1,0 +1,4 @@
+{
+  "answer": "\\boxed{\\displaystyle \\sum_{k=0}^{\\infty} \\binom{1/2}{k} \\, \\frac{\\Gamma(1/2)\\Gamma(0.125 + k/2)}{\\Gamma(1.625 + k/2)} \\left[ \\psi(1/2) - \\frac{1}{2}\\psi(0.125 + k/2) + \\frac{1}{2}\\psi(1.625 + k/2) \\right]}",
+  "numerical_answer": "34.6195420000"
+}

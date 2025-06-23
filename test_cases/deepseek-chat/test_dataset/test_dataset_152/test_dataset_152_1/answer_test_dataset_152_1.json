@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{x^{-1/2}}{\\sqrt{1 + \\sqrt{x(1-x)}}} \\cdot K\\left(\\frac{\\sqrt[4]{x(1-x)}}{\\sqrt{1 + \\sqrt{x(1-x)}}}\\right) dx",
+  "numerical_answer": "3.7081493546"
+}

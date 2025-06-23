@@ -1,0 +1,1 @@
+{"answer": "\\frac{e^2 - 1}{4}", "numerical_answer": "1.5972640247"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_0^{\\pi/2} \\frac{\\cos\\theta}{\\sin^2\\theta} \\ln(1 + 2\\sin^2\\theta) \\ln\\left( \\frac{1+\\cos\\theta}{\\sin\\theta} \\right) d\\theta",
+  "numerical_answer": "1.1652434249"
+}

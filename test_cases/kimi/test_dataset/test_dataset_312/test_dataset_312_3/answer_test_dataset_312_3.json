@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{1}\\arccos x\\:\\mathbf{D}\\left(0.5x\\right)dx",
+  "numerical_answer": "0.4246647939"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2}(e - 2)", "numerical_answer": "1.1282746215"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{4} - \\frac{1}{2} \\int_0^1 \\frac{J_0(2x)}{\\sqrt{1 - x^2}} \\, dx",
+  "numerical_answer": "0.324696"
+}

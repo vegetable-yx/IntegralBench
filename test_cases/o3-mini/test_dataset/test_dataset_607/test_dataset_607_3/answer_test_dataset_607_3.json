@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2}\\Bigl[\\operatorname{Li}_2(\\sqrt{2}-1)-\\operatorname{Li}_2(1-\\sqrt{2})\\Bigr]+\\frac{\\pi}{4}\\ln\\left(\\frac{1+\\sqrt{2}}{2}\\right)",
+  "numerical_answer": "0.5705400000"
+}

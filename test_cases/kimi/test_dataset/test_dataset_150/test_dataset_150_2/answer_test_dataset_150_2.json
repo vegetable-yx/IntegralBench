@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} x^{1/4} (2 - x)^{-1/4} \\mathbf{K}(\\sqrt[4]{x(2 - x)}) \\, dx",
+  "numerical_answer": "2.6220575543"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\Gamma\\left(\\dfrac{1}{3}\\right)^6}{32 \\cdot 2^{2/3} \\pi^2}", "numerical_answer": "0.5566857171"}

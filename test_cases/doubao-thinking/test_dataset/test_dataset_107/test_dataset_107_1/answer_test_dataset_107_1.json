@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{1}{(2n + 1)^2 4^n}",
+  "numerical_answer": "1.0306547207"
+}

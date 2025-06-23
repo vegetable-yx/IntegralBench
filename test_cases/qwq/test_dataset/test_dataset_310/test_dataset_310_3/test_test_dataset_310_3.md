@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} D(1)", "numerical_answer": "0.8452173540"}

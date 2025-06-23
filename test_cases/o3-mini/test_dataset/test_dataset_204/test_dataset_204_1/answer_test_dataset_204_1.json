@@ -1,0 +1,4 @@
+{
+  "answer": "4\\sum_{n\\ge0}\\frac{(-1)^n2^n}{(2n+1)!}B\\Big(\\frac{2n+7}{4},\\frac{2n+5}{4}\\Big)",
+  "numerical_answer": "1.9219000000"
+}

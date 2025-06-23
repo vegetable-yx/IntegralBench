@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^2 x^{-1/2} \\left[1 + \\sqrt{x(2 - x)}\\right]^{-3/2} \\, dx",
+  "numerical_answer": "0.7853981634"
+}

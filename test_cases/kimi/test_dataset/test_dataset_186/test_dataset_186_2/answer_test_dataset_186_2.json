@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{1}{1+x^2} \\arctan\\left(x^{5+\\sqrt{24}}\\right) dx",
+  "numerical_answer": "0.2078795763"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "5 \\sum_{k=0}^{4} \\binom{4}{k} \\frac{(-1)^{25-5k}}{25-5k}",
+  "numerical_answer": "0.0000000000"
+}

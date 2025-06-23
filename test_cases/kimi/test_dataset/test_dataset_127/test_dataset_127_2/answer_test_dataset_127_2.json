@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{2.0} x^{-0.25} (2.0 - x)^{-0.75} I_{1.0}\\left(\\sqrt[4]{x(2.0 - x)}\\right) dx",
+  "numerical_answer": "1.7724538509"
+}

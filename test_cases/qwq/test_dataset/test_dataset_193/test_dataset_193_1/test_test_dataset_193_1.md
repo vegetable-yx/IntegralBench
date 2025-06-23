@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\pi^2}{16} \\ln 2", "numerical_answer": "0.4275625062"}

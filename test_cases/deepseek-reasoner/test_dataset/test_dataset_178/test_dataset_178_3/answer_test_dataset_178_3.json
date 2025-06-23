@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} \\frac{J_{\\frac{5}{2}}(x) J_{\\frac{1}{2}}(2 - x)}{x^{2}} \\, dx",
+  "numerical_answer": "0.3095256984"
+}

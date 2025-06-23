@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4} \\int_0^\\pi \\ln\\left( \\frac{ \\sin\\phi + \\sqrt{ 4 + \\sin^2\\phi } }{ 2 } \\right ) \\sin\\phi d\\phi",
+  "numerical_answer": "0.3331866791"
+}

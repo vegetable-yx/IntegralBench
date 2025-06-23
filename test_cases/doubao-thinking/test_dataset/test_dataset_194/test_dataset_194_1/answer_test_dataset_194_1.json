@@ -1,0 +1,4 @@
+{
+  "answer": "\\(-\\pi + 2 E\\left( \\frac{1}{2} \\right) + \\int_{0}^{1} \\frac{\\sqrt{1 - x^2}}{\\sqrt{4 - x^2}} \\, dx\\)",
+  "numerical_answer": "0.1862734123"
+}

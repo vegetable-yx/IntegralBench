@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{k=0}^\\infty \\frac{4^k}{(2k)!} \\frac{\\Gamma(k+3/2)\\Gamma(k+1/2)}{\\Gamma(2k+2)}",
+  "numerical_answer": "3.5600633872"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{(-1)^n}{(2n+1) \\cdot 2^{2n}} \\cdot \\frac{(2n)!!}{(2n+1)!!} \\cdot \\frac{\\pi}{2^{2n+3}}",
+  "numerical_answer": "0.1847286077"
+}

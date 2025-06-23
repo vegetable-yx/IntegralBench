@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{8} \\sum_{k=0}^{\\infty} \\frac{(2k+1)!}{2^{2k} (k+1)^2 (k!)^4}", "numerical_answer": "0.5621232876"}

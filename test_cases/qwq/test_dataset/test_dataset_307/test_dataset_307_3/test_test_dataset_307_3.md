@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\pi \\ln(1+\\sqrt{2}) + 2(\\sqrt{2} -1)}", "numerical_answer": "3.6010158462"}

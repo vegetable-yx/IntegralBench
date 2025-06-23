@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{54\\sqrt{3}} + \\frac{\\pi}{6}(\\ln 2)^2 - \\ln 2 \\text{Cl}_2\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "0.2304450000"}

@@ -1,0 +1,1 @@
+{"answer": "\\pi \\left( \\int_{0}^{1} J_0(z) \\, dz - J_0(1) \\right)", "numerical_answer": "0.4854808980"}

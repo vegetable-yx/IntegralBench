@@ -1,0 +1,4 @@
+{
+  "answer": "8 \\sum_{n=0}^{\\infty} \\frac{16^{n}}{(2n)!} \\frac{\\Gamma\\left(\\frac{n}{2} + \\frac{3}{2}\\right) \\Gamma\\left(\\frac{n}{2} + 1\\right)}{\\Gamma\\left(n + \\frac{5}{2}\\right)}",
+  "numerical_answer": "43.2984294682"
+}

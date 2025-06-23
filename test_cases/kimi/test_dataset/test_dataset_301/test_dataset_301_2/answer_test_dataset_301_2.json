@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^{-0.5} (1-x) \\frac{1}{(1+x)^2} \\left( \\ln(1-x) \\ln x - 2 \\ln^2(1-x) - \\ln(1+x) \\ln x + 2 \\ln(1+x) \\ln(1-x) \\right) \\, dx",
+  "numerical_answer": "-0.281732607"
+}

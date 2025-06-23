@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x^3 \\left(\\sinh^{-1}(x)\\right)^2 \\arccos x \\, dx",
+  "numerical_answer": "0.05234413908"
+}

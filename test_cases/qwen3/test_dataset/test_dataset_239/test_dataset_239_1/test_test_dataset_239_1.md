@@ -1,0 +1,1 @@
+{"answer": "\\int_0^2 \\frac{1}{x} I_1(x) K_0(2-x) \\, dx = I_0(2) - K_0(2)", "numerical_answer": "0.3429558450"}

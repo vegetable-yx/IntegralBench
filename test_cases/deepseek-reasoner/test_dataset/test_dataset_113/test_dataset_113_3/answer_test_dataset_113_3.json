@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2\\pi} \\left( \\text{Li}_2\\left(\\frac{2 - \\sqrt{2}}{4}\\right) - \\text{Li}_2\\left(\\frac{2 + \\sqrt{2}}{4}\\right) \\right)",
+  "numerical_answer": "0.7001031393"
+}

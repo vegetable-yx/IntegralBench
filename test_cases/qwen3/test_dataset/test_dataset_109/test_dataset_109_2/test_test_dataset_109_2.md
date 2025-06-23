@@ -1,0 +1,1 @@
+{"answer": "\\pi \\sqrt{2} \\ln\\left(\\frac{1 + \\sqrt{3}}{\\sqrt{2}}\\right)", "numerical_answer": "2.9261088796"}

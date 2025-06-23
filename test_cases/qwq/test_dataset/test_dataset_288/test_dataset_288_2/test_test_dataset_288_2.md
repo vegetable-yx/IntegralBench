@@ -1,0 +1,1 @@
+{"answer": "\\frac{ -3 \\ln^3(1+\\sqrt{2}) + \\frac{3}{2}(\\pi + 2\\sqrt{2}) \\ln^2(1+\\sqrt{2}) - \\frac{(9 + 2\\sqrt{2}\\pi)}{2} \\ln(1+\\sqrt{2}) + \\frac{\\pi + 3\\sqrt{2}}{2} }{4}", "numerical_answer": "0.1774880000"}

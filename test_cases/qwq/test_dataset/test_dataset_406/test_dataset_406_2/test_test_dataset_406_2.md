@@ -1,0 +1,1 @@
+{"answer": "2\\arcsin\\left( \\frac{\\sqrt{3} - 1}{2} \\right )", "numerical_answer": "0.7491752497"}

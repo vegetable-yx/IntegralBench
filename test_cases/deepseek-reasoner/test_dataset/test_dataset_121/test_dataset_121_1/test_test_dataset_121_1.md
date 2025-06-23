@@ -1,0 +1,1 @@
+{"answer": "\\pi \\sum_{m=0}^\\infty \\frac{(-1)^m}{(2m + 1)^2 \\cdot 4^m}", "numerical_answer": "3.0616168461"}

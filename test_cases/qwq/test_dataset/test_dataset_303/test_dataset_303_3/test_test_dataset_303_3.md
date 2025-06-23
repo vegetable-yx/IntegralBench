@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{16} \\arcsin\\left(\\frac{1}{4}\\right) - \\frac{1}{2} \\arcsin^2\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.0176512084"}

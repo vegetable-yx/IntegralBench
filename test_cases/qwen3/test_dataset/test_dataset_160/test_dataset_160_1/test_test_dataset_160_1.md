@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\sqrt{2} \\pi I_0\\left(\\frac{1}{2}\\right)}", "numerical_answer": "3.8358907673"}

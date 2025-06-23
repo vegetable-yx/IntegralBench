@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4} \\sum_{m=0}^\\infty \\sum_{n=0}^\\infty \\frac{(2m)!\\,(2n)!}{4^{2(m+n)}\\,(m!\\,n!)^2\\,(2m+1)(2n+1)}\\left[\\frac{\\pi}{2(2(m+n)+4)} \\, - \\, \\frac{\\Gamma(m+n+\\frac{7}{2})}{(2(m+n)+4)\\sqrt{\\pi}\\,\\Gamma(m+n+3)}\\right]",
+  "numerical_answer": "0.0392824149"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{2^{2 - k} (k + 1)(k + 2)}{(2k + 4)!}",
+  "numerical_answer": "0.3503003910"
+}

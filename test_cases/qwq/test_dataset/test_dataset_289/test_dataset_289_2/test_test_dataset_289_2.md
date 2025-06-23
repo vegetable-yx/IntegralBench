@@ -1,0 +1,1 @@
+{"answer": "-\\frac{\\pi}{20}", "numerical_answer": "-0.1570796327"}

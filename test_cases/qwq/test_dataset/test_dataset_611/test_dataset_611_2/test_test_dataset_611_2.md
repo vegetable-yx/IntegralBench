@@ -1,0 +1,1 @@
+{"answer": "\\ln(2 + \\sqrt{3}) - \\ln(\\sqrt{3})", "numerical_answer": "0.7678661269"}

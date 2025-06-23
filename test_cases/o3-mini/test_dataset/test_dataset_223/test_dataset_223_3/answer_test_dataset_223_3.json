@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{\\pi}{2}\\ln^2 2+2\\ln2\\,\\mathrm{Li}_2\\left(\\frac12\\right)-2\\,\\mathrm{Li}_3\\left(\\frac12\\right)$",
+  "numerical_answer": "0.4865806302"
+}

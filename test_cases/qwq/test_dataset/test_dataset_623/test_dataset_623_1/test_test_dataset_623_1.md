@@ -1,0 +1,1 @@
+{"answer": "\\pi \\arcsin\\left(\\frac{1}{3}\\right)", "numerical_answer": "1.0683229560"}

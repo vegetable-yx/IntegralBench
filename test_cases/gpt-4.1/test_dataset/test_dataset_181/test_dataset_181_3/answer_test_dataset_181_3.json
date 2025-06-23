@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{2}{\\pi}\\int_0^2\\frac{\\left( \\frac{\\sin x}{x} - \\cos x\\right)\\left(\\frac{\\sin(2-x)}{2-x} - \\cos(2-x)\\right)}{x^2 (2-x)^2 \\sqrt{x(2-x)}}dx",
+  "numerical_answer": "0.0966775648"
+}

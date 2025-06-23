@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{4^{k+1} (k + 1)^2}{(2k + 3)^2 (2k + 2)!}",
+  "numerical_answer": "0.3465297031"
+}

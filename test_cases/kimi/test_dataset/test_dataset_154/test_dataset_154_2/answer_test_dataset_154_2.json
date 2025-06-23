@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\int\\limits_1^{\\sqrt{2}} \\frac{1}{t (t^2 - 1)} \\ln\\left(\\sqrt{t^2 - 1} + t\\right) \\ln\\left(\\frac{1 + \\sqrt{2 - t^2}}{\\sqrt{t^2 - 1}}\\right) \\, dt",
+  "numerical_answer": "0.4987541468"
+}

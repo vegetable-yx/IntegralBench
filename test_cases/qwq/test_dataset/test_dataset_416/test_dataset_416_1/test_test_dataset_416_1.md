@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{2} e^{\\pi/4} - 1}{2}", "numerical_answer": "1.0510433508"}

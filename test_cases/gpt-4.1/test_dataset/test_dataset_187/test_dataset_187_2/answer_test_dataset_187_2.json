@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\frac{1}{1+x^2} \\arctan\\left(x^{11+\\sqrt{120}}\\right) dx = \\frac{\\pi^2}{16} - \\int_0^1 \\frac{1}{1+x^2} \\arctan\\left(x^{1/(11+\\sqrt{120})}\\right) dx",
+  "numerical_answer": "0.1932392043"
+}

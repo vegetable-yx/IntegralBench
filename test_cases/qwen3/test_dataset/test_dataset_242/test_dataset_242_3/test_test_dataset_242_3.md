@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi \\Gamma\\left(\\frac{5}{4}\\right)^2}{2\\sqrt{2} \\Gamma\\left(\\frac{3}{4}\\right)^2}", "numerical_answer": "0.6079271019"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8} \\left( \\text{Li}_2\\left( \\frac{1}{4} \\right) + 3 \\ln\\left( \\frac{4}{3} \\right) - 1 \\right)",
+  "numerical_answer": "0.0512256829"
+}

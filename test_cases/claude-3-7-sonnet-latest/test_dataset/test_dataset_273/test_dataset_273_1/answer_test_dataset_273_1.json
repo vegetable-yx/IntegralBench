@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{48} + \\frac{\\pi}{8}\\ln(2) - \\frac{\\pi}{16}G - \\frac{1}{8}(\\arctan(1))^2\\ln(2)",
+  "numerical_answer": "0.6595177844"
+}

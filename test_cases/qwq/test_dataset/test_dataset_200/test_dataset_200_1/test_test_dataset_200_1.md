@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to a value that requires special functions or numerical methods for an exact form.", "numerical_answer": "1.9660281250"}

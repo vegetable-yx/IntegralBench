@@ -1,0 +1,3 @@
+```json
+{"answer": "\\ln 3", "numerical_answer": "1.0986122887"}
+```

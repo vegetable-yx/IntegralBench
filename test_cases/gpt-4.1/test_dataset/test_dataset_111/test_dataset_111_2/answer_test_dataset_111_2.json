@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\int_0^{\\pi/2} \\cos\\theta\\; \\operatorname{Li}_2(\\sin(2\\theta))\\,d\\theta",
+  "numerical_answer": "1.5822329638"
+}

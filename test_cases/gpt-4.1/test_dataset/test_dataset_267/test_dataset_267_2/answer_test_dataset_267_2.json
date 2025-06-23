@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{4} \\sum_{n=1}^\\infty \\frac{[(2n)!]^2}{n^3\\,(n!)^5\\,64^n}",
+  "numerical_answer": "0.0315412267"
+}

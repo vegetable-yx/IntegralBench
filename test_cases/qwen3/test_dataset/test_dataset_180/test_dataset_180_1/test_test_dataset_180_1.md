@@ -1,0 +1,1 @@
+{"answer": "2 J_{2}(2)", "numerical_answer": "0.7056680572"}

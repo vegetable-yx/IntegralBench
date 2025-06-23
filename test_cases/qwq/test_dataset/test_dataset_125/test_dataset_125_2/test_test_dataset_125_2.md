@@ -1,0 +1,1 @@
+{"answer": "{7 \\pi^4 \\over 1440}", "numerical_answer": "0.4734949366"}

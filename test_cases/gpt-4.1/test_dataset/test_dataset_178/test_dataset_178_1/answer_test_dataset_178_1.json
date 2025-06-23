@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\sum_{m=0}^{\\infty} \\sum_{n=0}^{\\infty} \\frac{(-1)^{m+n}}{m!\\, n!\\, \\Gamma(m+3.5)\\, \\Gamma(n+1.5)} \\frac{\\Gamma(2m+1.5)\\,\\Gamma(2n+1.5)}{\\Gamma(2m+2n+3)}",
+  "numerical_answer": "0.0139880951"
+}

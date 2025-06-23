@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\pi \\ln(3)}{12\\sqrt{3}}", "numerical_answer": "0.1660554462"}

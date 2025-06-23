@@ -1,0 +1,4 @@
+{
+  "answer": "2^{3/2}\\sum_{k=0}^{\\infty}\\frac{2^{-k/2}}{(k!)^2}\\,B\\left(\\frac{k+3}{2},\\frac{k}{2}+1\\right)",
+  "numerical_answer": "3.5274547882"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "}-\\frac{\\pi}{6} \\ln^2 2 + \\int_0^{\\frac{\\pi}{6}} \\ln^2 (\\sin \\theta) \\, d\\theta\\text{",
+  "numerical_answer": "0.1831476218"
+}

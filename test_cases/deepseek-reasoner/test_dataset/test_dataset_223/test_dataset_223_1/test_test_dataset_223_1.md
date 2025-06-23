@@ -1,0 +1,1 @@
+{"answer": "4\\pi G - \\frac{7}{2}\\zeta(3)", "numerical_answer": "2.5198171508"}

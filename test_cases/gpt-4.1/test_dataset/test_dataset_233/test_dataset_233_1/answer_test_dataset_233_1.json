@@ -1,0 +1,4 @@
+{
+  "answer": "2\\int_{0}^{1} t^{-1/2} (1-t^2)^{-1/4} \\left[1 - t\\sqrt{1-t^2}\\right]^{-3/2} dt",
+  "numerical_answer": "7.8270385863"
+}

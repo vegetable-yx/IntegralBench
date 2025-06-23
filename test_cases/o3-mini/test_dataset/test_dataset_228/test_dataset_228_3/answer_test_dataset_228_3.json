@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{128}\\Bigl[16\\ln^4(1+\\sqrt{2})+32\\pi^2\\ln^2(1+\\sqrt{2})-192\\ln(1+\\sqrt{2})\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)-192\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)+48\\pi^2\\ln2+576\\zeta(3)\\Bigr]",
+  "numerical_answer": "8.3877393456"
+}

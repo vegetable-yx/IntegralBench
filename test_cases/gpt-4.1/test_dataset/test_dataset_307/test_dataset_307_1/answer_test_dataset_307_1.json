@@ -1,0 +1,4 @@
+{
+  "answer": "2\\int_{0}^{\\frac{\\pi}{2}} \\sin^2\\theta\\, \\ln\\left(\\sin(2\\theta) + \\sqrt{1+\\sin^2(2\\theta)}\\right)d\\theta",
+  "numerical_answer": "1.1624764247"
+}

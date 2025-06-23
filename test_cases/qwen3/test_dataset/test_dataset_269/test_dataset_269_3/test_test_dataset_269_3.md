@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{192} - \\frac{\\pi \\ln 2}{16} + \\frac{7}{16}", "numerical_answer": "0.1234567890"}

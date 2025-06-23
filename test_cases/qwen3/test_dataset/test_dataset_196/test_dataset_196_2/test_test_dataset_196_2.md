@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{3}}{8} - \\frac{\\pi^2}{72}", "numerical_answer": "0.1401629166"}

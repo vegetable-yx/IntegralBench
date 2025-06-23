@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{32} \\left( \\ln\\left(1 + \\sqrt{2}\\right) \\right)^3", "numerical_answer": "0.0674006321"}

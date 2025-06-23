@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{128}\\Bigl\\{-4\\pi\\Bigl[J_0(2)H_1(2)-J_1(2)H_0(2)-J_1(2)H_2(2)+J_2(2)H_1(2)\\Bigr]+2\\Bigl[2J_0(2)-7J_2(2)+5J_4(2)\\Bigr]\\Bigr\\}",
+  "numerical_answer": "0.1015000000"
+}

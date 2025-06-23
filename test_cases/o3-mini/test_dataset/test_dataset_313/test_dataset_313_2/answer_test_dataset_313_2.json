@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(1/4)^2}{4\\sqrt{2\\pi}}\\, _2F_1\\left(\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{2}\\right)",
+  "numerical_answer": "0.5447000000"
+}

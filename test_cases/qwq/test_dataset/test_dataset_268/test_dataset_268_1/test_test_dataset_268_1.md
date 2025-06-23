@@ -1,0 +1,1 @@
+{"answer": "\\frac{11\\pi\\zeta(3)}{16}", "numerical_answer": "2.5962565589"}

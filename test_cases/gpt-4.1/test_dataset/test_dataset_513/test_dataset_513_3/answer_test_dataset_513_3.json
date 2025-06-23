@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{-4}^4 \\lvert x^3-x\\rvert dx = 113",
+  "numerical_answer": "113.0000000000"
+}

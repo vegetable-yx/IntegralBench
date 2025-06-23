@@ -1,0 +1,1 @@
+{"answer": "-4\\sqrt{2}\\pi\\ln 2", "numerical_answer": "-12.3191538100"}

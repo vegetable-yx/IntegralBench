@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{\\infty}\\frac{1}{x(4x^2+1)}\\arctan[5x+4x^3]dx",
+  "numerical_answer": "0.5235987755982988"
+}

@@ -1,0 +1,1 @@
+{"answer": "e^{4} - 1", "numerical_answer": "53.5981500331"}

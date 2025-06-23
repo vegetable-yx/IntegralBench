@@ -1,0 +1,1 @@
+{"answer": "{\\frac{\\pi^2}{16} - \\frac{\\pi}{2}\\ln\\left(1+\\sqrt{2}\\right) + \\frac{\\ln^2\\left(1+\\sqrt{2}\\right)}{2} - \\frac{\\sqrt{2}\\ln\\left(1+\\sqrt{2}\\right)}{2} + \\frac{\\sqrt{2}-1}{2}}", "numerical_answer": "0.2231000000"}

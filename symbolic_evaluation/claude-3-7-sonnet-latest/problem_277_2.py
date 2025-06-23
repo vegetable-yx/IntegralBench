@@ -1,0 +1,13 @@
+import mpmath as mp
+
+# Set internal precision to 15 decimal places
+mp.dps = 15
+
+# Compute the modified Bessel function of the first kind of order 1 at 1
+bessel_val = mp.besseli(1, 1)
+
+# Multiply by pi to get the final result
+result = mp.pi * bessel_val
+
+# Print the result to 10 decimal places
+print(mp.nstr(result, n=10))

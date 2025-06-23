@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 x \\mathbf{L}_0(2\\sqrt{x}) \\mathbf{K}\\left(\\sqrt{1-x}\\right) dx",
+  "numerical_answer": "0.4227843350984671"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{8\\sqrt{2}}\\Bigl[\\pi\\ln^2(1+\\sqrt{2})+4\\ln(1+\\sqrt{2})\\ln\\Bigl(\\frac{\\sqrt{2}}{2}\\Bigr)+2\\operatorname{Li}_2\\Bigl(-\\frac{1}{\\sqrt{2}}\\Bigr)-2\\operatorname{Li}_2\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.1083806825"
+}

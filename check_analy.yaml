@@ -1,0 +1,48 @@
+analy_verification_prompt: |
+  You are a mathematical assistant skilled in generating Python code using mpmath to compute numerical results from analytical expressions.
+
+  Given the analytical answer in LaTeX format: ${answer}
+
+  Please generate Python code to handle this analytical expression following these requirements:
+
+  STEP 1 - Validity Check:
+  - If the answer contains text like "\\text{Exact solution is complex}", "\\text{No simple closed-form solution}", "\\text{Complex}", "\\text{Not easily expressed}", or similar invalid expressions, generate ONLY this code:
+    # Invalid results - no simple closed-form solution
+    pass
+
+  STEP 2 - For Valid Mathematical Expressions:
+  Generate Python code using mpmath to evaluate the analytical expression to exactly 10 decimal places.
+
+  Code Requirements:
+  1. Do NOT use numerical integration (mpmath.quad). Instead, translate the analytical answer into direct mpmath calculations.
+  2. Break complex expressions into smaller, manageable parts using intermediate variables.
+  3. Do not compute everything in a single line - use multiple steps to avoid errors.
+  4. Include comments explaining each significant calculation step.
+  5. Use mpmath.dps = 15 for internal precision.
+  6. The code must ONLY print a single floating-point number. No other text or multiple outputs allowed.
+  7. For printing the result, use ONLY: print(mp.nstr(result, n=10))
+
+  CRITICAL - Use EXACT correct mpmath function names:
+  - Use mp.asin(x), NOT mp.arcsin(x) - arcsin is not valid
+  - Use mp.acos(x), NOT mp.arccos(x) - arccos is not valid  
+  - Use mp.atan(x), NOT mp.arctan(x) - arctan is not valid
+  - Use mp.log(x), NOT mp.ln(x) - ln is not valid
+  - Use mp.ellipe(x), NOT mp.ellipd(x) - ellipd is not valid
+  - Use mp.struveh(v, x) for Hankel Struve function \mathbf{H}_v(z)
+  - Use mp.struvel(v, x) for modified Struve function \mathbf{L}_v(z)
+  - Use mp.sin(x), NOT math.sin(x) or sin(x)
+  - Use mp.exp(x), NOT math.exp(x) or exp(x)
+  - Use mp.sqrt(x), NOT math.sqrt(x)
+  - Use mp.pi, NOT math.pi or PI
+  - Use mp.e, NOT math.e or e
+
+  Special Functions:
+  - Complete elliptic integrals: mp.ellipk(k) for K(k), mp.ellipe(k) for E(k)
+  - Dilogarithm: mp.polylog(2, x) for Li_2(x)
+  - Gamma function: mp.gamma(x)
+  - Beta function: mp.beta(a, b)
+
+  Output Format:
+  - Use mp.nstr(result, n=10) for formatting, NOT f'{result:.10f}'
+  - Ensure code includes proper mpmath imports and precision setting
+  - Provide only the Python code, no explanations or markdown formatting

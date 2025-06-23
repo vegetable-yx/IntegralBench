@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x(1 - x^2)^{1/2} \\arcsin\\left(0.5x\\right) \\, dx",
+  "numerical_answer": "0.1591549431"
+}

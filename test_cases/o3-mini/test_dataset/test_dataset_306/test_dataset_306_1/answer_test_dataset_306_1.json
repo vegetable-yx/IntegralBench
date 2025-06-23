@@ -1,0 +1,4 @@
+{
+  "answer": "\\pi\\ln\\left(\\frac{\\sqrt{2}+1}{2}\\right)+\\sqrt{2}\\Bigl(K\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)-E\\Bigl(\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr)",
+  "numerical_answer": "1.3040000000"
+}

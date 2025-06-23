@@ -1,0 +1,47 @@
+
+
+To solve the definite integral \(\int_0^1 (x-1)^2(x+1)^2(x^2+1)^2(x^4+1)^2 \, dx\), we start by simplifying the integrand.
+
+### Step 1: Simplify the integrand
+Notice that the product of squared terms can be simplified using difference of squares identities:
+- \((x-1)^2(x+1)^2 = [(x-1)(x+1)]^2 = (x^2 - 1)^2\)
+- \((x^2 - 1)^2(x^2 + 1)^2 = [(x^2 - 1)(x^2 + 1)]^2 = (x^4 - 1)^2\)
+- \((x^4 - 1)^2(x^4 + 1)^2 = [(x^4 - 1)(x^4 + 1)]^2 = (x^8 - 1)^2\)
+
+Thus, the integrand simplifies to \((x^8 - 1)^2\).
+
+### Step 2: Expand the simplified integrand
+Expanding \((x^8 - 1)^2\) gives:
+\[
+(x^8 - 1)^2 = x^{16} - 2x^8 + 1
+\]
+
+### Step 3: Integrate term by term
+We now integrate \(x^{16} - 2x^8 + 1\) from 0 to 1:
+\[
+\int_0^1 (x^{16} - 2x^8 + 1) \, dx = \int_0^1 x^{16} \, dx - 2\int_0^1 x^8 \, dx + \int_0^1 1 \, dx
+\]
+
+Using the power rule for integration \(\int x^n \, dx = \frac{x^{n+1}}{n+1}\) (for \(n \neq -1\)):
+- \(\int_0^1 x^{16} \, dx = \left[ \frac{x^{17}}{17} \right]_0^1 = \frac{1}{17} - 0 = \frac{1}{17}\)
+- \(\int_0^1 x^8 \, dx = \left[ \frac{x^9}{9} \right]_0^1 = \frac{1}{9} - 0 = \frac{1}{9}\), so \(2\int_0^1 x^8 \, dx = \frac{2}{9}\)
+- \(\int_0^1 1 \, dx = \left[ x \right]_0^1 = 1 - 0 = 1\)
+
+### Step 4: Combine the results
+Adding these results together:
+\[
+\frac{1}{17} - \frac{2}{9} + 1
+\]
+
+To combine the fractions, use a common denominator (153):
+\[
+\frac{1}{17} = \frac{9}{153}, \quad \frac{2}{9} = \frac{34}{153}, \quad 1 = \frac{153}{153}
+\]
+\[
+\frac{9}{153} - \frac{34}{153} + \frac{153}{153} = \frac{9 - 34 + 153}{153} = \frac{128}{153}
+\]
+
+### Numerical Approximation
+The exact value \(\frac{128}{153}\) approximates to \(0.8366013072\) (rounded to 10 decimal places).
+
+{"answer": "\(\frac{128}{153}\)", "numerical_answer": "0.8366013072"}

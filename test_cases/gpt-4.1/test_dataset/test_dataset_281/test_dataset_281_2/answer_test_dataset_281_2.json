@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{16^n \\, \\Gamma\\left(n + \\frac{3}{4}\\right) \\Gamma\\left(n + \\frac{1}{4}\\right)}{(2n)!}",
+  "numerical_answer": "30.5415539397"
+}

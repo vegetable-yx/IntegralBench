@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2 - 6\\pi + 12\\sqrt{3}}{60}", "numerical_answer": "0.1967443017"}

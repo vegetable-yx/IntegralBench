@@ -1,0 +1,4 @@
+{
+  "answer": "-8 \\int_0^{1/2} \\frac{t^4 \\arcsin t \\arccos(2t)}{\\sqrt{1-t^2}} \\, dt + \\frac{1}{4} \\int_0^1 \\frac{x^4 (\\arcsin(x/2))^2}{\\sqrt{1-x^2}} \\, dx",
+  "numerical_answer": "-0.0115871545"
+}

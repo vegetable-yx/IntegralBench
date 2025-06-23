@@ -1,0 +1,4 @@
+{
+  "answer": "$-\\frac{\\pi^3}{144}+\\frac{\\pi^2\\sqrt{3}}{24}-\\frac{\\pi}{8}+\\frac{\\sqrt{3}}{48}\\Bigl[\\operatorname{Li}_2(e^{i\\pi/3})+\\operatorname{Li}_2(e^{-i\\pi/3})\\Bigr]-\\frac{1}{16}\\Bigl[\\operatorname{Li}_2(1/4)-\\operatorname{Li}_2(-1/2)\\Bigr]$",
+  "numerical_answer": "0.0793368000"
+}

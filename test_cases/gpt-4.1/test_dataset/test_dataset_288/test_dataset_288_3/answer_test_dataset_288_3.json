@@ -1,0 +1,4 @@
+{
+  "answer": "\\\\frac{\\\\pi}{2} \\\\left( \\\\frac{3}{4} (\\\\ln(1+\\\\sqrt{2}))^2 - \\\\frac{1}{4} \\\\ln(1+\\\\sqrt{2})\\\\, \\\\sinh(2\\\\ln(1+\\\\sqrt{2})) + \\\\frac{1}{8} \\\\cosh(2\\\\ln(1+\\\\sqrt{2})) - \\\\frac{1}{8} \\\\right) - \\\\int_{0}^{\\\\frac{\\\\pi}{2}} \\\\theta\\\\, \\\\sin\\\\theta \\\\, [\\\\operatorname{arcsinh}(\\\\sin\\\\theta)]^2 \\\\cos\\\\theta\\, d\\\\theta",
+  "numerical_answer": "0.1476707621"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\pi} \\cdot \\frac{\\Gamma\\left(\\frac{3}{4}\\right)}{\\Gamma\\left(\\frac{5}{4}\\right)} \\cdot J_{\\frac{1}{4}}\\left(\\frac{1}{2}\\right)", "numerical_answer": "1.8683885470"}

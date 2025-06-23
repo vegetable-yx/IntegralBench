@@ -1,0 +1,1 @@
+{"answer": "\\int_{0}^{2} x^{-1/4} (2 - x)^{1/4} \\sin\\left(\\sqrt[4]{x(2 - x}\\right) \\, dx", "numerical_answer": "1.7666851628"}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{24} \\left(4 \\ln(1 + \\sqrt{2}) - 2 \\ln 2 - 1\\right)", "numerical_answer": "0.1491146831"}

@@ -1,0 +1,4 @@
+{
+  "answer": "-4 \\int_0^{\\frac{\\pi}{2}} \\frac{\\cos(2\\theta)\\,\\ln(\\sin\\theta)}{1+\\sin^2(2\\theta)} \\, d\\theta",
+  "numerical_answer": "1.2916728616"
+}

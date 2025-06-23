@@ -1,0 +1,4 @@
+{
+  "answer": "3 - \\frac{1}{\\sqrt{2}}\\ln\\left(\\frac{\\sqrt{2}+1}{\\sqrt{2}-1}\\right) - \\sqrt{2}\\ln(1+\\sqrt{2})",
+  "numerical_answer": "0.5071212936"
+}

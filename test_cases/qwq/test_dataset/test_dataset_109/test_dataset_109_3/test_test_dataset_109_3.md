@@ -1,0 +1,1 @@
+{"answer": "\\pi \\operatorname{E}\\left( \\frac{1}{\\sqrt{2}} \\right)", "numerical_answer": "4.2441318700"}

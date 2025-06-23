@@ -1,0 +1,317 @@
+{"answer": "\\frac{\\pi}{4}\\ln(2)", "numerical_answer": "0.5444517031", "problem_number": "101"}
+{"answer": "\\pi\\ln(2)", "numerical_answer": "2.1775860903", "problem_number": "102"}
+{"answer": "\\frac{\\pi^2}{12}", "numerical_answer": "0.8224670334", "problem_number": "103"}
+{"answer": "\\arcsin\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.2526802551", "problem_number": "104"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "105"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "106"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "107"}
+{"answer": "\\frac{2\\sqrt{2}\\pi}{3}", "numerical_answer": "2.9567304944", "problem_number": "108"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "109"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "110"}
+{"answer": "\\frac{\\pi^3}{3}", "numerical_answer": "10.3047492322", "problem_number": "111"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8571150438", "problem_number": "112"}
+{"answer": "\\frac{4\\pi^3}{3}", "numerical_answer": "41.3416755738", "problem_number": "113"}
+{"answer": "\\frac{\\pi\\ln(2)}{8}", "numerical_answer": "0.2726511138", "problem_number": "114"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "115"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2912859970", "problem_number": "116"}
+{"answer": "\\frac{5\\pi^2}{8}", "numerical_answer": "6.1685027506", "problem_number": "117"}
+{"answer": "\\frac{\\pi^3}{4}", "numerical_answer": "7.7439239822", "problem_number": "118"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8761289815", "problem_number": "119"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8760099765", "problem_number": "120"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "121"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "122"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "123"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "124"}
+{"answer": "\\frac{\\pi^3}{32}", "numerical_answer": "0.9671833956", "problem_number": "125"}
+{"answer": "\\frac{\\pi^2}{4\\sqrt{3}}", "numerical_answer": "1.4270415402", "problem_number": "126"}
+{"answer": "\\pi\\sqrt{2} \\cdot I_1(1)", "numerical_answer": "2.5066282746", "problem_number": "127"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "128"}
+{"answer": "\\pi\\sqrt{2} \\cdot I_0(1)", "numerical_answer": "5.6518490534", "problem_number": "129"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "130"}
+{"answer": "2.0 \\pi I_1(1.0)", "numerical_answer": "3.5506245369", "problem_number": "131"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "132"}
+{"answer": "1 - I_0(1)", "numerical_answer": "-0.2660658778", "problem_number": "133"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "134"}
+{"answer": "\\frac{\\pi(4\\sqrt{2} - 1)}{4}", "numerical_answer": "3.6576088082", "problem_number": "135"}
+{"answer": "\\frac{4\\sqrt{2}}{3}", "numerical_answer": "1.8856180831", "problem_number": "136"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "137"}
+{"answer": "\\frac{\\pi}{6}(I_0(6)-1)", "numerical_answer": "34.6482265027", "problem_number": "138"}
+{"answer": "\\pi I_1(2.0)", "numerical_answer": "4.9991148503", "problem_number": "139"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "140"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "141"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "142"}
+{"answer": "\\frac{\\pi}{4}I_1(2)", "numerical_answer": "1.2500000000", "problem_number": "143"}
+{"answer": "\\frac{\\pi}{8}(1-I_0(2))", "numerical_answer": "-0.5014444463", "problem_number": "144"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "145"}
+{"answer": "\\frac{\\pi^2}{2\\sqrt{2}}", "numerical_answer": "3.4893538083", "problem_number": "146"}
+{"answer": "\\frac{\\pi\\sqrt{2}}{2}\\mathbf{K}^2\\left(\\frac{1}{\\sqrt{2}}\\right)", "numerical_answer": "7.6157346934", "problem_number": "147"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "148"}
+{"answer": "4\\mathbf{K}^2(1/\\sqrt{2})", "numerical_answer": "13.7401580979", "problem_number": "149"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "150"}
+{"answer": "\\frac{2\\pi^2}{\\Gamma^2(\\frac{1}{4})}", "numerical_answer": "1.5058418741", "problem_number": "151"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "152"}
+{"answer": "\\frac{\\pi^2}{24} - \\frac{1}{2}\\ln^2(2)", "numerical_answer": "0.1710070459", "problem_number": "153"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2912859970", "problem_number": "154"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2919278195", "problem_number": "155"}
+{"answer": "\\frac{\\pi^3}{8} \\cdot \\ln(1+\\sqrt{2})", "numerical_answer": "3.4148750018", "problem_number": "156"}
+{"answer": "", "numerical_answer": "", "problem_number": "157"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "158"}
+{"answer": "4\\sinh(4)", "numerical_answer": "109.1596691868", "problem_number": "159"}
+{"answer": "2\\pi\\sinh(1)", "numerical_answer": "7.3778942433", "problem_number": "160"}
+{"answer": "2(1 + \\sinh(1) - \\cosh(1))", "numerical_answer": "1.2642411177", "problem_number": "161"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "162"}
+{"answer": "\\frac{59\\pi^2}{24} - \\frac{65G}{8}", "numerical_answer": "16.8212870042", "problem_number": "163"}
+{"answer": "7\\pi^4", "numerical_answer": "681.8636372380", "problem_number": "164"}
+{"answer": "\\pi e^{-2.0}", "numerical_answer": "0.4251251886", "problem_number": "165"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "166"}
+{"answer": "2\\pi\\ln(3)", "numerical_answer": "6.9067547724", "problem_number": "167"}
+{"answer": "\\frac{\\pi^3}{4}", "numerical_answer": "7.7041001040", "problem_number": "168"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8784663499", "problem_number": "169"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "170"}
+{"answer": "\\frac{\\pi^2}{12}", "numerical_answer": "0.8224670334", "problem_number": "171"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2919282367", "problem_number": "172"}
+{"answer": "\\frac{\\pi^3}{192}", "numerical_answer": "0.1608507489", "problem_number": "173"}
+{"answer": "\\frac{\\pi^3}{8} - \\frac{\\pi}{2} \\text{Li}_2(0.0625)", "numerical_answer": "3.7494610134", "problem_number": "174"}
+{"answer": "\\frac{3\\pi}{32}", "numerical_answer": "0.2945243112", "problem_number": "175"}
+{"answer": "\\frac{\\pi^3}{13.5}", "numerical_answer": "2.2967612355", "problem_number": "176"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "177"}
+{"answer": "\\frac{1}{16\\sqrt{\\pi}} \\left(\\frac{\\sin 2.0}{2.0} - \\cos 2.0\\right)", "numerical_answer": "0.0307042808", "problem_number": "178"}
+{"answer": "\\frac{1}{4}", "numerical_answer": "0.2500000000", "problem_number": "179"}
+{"answer": "\\frac{\\sqrt{2}}{\\pi}", "numerical_answer": "0.4501581580", "problem_number": "180"}
+{"answer": "-\\frac{\\pi}{2}\\left[1-\\frac{2J_{1.5}(2.0)}{\\sqrt{\\pi}}\\right]", "numerical_answer": "-0.8033535043", "problem_number": "181"}
+{"answer": "2\\pi\\ln(2)", "numerical_answer": "4.3551188968", "problem_number": "182"}
+{"answer": "\\frac{\\pi}{4}\\ln(1+\\sqrt{2})", "numerical_answer": "0.6931471806", "problem_number": "183"}
+{"answer": "\\frac{\\pi(\\pi - 4\\ln 2)}{16}", "numerical_answer": "0.0996686525", "problem_number": "184"}
+{"answer": "\\frac{\\pi^2(4-\\sqrt{8})}{64}", "numerical_answer": "0.1805831238", "problem_number": "185"}
+{"answer": "\\frac{(5 + 2\\sqrt{6})\\pi^2}{32}", "numerical_answer": "3.0475749391", "problem_number": "186"}
+{"answer": "(11+\\sqrt{120})\\left(\\frac{\\pi^2}{64} + \\frac{\\pi}{16} + \\frac{1}{8}\\right)", "numerical_answer": "7.5745118664", "problem_number": "187"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "188"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "189"}
+{"answer": "\\frac{\\pi^3}{96}", "numerical_answer": "0.3224147547", "problem_number": "190"}
+{"answer": "\\frac{\\pi^3}{192} + \\frac{\\pi}{16}\\ln^2 2 - \\frac{\\pi}{4}\\ln^2(1+\\sqrt{2}) + \\frac{\\pi}{8}\\zeta(3)", "numerical_answer": "0.4251257377", "problem_number": "191"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2912859970", "problem_number": "192"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2912859970", "problem_number": "193"}
+{"answer": "\\frac{\\pi^2}{24} + \\frac{1}{4}\\left(\\frac{\\pi}{2}\\ln 2 - \\text{Catalan}\\right)", "numerical_answer": "0.1355484602", "problem_number": "194"}
+{"answer": "2 - \\frac{\\pi}{2}", "numerical_answer": "0.4292036732", "problem_number": "195"}
+{"answer": "\\frac{\\pi}{8} - \\frac{1}{4}", "numerical_answer": "0.1427146234", "problem_number": "196"}
+{"answer": "\\frac{\\pi^2}{16} + \\frac{1}{4}", "numerical_answer": "0.8677323193", "problem_number": "197"}
+{"answer": "4.0 - 4.0\\cos{(1.0)}", "numerical_answer": "1.8387907765", "problem_number": "198"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "199"}
+{"answer": "2(1-\\cos(1))", "numerical_answer": "0.9193953882", "problem_number": "200"}
+{"answer": "\\pi J_1(1)", "numerical_answer": "1.9116207991", "problem_number": "201"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "202"}
+{"answer": "2\\sin(1)", "numerical_answer": "1.6829419696", "problem_number": "203"}
+{"answer": "\\int\\limits_0^{2.0}x^{1/2}\\sin\\left(1.0\\sqrt[4]{x(2.0-x)}\\right)dx \\approx 0.9631945174", "numerical_answer": "0.9631945174", "problem_number": "204"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "205"}
+{"answer": "\\frac{\\pi^2}{12}", "numerical_answer": "0.8224670334", "problem_number": "206"}
+{"answer": "\\frac{\\pi^2}{8\\sqrt{2}}", "numerical_answer": "0.8723145307", "problem_number": "207"}
+{"answer": "\\frac{\\pi}{4}\\ln^2 2", "numerical_answer": "0.3775290108", "problem_number": "208"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8757845850", "problem_number": "210"}
+{"answer": "\\frac{\\pi}{2} J_0(2)", "numerical_answer": "0.3517825651", "problem_number": "211"}
+{"answer": "\\pi J_1(1)", "numerical_answer": "1.3825692956", "problem_number": "212"}
+{"answer": "2\\sin(1)", "numerical_answer": "1.6829419696", "problem_number": "213"}
+{"answer": "\\pi J_0(1)", "numerical_answer": "2.4048255577", "problem_number": "214"}
+{"answer": "\\pi J_0(0.5)", "numerical_answer": "2.9486522153", "problem_number": "215"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "216"}
+{"answer": "\\sqrt{2\\pi}\\cos(1)", "numerical_answer": "1.3547005384", "problem_number": "217"}
+{"answer": "\\frac{\\pi}{3}\\ln^2(2) - \\frac{\\pi}{3}\\ln(2) + \\frac{\\pi}{3} - 2\\ln(2) - 2\\ln(\\sqrt{3}-1)", "numerical_answer": "0.0718558709", "problem_number": "218"}
+{"answer": "\\sqrt{2} \\sin(1)", "numerical_answer": "1.1899615283", "problem_number": "219"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "220"}
+{"answer": "\\frac{3\\pi}{16}", "numerical_answer": "0.5890486225", "problem_number": "221"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "222"}
+{"answer": "2\\pi\\zeta(3)", "numerical_answer": "7.5450546592", "problem_number": "223"}
+{"answer": "\\frac{7\\pi^3}{48}", "numerical_answer": "4.4934092199", "problem_number": "224"}
+{"answer": "4\\pi\\zeta(3)", "numerical_answer": "15.0996997371", "problem_number": "225"}
+{"answer": "\\pi\\ln^2(1+\\sqrt{2})", "numerical_answer": "2.4405808886", "problem_number": "226"}
+{"answer": "\\frac{7\\pi^3}{48}", "numerical_answer": "4.5217487242", "problem_number": "227"}
+{"answer": "-\\frac{7}{4}\\zeta(3)", "numerical_answer": "-2.1035995805", "problem_number": "228"}
+{"answer": "\\frac{\\pi^3}{96}", "numerical_answer": "0.3229820488", "problem_number": "229"}
+{"answer": "\\frac{5\\pi^3}{192}", "numerical_answer": "0.8028230507", "problem_number": "230"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "231"}
+{"answer": "2\\sqrt{2}\\pi", "numerical_answer": "8.8857658353", "problem_number": "232"}
+{"answer": "4\\pi", "numerical_answer": "12.5663706144", "problem_number": "233"}
+{"answer": "\\frac{\\pi(8-2\\sqrt{2})}{3}", "numerical_answer": "6.8201073045", "problem_number": "234"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "235"}
+{"answer": "4\\pi", "numerical_answer": "12.5663706144", "problem_number": "236"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "237"}
+{"answer": "\\frac{8}{3}", "numerical_answer": "2.6666666667", "problem_number": "238"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "239"}
+{"answer": "\\sqrt{10} - 3", "numerical_answer": "0.1622776602", "problem_number": "240"}
+{"answer": "\\frac{1}{4\\pi}", "numerical_answer": "0.0795774715", "problem_number": "241"}
+{"answer": "4\\pi", "numerical_answer": "12.5663706144", "problem_number": "242"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "243"}
+{"answer": "\\frac{3\\pi^4}{32}", "numerical_answer": "9.1320397532", "problem_number": "244"}
+{"answer": "\\frac{1024}{15}", "numerical_answer": "68.2666666667", "problem_number": "245"}
+{"answer": "24\\pi^2", "numerical_answer": "236.8705056248", "problem_number": "246"}
+{"answer": "\\frac{3\\pi^2}{32}", "numerical_answer": "0.9252754126", "problem_number": "247"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "248"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "249"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "250"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "251"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011002", "problem_number": "252"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "254"}
+{"answer": "-6\\pi", "numerical_answer": "-18.8495559215", "problem_number": "255"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "256"}
+{"answer": "2e^{-0.25} \\cdot \\sqrt{\\pi}", "numerical_answer": "2.7612110101", "problem_number": "258"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "259"}
+{"answer": "\\frac{\\pi}{2}J_0(1) \\cdot [\\ln(2) + \\gamma]", "numerical_answer": "1.5010438741", "problem_number": "260"}
+{"answer": "\\frac{\\sin 2}{4}", "numerical_answer": "0.2273243567", "problem_number": "261"}
+{"answer": "\\frac{1}{4}", "numerical_answer": "0.2500000000", "problem_number": "262"}
+{"answer": "\\frac{\\pi + \\sin 2}{4}", "numerical_answer": "1.0127225201", "problem_number": "264"}
+{"answer": "\\frac{\\pi(1-J_0(2))}{8}", "numerical_answer": "0.3047174037", "problem_number": "265"}
+{"answer": "\\frac{\\pi}{4}(1 - J_0(2))", "numerical_answer": "0.6096400535", "problem_number": "266"}
+{"answer": "\\frac{\\pi^3}{48}", "numerical_answer": "0.6434600346", "problem_number": "267"}
+{"answer": "\\frac{5\\pi^2\\ln 2}{4} - \\frac{\\pi^4}{48} + \\frac{3\\pi^2\\zeta(3)}{4}", "numerical_answer": "15.4112505432", "problem_number": "268"}
+{"answer": "\\frac{\\pi^3}{192}", "numerical_answer": "0.1608054593", "problem_number": "269"}
+{"answer": "\\frac{\\pi^3}{1536} - \\frac{\\pi}{384} + \\frac{1}{192}", "numerical_answer": "0.0063329133", "problem_number": "270"}
+{"answer": "\\frac{\\pi^3(25 - 6\\pi)}{512}", "numerical_answer": "0.0159353983", "problem_number": "271"}
+{"answer": "\\frac{\\pi^2}{8} - \\int\\limits_{0}^{1}\\arcsin(x)\\arctan(x)dx", "numerical_answer": "0.5822045766", "problem_number": "272"}
+{"answer": "\\frac{\\pi^3}{48} + \\frac{\\pi}{8}\\ln(2) - \\frac{\\pi}{16}G - \\frac{1}{8}(\\arctan(1))^2\\ln(2)", "numerical_answer": "0.6595177844", "problem_number": "273"}
+{"answer": "\\frac{125\\pi I_1(5)}{16}", "numerical_answer": "598.5470809", "problem_number": "274"}
+{"answer": "\\frac{3\\sqrt{3}}{2}\\sinh(3)", "numerical_answer": "26.0270432466", "problem_number": "275"}
+{"answer": "2\\pi I_0(6)", "numerical_answer": "422.3236883989", "problem_number": "276"}
+{"answer": "2\\pi I_1(1)", "numerical_answer": "3.5505245785", "problem_number": "277"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "278"}
+{"answer": "\\pi I_0(1)", "numerical_answer": "3.9771463315", "problem_number": "279"}
+{"answer": "3\\pi", "numerical_answer": "9.4247779607", "problem_number": "280"}
+{"answer": "2\\pi e^4", "numerical_answer": "342.6943572", "problem_number": "281"}
+{"answer": "\\frac{\\pi \\cdot I_0(4)}{\\sqrt{2}}", "numerical_answer": "25.0262725364", "problem_number": "282"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "283"}
+{"answer": "\\frac{\\pi}{2}\\ln(1+\\sqrt{2})", "numerical_answer": "1.0890448039", "problem_number": "284"}
+{"answer": "\\frac{\\pi^3}{48}", "numerical_answer": "0.6451448049", "problem_number": "285"}
+{"answer": "\\frac{\\pi^3}{48}", "numerical_answer": "0.6443243795", "problem_number": "286"}
+{"answer": "\\approx 0.0957822479", "numerical_answer": "0.0957822479", "problem_number": "287"}
+{"answer": "\\frac{15\\pi^3 - \\pi^5}{120} - \\frac{\\pi(\\ln 2)^2}{4} + \\frac{(\\ln 2)^3}{3}", "numerical_answer": "0.5551903570", "problem_number": "288"}
+{"answer": "\\frac{\\pi}{32}", "numerical_answer": "0.0981747704", "problem_number": "289"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "290"}
+{"answer": "\\pi\\mathbf{K}\\left(\\frac{\\sqrt{3}}{2}\\right)", "numerical_answer": "6.7745358040", "problem_number": "291"}
+{"answer": "\\frac{\\pi\\Gamma^4(1/4)}{64}", "numerical_answer": "4.3774014386", "problem_number": "292"}
+{"answer": "\\pi^2 - 2\\mathbf{K}^2(0.5)", "numerical_answer": "4.1860975168", "problem_number": "293"}
+{"answer": "\\frac{4}{3}[\\mathbf{K}(0.5)]^2", "numerical_answer": "3.7890038570", "problem_number": "294"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "295"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "296"}
+{"answer": "\\frac{4}{27}", "numerical_answer": "0.1481481481", "problem_number": "297"}
+{"answer": "\\frac{4\\pi}{3}", "numerical_answer": "4.1887902048", "problem_number": "298"}
+{"answer": "\\pi \\cdot [\\psi(0.125)-\\psi(0.625)]", "numerical_answer": "-8.7142086015", "problem_number": "299"}
+{"answer": "\\frac{\\pi}{2}\\left[\\ln 2 - \\frac{3}{2}\\right]", "numerical_answer": "-1.2673626302", "problem_number": "300"}
+{"answer": "-\\frac{\\pi^3}{8}", "numerical_answer": "-3.8506309042", "problem_number": "301"}
+{"answer": "\\frac{\\pi}{2}\\left(\\arcsin\\left(\\frac{1}{4}\\right) - 1\\right)", "numerical_answer": "-1.1755705046", "problem_number": "302"}
+{"answer": "\\frac{\\pi^2}{32}", "numerical_answer": "0.3084261334", "problem_number": "303"}
+{"answer": "\\frac{\\pi^2}{108}", "numerical_answer": "0.0913852263", "problem_number": "304"}
+{"answer": "\\frac{1}{2}\\ln(2)", "numerical_answer": "0.3465735903", "problem_number": "305"}
+{"answer": "\\pi\\ln\\left(\\frac{1+\\sqrt{2}}{2}\\right)", "numerical_answer": "0.5913630822", "problem_number": "306"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "307"}
+{"answer": "\\pi\\ln(1+\\sqrt{2})", "numerical_answer": "2.7688673043", "problem_number": "308"}
+{"answer": "2\\pi\\ln(1+\\sqrt{2})", "numerical_answer": "5.5389383183", "problem_number": "309"}
+{"answer": "\\pi \\ln(4)", "numerical_answer": "4.3552892347", "problem_number": "310"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "311"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "312"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "313"}
+{"answer": "-\\frac{\\pi^2}{6}\\ln(3)", "numerical_answer": "-5.4689446470", "problem_number": "314"}
+{"answer": "\\zeta(3)", "numerical_answer": "1.2020569032", "problem_number": "315"}
+{"answer": "\\frac{2\\pi^2}{3}", "numerical_answer": "6.5797362674", "problem_number": "316"}
+{"answer": "-4\\ln(2)\\ln(1+\\sqrt{2})", "numerical_answer": "-2.4412396232", "problem_number": "317"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "318"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "319"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "320"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "321"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "401"}
+{"answer": "2\\log\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "0.0922137164", "problem_number": "402"}
+{"answer": "7!", "numerical_answer": "5040.0000000000", "problem_number": "403"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "404"}
+{"answer": "2e^4 + e^3 + e^2 + e - 1", "numerical_answer": "138.3891749168", "problem_number": "405"}
+{"answer": "\\frac{\\pi}{3}", "numerical_answer": "1.0471975512", "problem_number": "406"}
+{"answer": "\\frac{\\pi}{12}", "numerical_answer": "0.2617993878", "problem_number": "407"}
+{"answer": "\\frac{1}{8}\\ln\\left(\\frac{5}{3}\\right) - \\frac{1}{20}", "numerical_answer": "0.0138532030", "problem_number": "408"}
+{"answer": "\\frac{\\pi}{2}\\ln(2)", "numerical_answer": "1.0887694473", "problem_number": "409"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2e}", "numerical_answer": "0.3262902569", "problem_number": "410"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "411"}
+{"answer": "e(3-e)", "numerical_answer": "0.7659149057", "problem_number": "412"}
+{"answer": "506\\pi", "numerical_answer": "1589.6458927284", "problem_number": "413"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "414"}
+{"answer": "\\frac{4}{5}", "numerical_answer": "0.8000000000", "problem_number": "415"}
+{"answer": "\\frac{e^{\\pi/4}}{\\sqrt{2}} - \\frac{1}{2}", "numerical_answer": "1.0508456944", "problem_number": "416"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "417"}
+{"answer": "\\frac{\\pi^2}{6} - 1", "numerical_answer": "0.6449340668", "problem_number": "418"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "419"}
+{"answer": "\\frac{3-\\sqrt{5}}{2} - \\frac{1}{2}\\ln\\left(\\frac{-1+\\sqrt{5}}{2}\\right)", "numerical_answer": "0.6225719238", "problem_number": "420"}
+{"answer": "\\sin(1)", "numerical_answer": "0.8414709848", "problem_number": "421"}
+{"answer": "2^{-2/3}", "numerical_answer": "0.6299605249", "problem_number": "422"}
+{"answer": "99", "numerical_answer": "99.0000000000", "problem_number": "423"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "424"}
+{"answer": "\\frac{128}{153}", "numerical_answer": "0.8366013072", "problem_number": "425"}
+{"answer": "", "numerical_answer": "", "problem_number": "426"}
+{"answer": "\\frac{11\\sqrt{11}}{15}", "numerical_answer": "2.4308819042", "problem_number": "427"}
+{"answer": "7", "numerical_answer": "7.0000000000", "problem_number": "428"}
+{"answer": "4\\ln(2) + \\int_1^2\\frac{9}{x^4+3x+1}dx", "numerical_answer": "5.5129612558", "problem_number": "429"}
+{"answer": "-\\frac{2023}{2022}", "numerical_answer": "-1.0004945598", "problem_number": "430"}
+{"answer": "\\frac{2}{5}", "numerical_answer": "0.4000000000", "problem_number": "501"}
+{"answer": "\\frac{10747}{10}", "numerical_answer": "1074.7000000000", "problem_number": "502"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "503"}
+{"answer": "\\frac{1}{2^{99}}\\sum_{k=0}^{99}(-1)^{-k}\\binom{99}{k}\\frac{\\cos((200-2k)x)}{200-2k} + C", "numerical_answer": "N/A", "problem_number": "504"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "505"}
+{"answer": "2011", "numerical_answer": "2011.0000000000", "problem_number": "506"}
+{"answer": "18", "numerical_answer": "18.0000000000", "problem_number": "507"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "508"}
+{"answer": "\\frac{2\\pi}{3} + 4\\sqrt{3}", "numerical_answer": "9.0225983327", "problem_number": "509"}
+{"answer": "\\frac{\\pi\\sqrt{3}}{3}", "numerical_answer": "1.8137993642", "problem_number": "510"}
+{"answer": "2\\sin(2\\sqrt{2})", "numerical_answer": "0.6493989384", "problem_number": "511"}
+{"answer": "\\frac{e^2-1}{4}", "numerical_answer": "1.5972640247", "problem_number": "512"}
+{"answer": "113", "numerical_answer": "113.0000000000", "problem_number": "513"}
+{"answer": "\\frac{\\pi}{6} + \\frac{\\sqrt{3}}{8}", "numerical_answer": "0.7401051265", "problem_number": "514"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "515"}
+{"answer": "\\frac{\\pi}{2} - 1", "numerical_answer": "0.5707963268", "problem_number": "516"}
+{"answer": "\\sqrt{\\frac{\\pi}{2}} \\cdot e^{\\frac{1}{8}}", "numerical_answer": "1.4201269047", "problem_number": "517"}
+{"answer": "4036", "numerical_answer": "4036.0000000000", "problem_number": "518"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "519"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "520"}
+{"answer": "\\ln(3)", "numerical_answer": "1.0986122887", "problem_number": "521"}
+{"answer": "\\frac{2\\sqrt{\\pi}}{\\sqrt{2019}}", "numerical_answer": "0.0788709710", "problem_number": "522"}
+{"answer": "\\ln(2)", "numerical_answer": "0.6931471806", "problem_number": "523"}
+{"answer": "\\frac{e^2 + 1}{2}", "numerical_answer": "4.1945280495", "problem_number": "524"}
+{"answer": "\\frac{\\pi}{4} - \\frac{1}{2}", "numerical_answer": "0.2853981634", "problem_number": "525"}
+{"answer": "\\frac{\\pi\\ln(3)}{4}", "numerical_answer": "0.8630865158", "problem_number": "526"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "527"}
+{"answer": "e^{e-1} - e", "numerical_answer": "2.8191991181", "problem_number": "528"}
+{"answer": "-\\pi", "numerical_answer": "-3.1415926536", "problem_number": "529"}
+{"answer": "", "numerical_answer": "", "problem_number": "530"}
+{"answer": "-\\frac{179}{32}", "numerical_answer": "-5.5937500000", "problem_number": "531"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "532"}
+{"answer": "\\frac{8}{7}", "numerical_answer": "1.1428571429", "problem_number": "533"}
+{"answer": "2\\sqrt{\\pi}", "numerical_answer": "3.5449077018", "problem_number": "534"}
+{"answer": "\\frac{e^3}{3}", "numerical_answer": "6.6951789744", "problem_number": "535"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "536"}
+{"answer": "3 + \\frac{1}{\\ln(2)}", "numerical_answer": "4.4426950409", "problem_number": "537"}
+{"answer": "-2\\pi + \\frac{17}{4}\\tan^{-1}(4) - 2\\ln(2)", "numerical_answer": "-0.1485429486", "problem_number": "601"}
+{"answer": "\\frac{3}{4}", "numerical_answer": "0.7500000000", "problem_number": "602"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "603"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "604"}
+{"answer": "\\frac{3\\pi}{4\\sqrt{2}} - \\frac{\\pi}{16} - \\frac{\\ln(2)}{2\\sqrt{2}}", "numerical_answer": "1.2266765664", "problem_number": "605"}
+{"answer": "2\\pi\\ln(2)", "numerical_answer": "4.3551571576", "problem_number": "606"}
+{"answer": "\\pi\\ln(1+\\sqrt{2})", "numerical_answer": "2.7655843366", "problem_number": "607"}
+{"answer": "\\frac{\\ln^4(2)}{4}", "numerical_answer": "0.0577978568", "problem_number": "608"}
+{"answer": "-1", "numerical_answer": "-1.0000000000", "problem_number": "609"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "610"}
+{"answer": "\\ln\\left|\\frac{2\\sqrt{3} + 3}{3}\\right|", "numerical_answer": "0.6584789484", "problem_number": "611"}
+{"answer": "626", "numerical_answer": "626.0000000000", "problem_number": "612"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "613"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "614"}
+{"answer": "14", "numerical_answer": "14.0000000000", "problem_number": "615"}
+{"answer": "\\frac{\\pi^2}{12}", "numerical_answer": "0.8224670334", "problem_number": "616"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "617"}
+{"answer": "\\gamma", "numerical_answer": "0.5772156649", "problem_number": "618"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "619"}
+{"answer": "-\\frac{\\pi}{4}\\ln(2)", "numerical_answer": "-0.5436563656", "problem_number": "620"}
+{"answer": "-\\pi\\ln(2)", "numerical_answer": "-2.1776954337", "problem_number": "621"}
+{"answer": "\\frac{6 + \\pi}{32}", "numerical_answer": "0.2856747704", "problem_number": "622"}
+{"answer": "\\pi\\ln\\left(\\frac{3}{2}\\right)", "numerical_answer": "1.2738771168", "problem_number": "623"}
+{"answer": "\\frac{11\\pi^2}{18}", "numerical_answer": "6.0201641852", "problem_number": "624"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "625"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "626"}
+{"answer": "\\frac{\\pi}{4} - \\frac{1}{2}\\ln(2) + \\gamma", "numerical_answer": "1.0160402380", "problem_number": "627"}
+{"answer": "\\frac{\\pi}{8} - \\frac{3}{4} - \\frac{\\ln(2)}{2}", "numerical_answer": "-0.7038745086", "problem_number": "628"}
+{"answer": "\\ln\\left(\\frac{253}{3}\\right)", "numerical_answer": "4.4345125443", "problem_number": "629"}
+{"answer": "\\frac{\\pi}{6\\sqrt{3}}\\left[\\frac{3}{2}\\ln(3) - 1\\right]", "numerical_answer": "0.1960459625", "problem_number": "630"}
+{"answer": "\\sin(1)", "numerical_answer": "0.8414709848", "problem_number": "631"}
+{"answer": "-\\ln(2)", "numerical_answer": "-0.6931471806", "problem_number": "632"}
+{"answer": "-\\frac{\\pi^2}{16}", "numerical_answer": "-0.6168502712", "problem_number": "633"}

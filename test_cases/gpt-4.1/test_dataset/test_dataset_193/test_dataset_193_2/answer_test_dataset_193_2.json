@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\frac{\\pi}{2}} \\tan\\theta\\, \\theta \\left( \\sinh^{-1} \\cos\\theta \\right)^2 d\\theta",
+  "numerical_answer": "0.3264827485"
+}

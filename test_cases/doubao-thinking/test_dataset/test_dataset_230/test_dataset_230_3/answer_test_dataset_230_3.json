@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^2 \\left(\\sinh^{-1}(x)\\right)^2 \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) dx",
+  "numerical_answer": "0.0868561896"
+}

@@ -1,0 +1,1 @@
+{"answer": "2 E\\left(\\frac{\\sqrt{2}}{2}\\right)", "numerical_answer": "2.7012816554"}

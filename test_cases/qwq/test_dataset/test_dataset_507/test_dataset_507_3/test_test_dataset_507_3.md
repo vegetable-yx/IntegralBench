@@ -1,0 +1,1 @@
+{"answer": "18", "numerical_answer": "18.0000000000"}

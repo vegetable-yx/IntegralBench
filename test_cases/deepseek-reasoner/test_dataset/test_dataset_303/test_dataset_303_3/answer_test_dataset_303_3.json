@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{128} - \\frac{\\sqrt{3}\\pi}{64} + \\frac{3\\sqrt{3}}{32} \\arcsin\\left(\\frac{1}{4}\\right)",
+  "numerical_answer": "0.0478601375"
+}

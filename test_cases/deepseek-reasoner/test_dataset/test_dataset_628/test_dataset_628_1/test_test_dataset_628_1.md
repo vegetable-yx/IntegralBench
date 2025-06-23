@@ -1,0 +1,1 @@
+{"answer": "-\\dfrac{6 + 2\\ln 2 + \\pi}{16}", "numerical_answer": "-0.6579929384"}

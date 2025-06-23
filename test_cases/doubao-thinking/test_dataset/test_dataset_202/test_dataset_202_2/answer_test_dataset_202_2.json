@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{-1}^{1} \\cos\\left(\\sqrt{1 - t^2}\\right) dt",
+  "numerical_answer": "1.3765278970"
+}

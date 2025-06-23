@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^4}{2048}", "numerical_answer": "0.0475000000"}

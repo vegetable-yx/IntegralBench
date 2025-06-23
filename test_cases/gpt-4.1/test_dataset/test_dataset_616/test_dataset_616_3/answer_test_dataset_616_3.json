@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{(\\ln 2)^2}{2} + \\int_{0}^{\\infty} \\frac{\\ln(\\cosh t)}{e^{2t} + 1} \\,dt",
+  "numerical_answer": "0.2642182646"
+}

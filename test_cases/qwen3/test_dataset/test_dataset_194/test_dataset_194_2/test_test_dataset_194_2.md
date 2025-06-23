@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^2}{12} - \\frac{\\pi}{3} + \\frac{\\sqrt{3}}{2} \\ln\\left(2 + \\sqrt{3}\\right)", "numerical_answer": "0.1906555066"}

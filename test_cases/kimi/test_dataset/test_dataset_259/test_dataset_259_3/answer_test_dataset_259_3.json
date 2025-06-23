@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\frac{\\pi}{2}} \\sin(\\theta) \\sin(\\sin(\\theta)) \\tanh^{-1}(\\cos(\\theta)) \\cos(\\theta) \\, d\\theta",
+  "numerical_answer": "0.4207402905"
+}

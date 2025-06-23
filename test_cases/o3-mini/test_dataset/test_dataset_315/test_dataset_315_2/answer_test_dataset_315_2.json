@@ -1,0 +1,4 @@
+{
+  "answer": "$-\\ln2\\,\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)-\\frac{1}{2}\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)+\\frac{1}{2}\\ln^3 2+\\frac{\\pi^2\\ln2}{8}-\\frac{7\\zeta(3)}{8}$",
+  "numerical_answer": "-0.7022600000"
+}

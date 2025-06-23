@@ -1,0 +1,4 @@
+{
+  "answer": "-2 \\int_0^{\\pi/2} \\sin 2\\theta \\, \\ln \\tan\\frac{\\theta}{2} \\, I_0(2\\sin\\theta)\\, d\\theta",
+  "numerical_answer": "2.3372575035"
+}

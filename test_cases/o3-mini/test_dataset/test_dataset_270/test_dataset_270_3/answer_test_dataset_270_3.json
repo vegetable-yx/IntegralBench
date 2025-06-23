@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{6912}\\Bigl[128\\ln^2\\frac{\\sqrt3+1}{2}-64\\ln\\frac{\\sqrt3+1}{2}\\ln\\frac{3+2\\sqrt3}{3}+27\\pi-96\\sqrt3\\ln\\frac{3+2\\sqrt3}{3}+256\\,\\operatorname{Li}_2\\Bigl(\\frac{1-\\sqrt3}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0191212782"
+}

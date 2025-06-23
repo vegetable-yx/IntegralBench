@@ -1,0 +1,4 @@
+{
+  "answer": "2\\int_0^{\\frac{\\pi}{2}} \\cos\\theta \\, \\cos(\\sin 2\\theta)\\,d\\theta",
+  "numerical_answer": "1.5817860946"
+}

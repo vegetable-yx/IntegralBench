@@ -1,0 +1,4 @@
+{
+  "answer": "\\left(\\frac{\\pi}{2}\\right)^2 \\sum_{n=0}^\\infty \\left[\\left(\\frac{(2n)!}{2^{2n}(n!)^2}\\right)^2 \\sum_{m=0}^\\infty \\frac{(-1)^m}{2m+1} \\binom{-1/2}{m}^2 \\frac{\\Gamma(n+3)\\Gamma(m+1)}{\\Gamma(n+m+4)}\\right]",
+  "numerical_answer": "0.4596976941"
+}

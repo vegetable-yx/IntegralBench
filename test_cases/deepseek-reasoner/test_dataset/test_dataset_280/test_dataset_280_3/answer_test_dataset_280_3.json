@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{6\\pi}}{4} \\cdot \\frac{\\Gamma\\left(\\frac{3}{4}\\right)}{\\Gamma\\left(\\frac{5}{4}\\right)} \\cdot {}_1F_2\\left( \\frac{3}{4}; \\frac{5}{4}, \\frac{1}{2}; \\frac{9}{4} \\right)",
+  "numerical_answer": "5.2441151105"
+}

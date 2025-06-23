@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\pi^2\\,\\Gamma(3/4)^2}{64\\,\\Gamma(5/4)^2}\\;_2F_1\\Bigl(-\\frac32,\\frac12;1;\\frac12\\Bigr)",
+  "numerical_answer": "0.5580860000"
+}

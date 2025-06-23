@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{16}+\\frac{1}{8\\left(13+\\sqrt{168}\\right)}\\ln\\Biggl(\\frac{\\Gamma\\Bigl(1+\\frac{1}{2\\left(13+\\sqrt{168}\\right)}\\Bigr)\\,\\Gamma\\Bigl(1-\\frac{1}{2\\left(13+\\sqrt{168}\\right)}\\Bigr)}{\\Gamma\\Bigl(\\frac{1}{2}+\\frac{1}{2\\left(13+\\sqrt{168}\\right)}\\Bigr)\\,\\Gamma\\Bigl(\\frac{1}{2}-\\frac{1}{2\\left(13+\\sqrt{168}\\right)}\\Bigr)}\\Biggr)",
+  "numerical_answer": "0.6113300000"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\Gamma\\left(\\frac{1}{4}\\right)^2}{\\sqrt{8\\pi}} e^4", "numerical_answer": "143.1108618240"}

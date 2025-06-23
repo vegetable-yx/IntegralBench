@@ -1,0 +1,6 @@
+```json
+{
+  "answer": "\\dfrac{2\\pi}{3\\sqrt{3}}",
+  "numerical_answer": "1.2091995762"
+}
+```

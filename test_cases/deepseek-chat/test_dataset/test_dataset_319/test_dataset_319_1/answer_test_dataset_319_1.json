@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 \\mathbf{L}_0(2\\sqrt{x}) \\mathbf{E}\\left(\\sqrt{1-x}\\right) dx",
+  "numerical_answer": "1.1183804806"
+}

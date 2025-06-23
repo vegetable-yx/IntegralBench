@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\ln(2) - \\frac{1}{2} (\\arctan(2))^2", "numerical_answer": "1.0842391129"}

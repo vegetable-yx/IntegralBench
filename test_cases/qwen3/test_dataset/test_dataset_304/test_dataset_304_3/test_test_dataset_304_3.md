@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{32} - \\frac{\\sqrt{3}}{24}", "numerical_answer": "0.0981747704"}

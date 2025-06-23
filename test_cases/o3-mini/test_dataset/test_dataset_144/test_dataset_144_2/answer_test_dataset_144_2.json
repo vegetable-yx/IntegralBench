@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{16}\\Bigl(8\\,_{1}F_{2}\\Bigl(1;\\frac32,\\frac52;1\\Bigr)-3\\,_{1}F_{2}\\Bigl(1;\\frac52,3;1\\Bigr)\\Bigr)",
+  "numerical_answer": "0.2843740000"
+}

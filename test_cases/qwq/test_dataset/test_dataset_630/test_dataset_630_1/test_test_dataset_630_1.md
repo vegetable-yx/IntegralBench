@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{3} \\pi \\ln 3}{36}", "numerical_answer": "0.1660551625"}

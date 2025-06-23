@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{\\pi}}{2e}", "numerical_answer": "0.3260246697"}

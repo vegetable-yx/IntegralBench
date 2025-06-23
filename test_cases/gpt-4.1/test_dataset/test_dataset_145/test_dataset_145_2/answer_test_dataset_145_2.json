@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^\\infty \\frac{2^{2k} \\sqrt{\\pi}}{(k+1)! (2k+1) \\Gamma\\left(k + \\frac{3}{2}\\right)}",
+  "numerical_answer": "3.2402743646"
+}

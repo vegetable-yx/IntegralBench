@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{4} \\left(1 - J_1(2)\\right)", "numerical_answer": "0.1058187981"}

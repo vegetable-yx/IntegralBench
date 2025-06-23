@@ -1,0 +1,4 @@
+{
+  "answer": "-\\sqrt2\\Bigl[\\operatorname{Li}_2(1-\\sqrt2)-\\operatorname{Li}_2(-1-\\sqrt2)+\\ln\\Bigl(\\frac{1+\\sqrt2}{2}\\Bigr)\\ln\\Bigl(\\frac{1+\\sqrt2}{\\sqrt2-1}\\Bigr)\\Bigr]",
+  "numerical_answer": "-2.5359671306"
+}

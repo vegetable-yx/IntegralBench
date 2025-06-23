@@ -1,0 +1,1 @@
+{"answer": "2G + 2\\sqrt{2} - 2\\ln(1+\\sqrt{2}) - 2", "numerical_answer": "0.8976111391"}

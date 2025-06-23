@@ -1,0 +1,4 @@
+{
+  "answer": "$\\displaystyle \\frac{\\pi}{2^{5/4}\\,\\Gamma(3/4)}\\Bigl[I_{-1/4}\\Bigl(\\frac{1}{2}\\Bigr)-I_{1/4}\\Bigl(\\frac{1}{2}\\Bigr)\\Bigr]$",
+  "numerical_answer": "1.4000000000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{2}\\Big(\\operatorname{erf}(\\frac{\\sqrt{3}}{2})-\\operatorname{erf}(\\frac{1}{2\\sqrt{3}})\\Big)",
+  "numerical_answer": "0.7287628501"
+}

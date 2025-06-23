@@ -1,0 +1,1 @@
+{"answer": "2\\ln\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "0.0922359515"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{\\pi} \\sum_{m=0}^\\infty \\frac{m+\\frac{3}{2}}{(m+2)(m+1)[m!]^2}",
+  "numerical_answer": "2.2103707890"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^3}{96} - \\frac{\\pi}{64} + \\frac{\\pi}{16} \\sum_{m=1}^{\\infty} \\frac{(-1)^m}{2m+1} \\left[ \\frac{1}{m^2} - \\frac{1}{(m+1)^2} + \\frac{1}{(m-1)^2} - \\frac{1}{(m+2)^2} \\right]",
+  "numerical_answer": "0.3066192235"
+}

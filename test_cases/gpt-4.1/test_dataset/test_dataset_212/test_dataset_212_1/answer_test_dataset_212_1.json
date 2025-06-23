@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum\\limits_{k=0}^\\infty \\frac{(-1)^k \\, \\sqrt{\\pi} \\, \\Gamma\\left(k+\\frac{3}{2}\\right)}{(2k)!\\, \\Gamma(k+2)}",
+  "numerical_answer": "1.0214451176"
+}

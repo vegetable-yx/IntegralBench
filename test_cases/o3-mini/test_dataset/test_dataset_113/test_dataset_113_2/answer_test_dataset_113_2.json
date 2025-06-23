@@ -1,0 +1,4 @@
+{
+  "answer": "$I=\\frac{\\Gamma(1/4)^2}{16\\sqrt{2}}\\Bigl\\{8\\,{}_3F_2\\Bigl(\\frac{1}{4},\\frac{1}{2},\\frac{3}{4};\\frac{5}{4},1;1\\Bigr)-\\Gamma(1/4)^2\\Bigr\\}$",
+  "numerical_answer": "1.2973670000"
+}

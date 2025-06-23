@@ -1,0 +1,4 @@
+{
+  "answer": "\\text{Integral diverges due to } \\int_0^\\infty e^{-3x} \\frac{1}{x} I_0(x) dx",
+  "numerical_answer": "NaN"
+}

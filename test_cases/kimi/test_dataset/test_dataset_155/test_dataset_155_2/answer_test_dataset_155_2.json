@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^1 \\frac{1}{x\\sqrt{x^2+1}} \\ln\\left(x+\\sqrt{x^2+1}\\right) \\ln\\frac{1+\\sqrt{1-x^2}}{x} \\, dx",
+  "numerical_answer": "0.5882518512"
+}

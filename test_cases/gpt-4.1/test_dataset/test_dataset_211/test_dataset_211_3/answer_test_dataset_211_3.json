@@ -1,0 +1,4 @@
+{
+  "answer": "2 J_0(1) + \\sum_{k=1}^{\\infty} J_{2k}(1)\\left( \\frac{1}{2k+1/2} - \\frac{1}{2k-1/2} \\right)",
+  "numerical_answer": "1.4993779732"
+}

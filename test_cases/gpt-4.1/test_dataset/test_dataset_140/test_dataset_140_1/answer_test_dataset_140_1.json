@@ -1,0 +1,4 @@
+{
+  "answer": "16 \\int_0^{\\pi/2} \\sin^3\\theta \\cos\\theta \\ln\\left( \\frac{1+\\cos\\theta}{\\sin\\theta} \\right) I_0(2\\sin\\theta) d\\theta",
+  "numerical_answer": "4.4087065210"
+}

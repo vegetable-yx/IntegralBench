@@ -1,0 +1,1 @@
+{"answer": "\\frac{I_0(6) - 1}{3}", "numerical_answer": "22.0781356406"}

@@ -1,0 +1,4 @@
+{
+  "answer": "-\\frac{\\pi}{4}+\\frac{1}{\\sqrt{2}}\\Bigl(\\sqrt{2+\\sqrt{2}}\\,E\\Bigl(\\frac{\\sqrt{2-\\sqrt{2}}}{2}\\Bigr)+\\sqrt{2-\\sqrt{2}}\\,K\\Bigl(\\frac{\\sqrt{2-\\sqrt{2}}}{2}\\Bigr)\\Bigr)",
+  "numerical_answer": "2.0430289620"
+}

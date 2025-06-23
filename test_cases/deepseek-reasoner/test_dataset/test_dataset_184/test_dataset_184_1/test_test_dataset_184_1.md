@@ -1,0 +1,1 @@
+{"answer": "\dfrac{\pi \\ln 3}{8}", "numerical_answer": 0.4314240447}

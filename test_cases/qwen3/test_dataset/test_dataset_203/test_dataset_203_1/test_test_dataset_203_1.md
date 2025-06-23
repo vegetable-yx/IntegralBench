@@ -1,0 +1,1 @@
+{"answer": "\\sum_{k=0}^{\\infty} \\frac{(-1)^k 8 \\cdot 4^k (k+2)(k+1) (k!)^2}{(2k)! (2k + 3)!}", "numerical_answer": "1.9160713532"}

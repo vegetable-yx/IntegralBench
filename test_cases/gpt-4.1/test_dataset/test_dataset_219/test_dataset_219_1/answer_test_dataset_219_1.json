@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_0^\\pi \\cos\\left( \\sqrt{ \\sin \\varphi } \\right) \\cos\\left( \\frac{\\varphi}{2} \\right) d\\varphi",
+  "numerical_answer": "2.4457984204"
+}

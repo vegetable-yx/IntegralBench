@@ -1,0 +1,1 @@
+{"answer": "-2 (\\ln 2)^2", "numerical_answer": "-0.9609060280"}

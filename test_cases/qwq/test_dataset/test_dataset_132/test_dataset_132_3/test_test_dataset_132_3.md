@@ -1,0 +1,1 @@
+{"answer": "frac{1}{6} I_{3/2}left(frac{1}{sqrt{2}}right)", "numerical_answer": "0.0277081167"}

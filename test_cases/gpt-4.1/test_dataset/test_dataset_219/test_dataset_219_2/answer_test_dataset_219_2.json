@@ -1,0 +1,4 @@
+{
+  "answer": "\\sqrt{2} \\int_0^{\\frac{\\pi}{2}} \\cos\\theta\\,\\cos \\left(\\sin^{1/2} (2\\theta)\\right) \\, d\\theta",
+  "numerical_answer": "1.2122442391"
+}

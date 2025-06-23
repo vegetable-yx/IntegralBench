@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^\\infty x J_1(x) I_1(x) Y_0(2x) K_0(2x)\\,dx",
+  "numerical_answer": "-0.0120525803"
+}

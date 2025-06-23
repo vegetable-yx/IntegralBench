@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_{\\frac{\\pi}{4}}^{\\frac{\\pi}{2}} \\ln\\left( \\sqrt{2}\\sin u + \\cos u \\right)\\, du",
+  "numerical_answer": "0.6948582713"
+}

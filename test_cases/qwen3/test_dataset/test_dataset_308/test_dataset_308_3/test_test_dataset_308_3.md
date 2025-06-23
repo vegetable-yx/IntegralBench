@@ -1,0 +1,1 @@
+{"answer": "3 \\arctan\\left( \\frac{1}{\\sqrt{2}} \\right) - \\sqrt{2}", "numerical_answer": "0.4322255636"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{-8\\sqrt{2}\\ln^3(1+\\sqrt{2})+4(\\pi^2-6)\\ln^2(1+\\sqrt{2})+8\\sqrt{2}(\\pi^2-6)\\ln(1+\\sqrt{2})-\\pi^2(\\pi^2-12)+24\\operatorname{Li}_2(1-\\sqrt{2})+48\\operatorname{Li}_2\\left(\\frac{1}{1+\\sqrt{2}}\\right)}{48}",
+  "numerical_answer": "1.3748250000"
+}

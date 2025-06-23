@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\mathrm{Shi}(2)}{2}", "numerical_answer": "1.2507817465"}

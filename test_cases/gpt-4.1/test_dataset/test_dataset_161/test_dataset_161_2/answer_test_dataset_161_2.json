@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\sum_{n=0}^{\\infty} \\frac{2^n}{(2n)!} \\cdot \\frac{\\Gamma\\left(\\frac{n+3}{2}\\right) \\Gamma\\left(\\frac{3+2n}{4}\\right)}{\\Gamma\\left(\\frac{4n+9}{4}\\right)}",
+  "numerical_answer": "2.9384296932"
+}

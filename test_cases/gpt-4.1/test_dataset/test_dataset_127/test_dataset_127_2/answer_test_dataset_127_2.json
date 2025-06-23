@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle \\sum_{n=0}^{\\infty} \\frac{2^{-(2n+1)/2} \\, \\Gamma(n/2+1)\\, \\Gamma((n+1)/2)}{n!\\, \\Gamma(n+2)\\, \\Gamma(n+3/2)}",
+  "numerical_answer": "1.5360862478"
+}

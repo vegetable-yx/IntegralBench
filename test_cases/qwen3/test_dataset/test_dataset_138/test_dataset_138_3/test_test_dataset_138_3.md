@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\cosh(6) - 1}{3}", "numerical_answer": "66.9052120408"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{6144}\\Bigl[-135\\pi^3+96\\pi\\ln^2\\Bigl(\\frac{\\sqrt3+1}{2}\\Bigr)+192\\,\\operatorname{Li}_2\\Bigl(1-\\frac{\\sqrt3}{2}\\Bigr)-192\\,\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt3}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0190283779"
+}

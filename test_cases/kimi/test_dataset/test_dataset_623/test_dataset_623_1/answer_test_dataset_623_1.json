@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^1 \\frac{\\ln\\left(1 + \\frac{t}{3}\\right)}{t \\sqrt{1 - t^2}} \\, dt",
+  "numerical_answer": "1.2337005501"
+}

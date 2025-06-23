@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{2^{7/4} \\sqrt{\\pi}}{\\Gamma\\left(\\dfrac{3}{4}\\right)^2}", "numerical_answer": "3.9632231214"}

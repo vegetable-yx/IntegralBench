@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{8} - \\frac{\\sqrt{3}}{4}\\ln\\frac{3+2\\sqrt{3}}{3-2\\sqrt{3}} + \\frac{1}{8}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{1}{2}-\\frac{i\\sqrt{3}}{2}\\Bigr)+\\operatorname{Li}_2\\Bigl(\\frac{1}{2}+\\frac{i\\sqrt{3}}{2}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.6946583701"
+}

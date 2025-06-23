@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\mathbf{E}\\left(0.5\\sqrt{x}\\right) \\mathbf{E}\\left(\\sqrt{1-x}\\right) dx",
+  "numerical_answer": "1.7607963268"
+}

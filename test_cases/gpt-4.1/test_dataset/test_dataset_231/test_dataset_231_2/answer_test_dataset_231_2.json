@@ -1,0 +1,4 @@
+{
+  "answer": "2\\sqrt{2} \\int_0^{\\infty} \\frac{\\sqrt{1 + u^2}}{(1 + u)^3} du",
+  "numerical_answer": "1.2133951680"
+}

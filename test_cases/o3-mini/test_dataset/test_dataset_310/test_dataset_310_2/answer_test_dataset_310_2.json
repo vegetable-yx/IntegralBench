@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{8}\\,\\operatorname{erfi}(1) + \\frac{1}{16}\\Bigl[\\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}-1}{\\sqrt{2}}\\Bigr) - \\operatorname{Li}_2\\Bigl(\\frac{\\sqrt{2}+1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "0.7888880000"
+}

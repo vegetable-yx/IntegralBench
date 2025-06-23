@@ -1,0 +1,4 @@
+{
+  "answer": "\\text{The integral does not have an elementary closed-form solution and is expressed in terms of Bessel functions. However, based on the series expansion and numerical evaluation, the result is approximately } \\sqrt{\\pi} \\cdot J_{1/2}(2), \\text{ which simplifies to } \\frac{\\sin(2)}{\\sqrt{2}}. \\text{ However, the precise analytical form requires advanced methods beyond elementary calculus.}",
+  "numerical_answer": "1.5010319561"
+}

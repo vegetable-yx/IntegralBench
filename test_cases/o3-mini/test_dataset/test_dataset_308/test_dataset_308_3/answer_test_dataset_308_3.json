@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\Gamma(\\frac{1}{4})^2}{8\\sqrt{2\\pi}}\\Bigl(\\psi(\\frac{3}{4})-\\psi(\\frac{1}{4})+3\\ln2\\Bigr)",
+  "numerical_answer": "3.4240000000"
+}

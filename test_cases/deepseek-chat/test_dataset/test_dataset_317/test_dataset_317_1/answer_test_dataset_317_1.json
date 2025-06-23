@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} x^{-3/2} \\ln\\left(1 - 0.5x\\right) \\ln\\left(\\frac{\\sqrt{2} + \\sqrt{2 - x}}{\\sqrt{x}}\\right) \\, dx",
+  "numerical_answer": "-1.3862943611"
+}

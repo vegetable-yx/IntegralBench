@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} x^3 \\ln^2\\left(x+\\sqrt{1+x^2}\\right) \\arccos x \\, dx",
+  "numerical_answer": "0.0543486042"
+}

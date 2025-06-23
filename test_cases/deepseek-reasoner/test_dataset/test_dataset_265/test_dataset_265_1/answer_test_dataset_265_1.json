@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^{\\infty} \\frac{(-1)^k 2^{2k + 2} (k + 1)}{k! (2k + 3)^2 (2k + 3)!)}",
+  "numerical_answer": "0.1715582103"
+}

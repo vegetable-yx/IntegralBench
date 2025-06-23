@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{2^{1/4}}{\\sqrt{\\pi}} \\sum_{k=0}^\\infty \\frac{2^{(2k+1)/2}}{(2k+1)!} \\frac{\\Gamma\\left(\\frac{k+3}{4}\\right) \\Gamma\\left(\\frac{k+1}{4}\\right)}{\\Gamma\\left(\\frac{k+2}{2}\\right)}",
+  "numerical_answer": "4.8905001015"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{2} \\operatorname{Si}(2)", "numerical_answer": "0.8027064884"}

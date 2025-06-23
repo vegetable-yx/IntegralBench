@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi\\sqrt{2}}{4}\\Bigl(\\psi(\\tfrac{3}{4})-\\psi(\\tfrac{1}{4})\\Bigr)+\\pi\\ln\\Bigl(\\frac{1+\\sqrt{2}}{2}\\Bigr)",
+  "numerical_answer": "3.4944390000"
+}

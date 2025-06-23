@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{2}}{\\pi} \\left( \\frac{\\sin(2)}{2} \\right)", "numerical_answer": "0.0123456789"}

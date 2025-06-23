@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{\\sqrt{\\pi}}{2^{9/2}\\,\\Gamma(11/2)}\\Bigl[15\\,{}_1F_2\\Bigl(\\frac{5}{2};\\frac{7}{2},\\frac{11}{2};-1\\Bigr)-8\\,{}_1F_2\\Bigl(\\frac{3}{2};\\frac{5}{2},\\frac{7}{2};-1\\Bigr)\\Bigr]",
+  "numerical_answer": "0.0447900000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{-6+6\\sqrt{2}+\\pi(3\\sqrt{2}-4)+6\\operatorname{Li}_2(1-1/\\sqrt{2})-6\\operatorname{Li}_2(1-\\sqrt{2})+8\\ln2(\\sqrt{2}-1)}{48}",
+  "numerical_answer": "0.2002526003"
+}

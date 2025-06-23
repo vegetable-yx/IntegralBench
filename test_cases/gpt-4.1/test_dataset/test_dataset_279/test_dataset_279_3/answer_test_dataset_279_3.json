@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{\\pi} \\cosh(\\sin u)\\, du",
+  "numerical_answer": "4.5702331943"
+}

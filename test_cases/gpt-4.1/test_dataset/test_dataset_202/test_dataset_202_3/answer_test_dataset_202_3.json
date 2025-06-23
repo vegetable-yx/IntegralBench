@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^{\\pi/2} \\cos (\\cos \\theta ) \\cos \\theta\\ d\\theta",
+  "numerical_answer": "1.3057851232"
+}

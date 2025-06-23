@@ -1,0 +1,1 @@
+{"answer": "3 \\ln(1+\\sqrt{2}) - \\sqrt{2}", "numerical_answer": "1.229907132"}

@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_{0}^{\\pi/2} \\left[1 - \\frac{\\sin 2\\theta}{2}\\right]^{-2} \\cos \\theta \\, d\\theta",
+  "numerical_answer": "3.1415926536"
+}

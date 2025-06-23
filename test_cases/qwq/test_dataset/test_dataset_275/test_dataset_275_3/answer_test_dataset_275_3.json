@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}}{8} \\left(5 e^{3} \\text{erf}\\left(\\sqrt{3}\\right) +7 e^{-3} \\text{erfi}\\left(\\sqrt{3}\\right)\\right)",
+  "numerical_answer": "22.6130130230"
+}

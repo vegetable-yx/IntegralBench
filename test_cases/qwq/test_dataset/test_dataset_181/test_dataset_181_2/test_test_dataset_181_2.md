@@ -1,0 +1,1 @@
+{"answer": "\\frac{(\\sin 2 - 2\\cos 2)^2}{32}", "numerical_answer": "0.0947856722"}

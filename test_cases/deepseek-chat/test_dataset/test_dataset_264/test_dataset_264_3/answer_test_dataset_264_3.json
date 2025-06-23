@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\left( \\frac{\\pi}{2} - \\int_0^1 \\frac{J_0(2t)}{\\sqrt{1 - t^2}} \\, dt \\right)",
+  "numerical_answer": "0.1844133060"
+}

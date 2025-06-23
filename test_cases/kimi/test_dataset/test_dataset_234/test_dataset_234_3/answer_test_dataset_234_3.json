@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{1} x^{1/2} \\left[1 - \\sqrt{x(1-x)}\\right]^{-2} \\, dx",
+  "numerical_answer": "1.6449340668"
+}

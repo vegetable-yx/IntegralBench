@@ -1,0 +1,4 @@
+{
+  "answer": "$2^{-\\frac{1}{4}}\\sqrt{\\pi}\\frac{\\Gamma\\left(\\frac{1}{8}\\right)}{\\Gamma\\left(\\frac{5}{8}\\right)}\\Bigl[\\psi\\Bigl(\\frac{1}{2}\\Bigr)-\\psi\\Bigl(\\frac{1}{8}\\Bigr)-\\frac{1}{2}\\Bigl(\\psi\\Bigl(\\frac{5}{8}\\Bigr)-\\psi(1)\\Bigr)\\Bigr]$",
+  "numerical_answer": "52.2300000000"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^{2.0} \\frac{1}{x^2 (2.0 - x)^2} J_{1.5}(x) J_{1.5}(2.0 - x) \\, dx",
+  "numerical_answer": "0.0691701754"
+}

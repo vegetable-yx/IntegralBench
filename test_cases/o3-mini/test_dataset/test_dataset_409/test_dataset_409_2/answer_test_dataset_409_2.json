@@ -1,0 +1,4 @@
+{
+  "answer": "$$\\int_0^1\\arctan(x^2-x+1)\\,dx = \\frac{5\\pi}{24}+\\frac{1}{12\\sqrt{3}}\\ln\\Bigl(\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\Bigr)$$",
+  "numerical_answer": "0.7178000000"
+}

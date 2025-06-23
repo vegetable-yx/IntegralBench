@@ -1,0 +1,4 @@
+{
+  "answer": "sqrt(\\pi) \\left( \\sum_{n=0}^{\\infty} \\frac{(-1)^n}{\\Gamma(2n + \\frac{3}{2})} \\right)",
+  "numerical_answer": "1.0761539308"
+}

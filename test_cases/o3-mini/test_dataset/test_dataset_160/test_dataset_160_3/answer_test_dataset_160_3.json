@@ -1,0 +1,4 @@
+{
+  "answer": "$\\sqrt{2\\pi}e^{1/4}\\left[I_{-1/4}\\left(\\frac{1}{4}\\right)-I_{1/4}\\left(\\frac{1}{4}\\right)\\right]$",
+  "numerical_answer": "2.3020000000"
+}

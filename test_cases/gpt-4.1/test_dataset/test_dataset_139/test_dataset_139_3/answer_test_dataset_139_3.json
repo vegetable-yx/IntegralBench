@@ -1,0 +1,4 @@
+{
+  "answer": "4 \\int_0^{\\pi/2} \\sin\\theta\\, \\cos\\theta\\, \\left[\\ln(1+\\cos\\theta) - \\ln\\sin\\theta \\right] I_0(2\\sin\\theta)\\, d\\theta",
+  "numerical_answer": "2.7093553028"
+}

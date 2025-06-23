@@ -1,0 +1,1 @@
+{"answer": "2\\sqrt{2} (5 \\cos(1) - 3 \\sin(1))", "numerical_answer": "0.5009160098"}

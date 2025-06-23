@@ -1,0 +1,4 @@
+{
+  "answer": "6\\sqrt{3} \\int_0^1 u^2 \\cosh\\left(6u\\sqrt{1-u^2}\\right) du",
+  "numerical_answer": "7.2553982630"
+}

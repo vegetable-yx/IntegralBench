@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to approximately 0.0204924900", "numerical_answer": "0.0204924900"}

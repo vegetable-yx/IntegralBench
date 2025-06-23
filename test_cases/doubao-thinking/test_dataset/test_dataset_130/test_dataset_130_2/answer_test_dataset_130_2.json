@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{\\sqrt{2} \\cdot 2^{-n} \\Gamma\\left(\\frac{n+1}{2}\\right) \\Gamma\\left(\\frac{n+2}{2}\\right)}{(n!)^2 \\Gamma\\left(n + \\frac{3}{2}\\right)}",
+  "numerical_answer": "3.3239"
+}

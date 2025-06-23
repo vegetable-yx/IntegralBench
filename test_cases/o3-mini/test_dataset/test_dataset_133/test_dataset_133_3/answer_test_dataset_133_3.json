@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi} e^{1/2}}{\\sqrt{2}}\\Bigl[I_{-1/4}\\left(1/2\\right)-I_{1/4}\\left(1/2\\right)\\Bigr]",
+  "numerical_answer": "0.7750000000"
+}

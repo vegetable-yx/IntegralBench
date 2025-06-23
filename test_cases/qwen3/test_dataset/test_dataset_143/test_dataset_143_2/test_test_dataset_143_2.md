@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{8} \\sum_{n=0}^{\\infty} \\frac{(2n + 1)(2n)!}{4^n (n + 1)^2 (n!)^4}", "numerical_answer": "0.5619385000"}

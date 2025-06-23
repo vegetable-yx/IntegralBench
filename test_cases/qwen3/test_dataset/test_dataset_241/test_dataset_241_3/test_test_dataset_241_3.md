@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{\\pi^2}", "numerical_answer": "0.1013211836"}

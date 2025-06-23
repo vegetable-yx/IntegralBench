@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^3}{192} - \\frac{\\pi}{64}", "numerical_answer": "0.05026524187"}

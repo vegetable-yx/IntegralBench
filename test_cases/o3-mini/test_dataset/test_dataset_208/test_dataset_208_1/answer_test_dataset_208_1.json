@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^4-4\\pi^2\\ln^2 2+4\\ln^4 2+8\\ln2\\,\\operatorname{Li}_2(\\tfrac12)+8\\operatorname{Li}_3(\\tfrac12)}{64}",
+  "numerical_answer": "1.3579679931"
+}

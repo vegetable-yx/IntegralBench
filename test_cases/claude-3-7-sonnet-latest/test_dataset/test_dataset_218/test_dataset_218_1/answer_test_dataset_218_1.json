@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi}{3}\\ln^2(2) - \\frac{\\pi}{3}\\ln(2) + \\frac{\\pi}{3} - 2\\ln(2) - 2\\ln(\\sqrt{3}-1)",
+  "numerical_answer": "0.0718558709"
+}

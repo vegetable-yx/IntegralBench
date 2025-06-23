@@ -1,0 +1,317 @@
+{"answer": "\\frac{1}{8} \\left[16 E\\left(\\frac{1}{4}\\right) - 15 K\\left(\\frac{1}{4}\\right)\\right]", "numerical_answer": "0.0783837975", "problem_number": "101"}
+{"answer": "\\int_{0}^{1} \\frac{\\sqrt{1-x^2}}{x \\sqrt{1-0.25x^2}} \\arcsin(0.5x)\\,dx", "numerical_answer": "0.4112335167", "problem_number": "102"}
+{"answer": "\\int_0^{\\frac{\\pi}{6}} \\frac{u}{\\sin u \\sqrt{1 - 4\\sin^2 u}}\\,du", "numerical_answer": "0.6917710030", "problem_number": "103"}
+{"answer": "-15.75\\, K(0.25) + 16\\, E(0.25)", "numerical_answer": "-0.9228290515", "problem_number": "104"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "105"}
+{"answer": "\\frac{\\pi}{2}", "numerical_answer": "1.5707963268", "problem_number": "106"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "107"}
+{"answer": "4\\sqrt{2}\\int_0^{\\frac{\\pi}{2}} \\sin^2 \\theta \\cos\\theta\\, \\operatorname{E}\\big(0.5 (\\sin 2\\theta)^{1/2}\\big)\\,d\\theta", "numerical_answer": "1.3225802251", "problem_number": "108"}
+{"answer": "2\\sqrt{2}", "numerical_answer": "2.8284271247", "problem_number": "109"}
+{"answer": "\\frac{2}{3}", "numerical_answer": "0.6666666667", "problem_number": "110"}
+{"answer": "\\sqrt{2} \\int_0^{\\pi} \\cos\\left(\\frac{u}{2}\\right)\\, \\operatorname{Li}_2(\\sin u)\\, du", "numerical_answer": "1.4260252766", "problem_number": "111"}
+{"answer": "\\int_0^2 x^{-3/4} (2-x)^{-5/4} \\operatorname{Li}_2\\left(0.5\\sqrt{x(2-x)}\\right) dx", "numerical_answer": "2.7280190716", "problem_number": "112"}
+{"answer": "\\sum_{k=1}^\\infty \\frac{ \\Gamma\\left( \\frac{3}{4} + \\frac{k}{2} \\right) \\Gamma\\left( \\frac{1}{4} + \\frac{k}{2} \\right) }{ k^2 \\, \\Gamma(1 + k) }", "numerical_answer": "1.1372702547", "problem_number": "113"}
+{"answer": "\\int_{0}^{1} x (1-x^2)^{-3/2} \\ln x\\, \\operatorname{E}(x)\\, dx", "numerical_answer": "-0.9114139066", "problem_number": "114"}
+{"answer": "2 \\left[ \\ln(1+\\sqrt{2}) \\cdot \\cosh(\\ln(1+\\sqrt{2})) - \\sinh(\\ln(1+\\sqrt{2})) \\right]", "numerical_answer": "0.4948367582", "problem_number": "115"}
+{"answer": "\\frac{\\pi^3}{16}", "numerical_answer": "1.9381422925", "problem_number": "116"}
+{"answer": "\\frac{5 \\pi^3}{16}", "numerical_answer": "9.6894614627", "problem_number": "117"}
+{"answer": "\\frac{\\pi^3}{16}", "numerical_answer": "1.9381422925", "problem_number": "118"}
+{"answer": "\\frac{\\pi^3}{32}", "numerical_answer": "0.9692058768", "problem_number": "119"}
+{"answer": "\\frac{\\pi^4}{128}", "numerical_answer": "0.7610077432", "problem_number": "120"}
+{"answer": "\\int_0^1 \\mathbf{K}\\left(\\sqrt{1-x}\\right) \\mathbf{E}\\left(0.5\\sqrt{x}\\right)\\, dx", "numerical_answer": "1.4249026576", "problem_number": "121"}
+{"answer": "\\frac{\\pi^2}{4} \\sum_{n=0}^\\infty \\left( \\frac{(2n-1)!!}{2^n n!} \\right)^2 \\frac{1}{4^n (n+1)} \\, {_3F_2}\\left(-\\frac{1}{2}, \\frac{1}{2}, 1; 1, n+2; 1\\right)", "numerical_answer": "1.2128209097", "problem_number": "122"}
+{"answer": "\\frac{\\pi^3}{32}", "numerical_answer": "0.9689455213", "problem_number": "123"}
+{"answer": "\\frac{1}{8}", "numerical_answer": "0.1250000000", "problem_number": "124"}
+{"answer": "\\left(\\frac{\\pi}{2}\\right)^2 \\sum_{n=0}^\\infty \\left[\\left(\\frac{(2n)!}{2^{2n}(n!)^2}\\right)^2 \\sum_{m=0}^\\infty \\frac{(-1)^m}{2m+1} \\binom{-1/2}{m}^2 \\frac{\\Gamma(n+3)\\Gamma(m+1)}{\\Gamma(n+m+4)}\\right]", "numerical_answer": "0.4596976941", "problem_number": "125"}
+{"answer": "\\frac{\\pi}{2} \\, \\mathbf{K}(0.5)", "numerical_answer": "2.6482322788", "problem_number": "126"}
+{"answer": "\\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k}{2}+1\\right) \\Gamma\\left(\\frac{k}{2}+\\frac{1}{2}\\right)}{k!\\, \\Gamma(k+2) \\, \\Gamma\\left(k+\\frac{3}{2}\\right) \\, 2^{k+\\frac{1}{2}}}", "numerical_answer": "1.5360631689", "problem_number": "127"}
+{"answer": "\\frac{2^{1/4}}{\\sqrt{\\pi}} \\sum_{k=0}^\\infty \\frac{2^{(2k+1)/2}}{(2k+1)!} \\frac{\\Gamma\\left(\\frac{k+3}{4}\\right) \\Gamma\\left(\\frac{k+1}{4}\\right)}{\\Gamma\\left(\\frac{k+2}{2}\\right)}", "numerical_answer": "4.8905001015", "problem_number": "128"}
+{"answer": "2\\sqrt{2} \\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k+3}{2}\\right)}{k!\\,2^k\\,\\Gamma\\left(\\frac{3k+5}{2}\\right)}", "numerical_answer": "2.1319776712", "problem_number": "129"}
+{"answer": "\\sqrt{2}~ \\sum_{k=0}^{\\infty} \\frac{1}{2^k (k!)^2} \\frac{\\Gamma\\left(\\frac{k+1}{2}\\right)\\Gamma\\left(\\frac{k+2}{2}\\right)}{\\Gamma\\left(k+\\frac{3}{2}\\right)}", "numerical_answer": "3.3974351460", "problem_number": "130"}
+{"answer": "2 \\sum_{k=0}^{\\infty} \\frac{1}{(k!)^2} \\left(\\frac{1}{2}\\right)^k \\frac{\\Gamma\\left(\\frac{3}{4} + \\frac{k}{2}\\right) \\Gamma\\left(\\frac{5}{4} + \\frac{k}{2}\\right)}{\\Gamma\\left(2 + k\\right)}", "numerical_answer": "2.6601371493", "problem_number": "131"}
+{"answer": "\\sum_{k=0}^{\\infty} \\frac{\\Gamma\\left(\\frac{k}{2}+1\\right) \\Gamma\\left(\\frac{k+3}{2}\\right)}{k! [\\Gamma(k+2)]^2 2^{2k+1}}", "numerical_answer": "0.4713906632", "problem_number": "132"}
+{"answer": "\\sum_{k=0}^{\\infty} \\frac{2^{-k} [\\Gamma(1 + k/2)]^2}{k! [(k+1)!]^2}", "numerical_answer": "1.1121283349", "problem_number": "133"}
+{"answer": "4 \\int_{0}^{\\frac{\\pi}{2}} \\frac{1 + \\cos 2\\theta}{1 + \\cos^2 2\\theta} d\\theta", "numerical_answer": "3.6638623773", "problem_number": "134"}
+{"answer": "\\frac{3\\pi}{4}", "numerical_answer": "2.3561944902", "problem_number": "135"}
+{"answer": "2", "numerical_answer": "1.9988070780", "problem_number": "136"}
+{"answer": "2", "numerical_answer": "2.0000000000", "problem_number": "137"}
+{"answer": "\\frac{1}{3} \\int_0^{\\frac{\\pi}{2}} \\frac{I_0(6\\sin\\theta)}{\\sin\\theta} d\\theta", "numerical_answer": "4.6194458360", "problem_number": "138"}
+{"answer": "4 \\int_0^{\\pi/2} \\sin\\theta\\, \\cos\\theta\\, \\left[\\ln(1+\\cos\\theta) - \\ln\\sin\\theta \\right] I_0(2\\sin\\theta)\\, d\\theta", "numerical_answer": "2.7093553028", "problem_number": "139"}
+{"answer": "2", "numerical_answer": "2.0000000000", "problem_number": "140"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "141"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{4^k}{k!\\,k!\\,(2k+1)\\,\\Gamma\\left(k+\\frac{3}{2}\\right)}", "numerical_answer": "1.7941224371", "problem_number": "142"}
+{"answer": "\\frac{\\pi}{8} \\left[ 1 + I_1(2) - I_0(2) \\right]", "numerical_answer": "0.1220908762", "problem_number": "143"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{k+1}{k! (2k+3) \\Gamma\\left(k+\\frac{5}{2}\\right)}", "numerical_answer": "0.3465735903", "problem_number": "144"}
+{"answer": "\\frac{\\sqrt{\\pi}}{2} \\sum_{k=0}^\\infty \\frac{1}{(k+1)!\\,(2k+1)\\,\\Gamma\\left(k+\\frac{3}{2}\\right)}", "numerical_answer": "1.1209245012", "problem_number": "145"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "146"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "147"}
+{"answer": "\\int_0^1 x^{1/4} (1-x)^{-1/4} \\operatorname{K}\\left(\\sqrt[4]{x(1-x)}\\right) dx", "numerical_answer": "1.6396007781", "problem_number": "148"}
+{"answer": "2\\pi", "numerical_answer": "6.2831853072", "problem_number": "149"}
+{"answer": "\\frac{\\Gamma\\left(\\tfrac{1}{4}\\right)^2}{4\\sqrt{\\pi}}", "numerical_answer": "1.8554365438", "problem_number": "150"}
+{"answer": "\\pi", "numerical_answer": "3.1415926536", "problem_number": "151"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011002", "problem_number": "152"}
+{"answer": "\\int_0^1 \\frac{x}{\\sqrt{x^2+1}} \\ln\\left(x+\\sqrt{x^2+1}\\right) \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) dx", "numerical_answer": "0.3371804152", "problem_number": "153"}
+{"answer": "\\frac{\\pi}{8} (\\ln 2)^2", "numerical_answer": "0.1889822365", "problem_number": "154"}
+{"answer": "\\frac{\\pi^3}{32}", "numerical_answer": "0.9689455213", "problem_number": "155"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "156"}
+{"answer": "\\int_{1}^{\\infty} (x^2-1)^{3/2} e^{-0.25x^2} (x^5 - 20x^3 + 60x)\\; dx", "numerical_answer": "246.5305685981", "problem_number": "157"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "158"}
+{"answer": "8 \\sum_{n=0}^{\\infty} \\frac{16^{n}}{(2n)!} \\frac{\\Gamma\\left(\\frac{n}{2} + \\frac{3}{2}\\right) \\Gamma\\left(\\frac{n}{2} + 1\\right)}{\\Gamma\\left(n + \\frac{5}{2}\\right)}", "numerical_answer": "43.2984294682", "problem_number": "159"}
+{"answer": "\\sqrt{2} \\int_{0}^{\\pi} \\cos\\left(\\frac{\\phi}{2}\\right) \\cosh\\left(\\sqrt{\\sin\\phi}\\right) d\\phi", "numerical_answer": "4.7274641272", "problem_number": "160"}
+{"answer": "2 \\sum_{n=0}^{\\infty} \\frac{2^n}{(2n)!} \\frac{\\Gamma\\left(\\frac{5+2n}{4}\\right) \\Gamma\\left(\\frac{3+2n}{4}\\right)}{\\Gamma(2+n)}", "numerical_answer": "3.4107629882", "problem_number": "161"}
+{"answer": "\\sum_{n=0}^{\\infty} \\frac{2^n}{(2n)!} \\frac{\\Gamma\\left( \\frac{3}{4} + \\frac{n}{2} \\right) \\Gamma\\left( \\frac{1}{4} + \\frac{n}{2} \\right)}{\\Gamma(1 + n)}", "numerical_answer": "5.7046671416", "problem_number": "162"}
+{"answer": "8\\left[ \\zeta\\left(3, \\frac{1}{2} \\right) - \\zeta\\left(3, \\frac{3}{2} \\right) \\right] - \\left[ \\zeta\\left(3, \\frac{1}{4} \\right) - \\zeta\\left(3, \\frac{5}{4} \\right) \\right]", "numerical_answer": "56.2018523885", "problem_number": "163"}
+{"answer": "24\\left[\\zeta\\left(4,\\tfrac{1}{2}\\right)+\\zeta\\left(4,\\tfrac{3}{2}\\right)\\right] - 3\\left[\\zeta\\left(4,\\tfrac{3}{4}\\right)+\\zeta\\left(4,\\tfrac{5}{4}\\right)\\right]", "numerical_answer": "424.3213350000", "problem_number": "164"}
+{"answer": "\\frac{\\pi}{2} \\, \\tanh(\\pi)", "numerical_answer": "1.5659238010", "problem_number": "165"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "166"}
+{"answer": "\\displaystyle\\int_0^1\\ln\\frac{1+0.5\\sqrt{x}}{1-0.5\\sqrt{x}}\\,\\mathrm{K}\\left(\\sqrt{1-x}\\right)dx = 2\\sqrt{\\pi}\\sum_{n=0}^\\infty \\frac{2^{-(2n+1)}}{2n+1}\\frac{\\Gamma\\left(n+\\frac{3}{2}\\right)}{\\Gamma(n+2)}\\mathrm{K}\\left(\\sqrt{\\frac{2n+2}{2n+3}}\\right)", "numerical_answer": "4.0532526694", "problem_number": "167"}
+{"answer": "\\frac{\\pi^3}{4}", "numerical_answer": "7.7515691701", "problem_number": "168"}
+{"answer": "\\frac{\\pi}{2} \\, \\mathbf{K}(0.5)", "numerical_answer": "2.6483358561", "problem_number": "169"}
+{"answer": "-\\frac{1}{8} \\int_{0}^{\\frac{\\pi}{2}} \\sin(2\\theta) \\ln \\tan \\frac{\\theta}{2} \\, \\mathbf{K}\\left(0.25 \\sin\\theta\\right) d\\theta", "numerical_answer": "0.0378727328", "problem_number": "170"}
+{"answer": "\\frac{1}{16} \\int_{0}^{\\frac{\\pi}{2}} \\sin^3\\theta \\, \\ln\\cot\\frac{\\theta}{2} \\, \\mathbf{K}\\left(\\frac{1}{4}\\sin\\theta\\right)\\cos\\theta\\; d\\theta", "numerical_answer": "0.0117174536", "problem_number": "171"}
+{"answer": "\\frac{\\pi^3}{32}", "numerical_answer": "0.9689455212", "problem_number": "172"}
+{"answer": "\\int\\limits_0^1 \\sqrt{1-x^2}\\;\\arcsin^2\\left(0.5x\\right) dx", "numerical_answer": "0.0804736823", "problem_number": "173"}
+{"answer": "\\int_0^{\\frac{\\pi}{2}} \\arcsin^2 (0.25 \\sin\\theta) \\, d\\theta", "numerical_answer": "0.2578877234", "problem_number": "174"}
+{"answer": "\\int_{0}^{\\pi} \\sin^2\\phi\\, \\arcsin^2\\left( \\frac{1}{2}\\sin\\phi \\right)d\\phi", "numerical_answer": "0.3846212973", "problem_number": "175"}
+{"answer": "\\int_0^{\\pi} (1 - \\cos\\psi) \\, \\arcsin^2\\left(\\frac{1}{2}\\sin\\psi \\right) d\\psi", "numerical_answer": "1.6168502757", "problem_number": "176"}
+{"answer": "\\int_{0}^{1} \\mathrm{Si}(3\\sqrt{x})\\, \\mathrm{K}(\\sqrt{1-x})\\, dx", "numerical_answer": "1.3707071736", "problem_number": "177"}
+{"answer": "\\sum\\limits_{k=0}^{\\infty} \\sum\\limits_{l=0}^{\\infty} \\frac{(-1)^{k+l}}{k!\\,l!\\,\\Gamma(k+3.5)\\,\\Gamma(l+1.5)} \\cdot \\frac{\\Gamma(2k+1.5)\\,\\Gamma(2l+1.5)}{\\Gamma(2k+2l+3)}", "numerical_answer": "0.0946553345", "problem_number": "178"}
+{"answer": "\\int_{0}^{2} \\frac{1}{x (2-x)^2} J_1(x) J_2(2-x) \\, dx", "numerical_answer": "0.0850693212", "problem_number": "179"}
+{"answer": "\\int\\limits_0^2 x^{1/4} (2-x)^{1/4} J_{0.5}(\\sqrt{x}) J_{0.5}(\\sqrt{2-x})\\,dx = \\frac{2}{\\pi} \\int_0^2 \\sin \\sqrt{x} \\, \\sin \\sqrt{2-x} \\,dx", "numerical_answer": "0.8041103978", "problem_number": "180"}
+{"answer": "\\frac{2}{\\pi}\\int_0^2\\frac{\\left( \\frac{\\sin x}{x} - \\cos x\\right)\\left(\\frac{\\sin(2-x)}{2-x} - \\cos(2-x)\\right)}{x^2 (2-x)^2 \\sqrt{x(2-x)}}dx", "numerical_answer": "0.0966775648", "problem_number": "181"}
+{"answer": "-4 \\int_0^{\\pi/2} \\frac{\\cos\\theta \\ln|\\tan(\\frac{\\theta}{2})|}{1 + 4\\sin^2\\theta} d\\theta - 4 \\int_0^{\\pi/2} \\frac{\\cos^2\\theta}{1 + 4\\sin^2\\theta} d\\theta", "numerical_answer": "1.3549728783", "problem_number": "182"}
+{"answer": "-\\int_{0}^{\\frac{\\pi}{2}} \\frac{\\cos\\theta\\, \\ln\\left(\\tan\\frac{\\theta}{2}\\right)}{1 + 4\\sin^2\\theta}\\, d\\theta", "numerical_answer": "0.2701451086", "problem_number": "183"}
+{"answer": "\\frac{\\pi}{16} \\ln 5", "numerical_answer": "0.3162537461", "problem_number": "184"}
+{"answer": "\\frac{\\pi^2}{32}", "numerical_answer": "0.3084251375", "problem_number": "185"}
+{"answer": "\\frac{\\pi^2}{16} - \\int_0^1 \\frac{\\arctan\\left(x^{1/(5+2\\sqrt{6})}\\right)}{1 + x^2} dx", "numerical_answer": "0.0775562751", "problem_number": "186"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "187"}
+{"answer": "\\frac{\\pi^2}{32}", "numerical_answer": "0.3084251375", "problem_number": "188"}
+{"answer": "\\int_{0}^{\\infty} \\frac{1}{x(x^2+1)} \\arctan\\left(\\frac{x}{x^2+1}\\right) \\, dx", "numerical_answer": "0.1931471806", "problem_number": "189"}
+{"answer": "\\int_0^1 x^3 \\ln^2\\left(x + \\sqrt{1 + x^2}\\right) \\arccos x \\, dx", "numerical_answer": "0.0184564815", "problem_number": "190"}
+{"answer": "\\int_0^1 x^3 \\ln^2(x+\\sqrt{1+x^2}) \\arccos x \\, dx", "numerical_answer": "0.0491893326", "problem_number": "191"}
+{"answer": "\\int_0^1 \\frac{1}{x} \\ln^2\\left( x + \\sqrt{1 + x^2} \\right) \\arccos x\\, dx", "numerical_answer": "0.3905562129", "problem_number": "192"}
+{"answer": "G", "numerical_answer": "0.9159655942", "problem_number": "193"}
+{"answer": "2 K \\left( \\frac{1}{2} \\right) - \\pi", "numerical_answer": "0.2299080560", "problem_number": "194"}
+{"answer": "2 - \\frac{\\pi}{2}", "numerical_answer": "0.4292036732", "problem_number": "195"}
+{"answer": "\\frac{\\pi^2}{48} - \\frac{1}{4} \\int_0^1 \\frac{x^2 \\arccos x}{\\sqrt{1 - x^2/4}} \\, dx - \\frac{1}{8} \\int_0^1 \\frac{\\arcsin x}{\\sqrt{1 - x^2/4}} \\, dx + \\frac{1}{8} \\int_0^1 \\frac{x \\sqrt{1 - x^2}}{\\sqrt{1 - x^2/4}} \\, dx", "numerical_answer": "0.1718584607", "problem_number": "196"}
+{"answer": "\\frac{1}{4}", "numerical_answer": "0.2500000000", "problem_number": "197"}
+{"answer": "4 \\int_0^{\\pi/2} \\sin^{1/2}\\theta \\, \\cos^{3/2}\\theta \\, \\sin\\left( \\sin^{1/2}(2\\theta) \\right) \\, d\\theta", "numerical_answer": "1.2798050516", "problem_number": "198"}
+{"answer": "\\int_0^1 t^{-1/4} (1-t)^{-3/4} \\sin\\left(2^{1/2}(t(1-t))^{1/4}\\right)dt", "numerical_answer": "2.5630992063", "problem_number": "199"}
+{"answer": "\\frac{\\sqrt{2}}{2}\\, \\Beta\\left(\\frac{5}{4}, \\frac{1}{4}\\right)", "numerical_answer": "2.6240344963", "problem_number": "200"}
+{"answer": "\\pi J_1(1)", "numerical_answer": "1.3826834324", "problem_number": "201"}
+{"answer": "2 \\int_0^{\\pi/2} \\cos (\\cos \\theta ) \\cos \\theta\\ d\\theta", "numerical_answer": "1.3057851232", "problem_number": "202"}
+{"answer": "\\frac{5}{2} \\int_0^{\\frac{\\pi}{2}} \\cos(\\cos\\theta)\\cos\\theta\\,d\\theta - \\frac{1}{2} \\int_0^{\\frac{\\pi}{2}} \\cos(\\cos\\theta)\\cos 3\\theta\\,d\\theta", "numerical_answer": "2.2469734471", "problem_number": "203"}
+{"answer": "4\\sqrt{2} \\int_0^{\\pi/2} \\sin^2\\theta\\, \\cos\\theta\\, \\sin\\left[ (\\sin 2\\theta)^{1/2} \\right] d\\theta", "numerical_answer": "1.0288753581", "problem_number": "204"}
+{"answer": "\\sqrt{2} \\int_{0}^{\\pi} \\cos\\left(\\frac{\\alpha}{2}\\right) \\sin\\left(\\sqrt{\\sin\\alpha}\\right) d\\alpha", "numerical_answer": "2.1576496200", "problem_number": "205"}
+{"answer": "\\frac{\\pi}{2} \\sqrt{\\pi} \\frac{e^{i\\pi/8}}{2^{1/4}} \\int_0^1 t^{-1/2} \\cos((1+i)t)\\,dt", "numerical_answer": "3.6731146130", "problem_number": "206"}
+{"answer": "\\frac{\\pi}{2} \\cdot 2^{-1/4} \\cdot \\sin\\left(\\frac{\\pi}{8}\\right)", "numerical_answer": "0.5047379372", "problem_number": "207"}
+{"answer": "\\int_0^1 x^2 \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right) \\arcsin^2 x\\;dx", "numerical_answer": "0.4302254988", "problem_number": "208"}
+{"answer": "2 \\zeta(3)", "numerical_answer": "2.4041138064", "problem_number": "210"}
+{"answer": "2 J_0(1) + \\sum_{k=1}^{\\infty} J_{2k}(1)\\left( \\frac{1}{2k+1/2} - \\frac{1}{2k-1/2} \\right)", "numerical_answer": "1.4993779732", "problem_number": "211"}
+{"answer": "\\frac{\\pi}{2}\\left[J_0(1) - J_2(1)\\right]", "numerical_answer": "1.0218777974", "problem_number": "212"}
+{"answer": "\\pi\\big[J_0(1)-J_1(1)\\big]", "numerical_answer": "1.0214966391", "problem_number": "213"}
+{"answer": "\\int_0^{\\pi} \\cos(\\sin \\phi)\\,d\\phi", "numerical_answer": "2.6989852937", "problem_number": "214"}
+{"answer": "\\displaystyle \\sum_{n=0}^{\\infty} \\frac{(-1)^n}{(2n)!}\\, \\frac{\\Gamma(n+\\tfrac{3}{4})^2}{\\Gamma(2n+\\tfrac{3}{2})}", "numerical_answer": "1.3836968292", "problem_number": "215"}
+{"answer": "\\sum_{n=0}^{\\infty} \\frac{(-1)^n 4^n}{(2n)!} \\frac{\\Gamma\\left(\\frac{3 + 4n}{4}\\right) \\Gamma\\left(\\frac{1 + 4n}{4}\\right)}{\\Gamma(1 + 2n)}", "numerical_answer": "4.9739636111", "problem_number": "216"}
+{"answer": "2\\sqrt{\\pi}\\cos 1", "numerical_answer": "1.9150896232", "problem_number": "217"}
+{"answer": "4 \\, \\mathrm{Cl}_3\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "1.8990517990", "problem_number": "218"}
+{"answer": "\\sqrt{2} \\int_0^\\pi \\cos\\left(\\frac{\\phi}{2}\\right) \\cos\\left(1 \\sqrt{\\sin \\phi}\\right) \\, d\\phi", "numerical_answer": "2.0233522358", "problem_number": "219"}
+{"answer": "\\frac{5\\pi}{4\\sqrt{2}}", "numerical_answer": "2.7780109780", "problem_number": "220"}
+{"answer": "\\frac{3\\pi}{16}", "numerical_answer": "0.5890486226", "problem_number": "221"}
+{"answer": "3\\pi", "numerical_answer": "9.4247779608", "problem_number": "222"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8757845850", "problem_number": "223"}
+{"answer": "\\int_0^1 x \\ln\\left(\\frac{1+x}{1-x}\\right) \\ln\\left(\\frac{1+\\sqrt{1-x^2}}{1-\\sqrt{1-x^2}}\\right)\\,dx", "numerical_answer": "2.4674011002", "problem_number": "224"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8757845850", "problem_number": "225"}
+{"answer": "\\frac{\\pi^3}{24}", "numerical_answer": "1.2927615283", "problem_number": "226"}
+{"answer": "\\frac{7}{8}\\zeta(3)", "numerical_answer": "1.0522987903", "problem_number": "227"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "228"}
+{"answer": "\\int_0^1 x^2 \\ln^2\\left(x+\\sqrt{x^2+1}\\right)\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\,dx", "numerical_answer": "0.3571716022", "problem_number": "229"}
+{"answer": "\\frac{\\pi^{3}}{32}", "numerical_answer": "0.9689461463", "problem_number": "230"}
+{"answer": "2 \\sqrt{2} \\int_0^{\\pi/2} \\frac{\\cos \\theta}{[1 + \\sin 2\\theta]^{3/2}}\\, d\\theta", "numerical_answer": "1.6987037232", "problem_number": "231"}
+{"answer": "\\int_{0}^{1} x^{-1/4} (1-x)^{1/4} \\left[1 - \\sqrt{x(1-x)}\\right]^{-3/2} dx", "numerical_answer": "4.2720080674", "problem_number": "232"}
+{"answer": "\\int_{0}^{1} x^{-3/4} (1-x)^{-1/4} \\left[1-\\sqrt{x(1-x)}\\right]^{-3/2} dx", "numerical_answer": "10.4728578344", "problem_number": "233"}
+{"answer": "2", "numerical_answer": "2.0000000000", "problem_number": "234"}
+{"answer": "5", "numerical_answer": "5.0000000000", "problem_number": "235"}
+{"answer": "\\int_0^1 x^{-1/4}(1-x)^{1/4} (1 - \\sqrt{x(1-x)})^{-2} dx", "numerical_answer": "8.6582432170", "problem_number": "236"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "237"}
+{"answer": "8", "numerical_answer": "8.0000000000", "problem_number": "238"}
+{"answer": "\\int_0^2 \\frac{1}{x} I_1(x) K_0(2-x) \\, dx", "numerical_answer": "0.2386900682", "problem_number": "239"}
+{"answer": "\\ln\\left(\\frac{3 + 2\\sqrt{2}}{\\sqrt{2}}\\right)", "numerical_answer": "1.4160899938", "problem_number": "240"}
+{"answer": "\\frac{1}{8}\\left[K_0^2(3)-K_1^2(3)\\right]", "numerical_answer": "-0.0000505948", "problem_number": "241"}
+{"answer": "\\frac{1}{12}\\left[\\psi_1\\left(\\frac{1}{3}\\right) - \\psi_1\\left(\\frac{2}{3}\\right)\\right]", "numerical_answer": "0.8287063691", "problem_number": "242"}
+{"answer": "\\frac{1}{8} \\left[ \\psi_1\\left(\\frac{1}{4}\\right) - \\psi_1\\left(\\frac{3}{4}\\right) \\right]", "numerical_answer": "1.5328158692", "problem_number": "243"}
+{"answer": "\\frac{7}{8} \\zeta(3)", "numerical_answer": "1.0517957903", "problem_number": "244"}
+{"answer": "\\frac{1}{55\\,273\\,350}", "numerical_answer": "0.0000000181", "problem_number": "245"}
+{"answer": "\\frac{1575}{128} \\, \\zeta(3)", "numerical_answer": "14.7993213760", "problem_number": "246"}
+{"answer": "\\frac{1}{16} + \\frac{7}{32} \\zeta(3)", "numerical_answer": "0.3254418650", "problem_number": "247"}
+{"answer": "\\frac{\\pi}{8}", "numerical_answer": "0.3926990817", "problem_number": "248"}
+{"answer": "\\pi \\cdot \\frac{5\\sqrt{5} - 10}{10}", "numerical_answer": "0.3708118206", "problem_number": "249"}
+{"answer": "\\pi(\\sqrt{2}-1)", "numerical_answer": "1.3007072040", "problem_number": "250"}
+{"answer": "-4 \\int_0^{\\frac{\\pi}{2}} \\frac{\\cos(2\\theta)\\,\\ln(\\sin\\theta)}{1+\\sin^2(2\\theta)} \\, d\\theta", "numerical_answer": "1.2916728616", "problem_number": "251"}
+{"answer": "\\frac{\\pi^2}{2}", "numerical_answer": "4.9348022005", "problem_number": "252"}
+{"answer": "-3\\pi", "numerical_answer": "-9.4247779608", "problem_number": "254"}
+{"answer": "-\\frac{11\\pi}{2}", "numerical_answer": "-17.2787595947", "problem_number": "255"}
+{"answer": "16\\,\\Gamma\\left(\\frac{5}{4}\\right) \\Gamma\\left(\\frac{7}{4}\\right) - 24\\,\\Gamma\\left(\\frac{5}{4}\\right) \\Gamma\\left(\\frac{3}{4}\\right)", "numerical_answer": "-13.3456249530", "problem_number": "256"}
+{"answer": "2 \\sqrt{\\pi} e^{-0.25}", "numerical_answer": "2.7567992242", "problem_number": "258"}
+{"answer": "2\\sin 1 - 2\\operatorname{Si}(1)", "numerical_answer": "-0.2092241712", "problem_number": "259"}
+{"answer": "\\int_0^1 \\cos(x)\\ln\\left(\\frac{1+\\sqrt{1-x^2}}{x}\\right)\\,dx", "numerical_answer": "0.3333652853", "problem_number": "260"}
+{"answer": "\\frac{1}{2} \\int_0^{\\frac{\\pi}{2}} J_1(2\\cos\\theta) \\, d\\theta", "numerical_answer": "0.4042891738", "problem_number": "261"}
+{"answer": "\\frac{1}{4} \\left[1 - J_0(2)\\right]", "numerical_answer": "0.1940273052", "problem_number": "262"}
+{"answer": "\\frac{\\pi}{4} \\left(1 - J_0(1)\\right)", "numerical_answer": "0.1844530406", "problem_number": "264"}
+{"answer": "\\frac{1}{2} \\int_0^{\\frac{\\pi}{2}} \\cos\\theta\\, J_2(2\\cos\\theta)\\, d\\theta", "numerical_answer": "0.0960023741", "problem_number": "265"}
+{"answer": "-\\frac{\\pi}{2} + J_0(2)", "numerical_answer": "-1.3469055477", "problem_number": "266"}
+{"answer": "\\sum_{k=0}^{\\infty} \\left( \\sum_{n=0}^k \\frac{(2n)! (2(k-n))!}{2^{4k+2} (n!)^2 ((k-n)!)^2 (2n+1)(2(k-n)+1)} \\right) \\frac{\\sqrt{\\pi} \\, \\Gamma(k+\\frac{3}{2})}{4 (k+1)\\Gamma(k+2)}", "numerical_answer": "0.1013211836", "problem_number": "267"}
+{"answer": "-\\frac{\\pi^3}{8}\\log 2 + \\pi\\zeta(3)", "numerical_answer": "1.0920662670", "problem_number": "268"}
+{"answer": "\\frac{1}{4} \\sum_{m=0}^\\infty \\sum_{n=0}^\\infty \\frac{(2m)!\\,(2n)!}{4^{2(m+n)}\\,(m!\\,n!)^2\\,(2m+1)(2n+1)}\\left[\\frac{\\pi}{2(2(m+n)+4)} \\, - \\, \\frac{\\Gamma(m+n+\\frac{7}{2})}{(2(m+n)+4)\\sqrt{\\pi}\\,\\Gamma(m+n+3)}\\right]", "numerical_answer": "0.0392824149", "problem_number": "269"}
+{"answer": "16 \\int_{0}^{\\frac{\\pi}{6}} \\sin^3 \\theta\\, \\arccos(2 \\sin \\theta)\\, \\theta^2 \\cos \\theta\\, d\\theta", "numerical_answer": "0.0125707523", "problem_number": "270"}
+{"answer": "\\frac{19\\pi}{512}", "numerical_answer": "0.1166298039", "problem_number": "271"}
+{"answer": "\\frac{\\pi}{\\sqrt{2}} - \\frac{\\pi}{2} - \\frac{\\pi}{2} \\ln \\left( \\frac{1+\\sqrt{2}}{2} \\right )", "numerical_answer": "0.3551003229", "problem_number": "272"}
+{"answer": "\\frac{1}{3}\\left(\\frac{\\pi}{2\\sqrt{2}} - \\frac{\\pi}{4} - \\int_{0}^{\\pi/2} \\frac{\\cos^3\\phi\\,\\sin\\phi}{1+\\cos^2\\phi}\\,\\phi\\,d\\phi \\right)", "numerical_answer": "0.0200167758", "problem_number": "273"}
+{"answer": "250 \\int_{0}^{1} u^5 \\cosh(10u\\sqrt{1-u^2})\\,du", "numerical_answer": "140.7622533000", "problem_number": "274"}
+{"answer": "3^{3/2} \\sum_{n=0}^\\infty \\frac{36^n \\, \\Gamma(n+3/2)\\,\\Gamma(n+1)}{(2n)!\\,\\Gamma(2n+5/2)}", "numerical_answer": "650.2381831000", "problem_number": "275"}
+{"answer": "2\\sqrt{3}\\;{}_0F_1\\left(;\\frac{3}{2};9\\right)", "numerical_answer": "39.1449630132", "problem_number": "276"}
+{"answer": "2 \\int_0^1 \\frac{u^2 \\cosh(u)}{\\sqrt{1-u^2}} du", "numerical_answer": "1.4950171724", "problem_number": "277"}
+{"answer": "2 \\sum_{k=0}^\\infty \\frac{4^k}{(2k)!} \\frac{\\Gamma(k+3/2)\\Gamma(k+1/2)}{\\Gamma(2k+2)}", "numerical_answer": "3.5600633872", "problem_number": "278"}
+{"answer": "\\int_{0}^{\\pi} \\cosh(\\sin u)\\, du", "numerical_answer": "4.5702331943", "problem_number": "279"}
+{"answer": "\\sqrt{3} \\sum_{n=0}^\\infty \\frac{36^n}{(2n)!} \\cdot \\frac{\\Gamma\\left(n+\\frac{3}{4}\\right)^2}{\\Gamma\\left(2n+\\frac{3}{2}\\right)}", "numerical_answer": "17.2668581302", "problem_number": "280"}
+{"answer": "\\pi\\sqrt{2}", "numerical_answer": "4.4428829382", "problem_number": "281"}
+{"answer": "\\frac{1}{2} \\Gamma\\left(\\frac{1}{4}\\right)^2 \\sum_{n=0}^{\\infty} \\frac{16^n}{(2n)!} \\frac{1}{\\Gamma\\left(n+\\frac{1}{4}\\right)^2}", "numerical_answer": "68.9139529402", "problem_number": "282"}
+{"answer": "\\frac{1}{2} \\int_{0}^{\\ln(2 + \\sqrt{5})} y\\, \\arccos\\left( \\frac{1}{2} \\sinh y \\right) \\, dy", "numerical_answer": "0.4256963482", "problem_number": "283"}
+{"answer": "\\int_0^1 \\frac{\\arccos x\\, \\ln(x+\\sqrt{1+x^2})}{\\sqrt{1+x^2}}\\,dx", "numerical_answer": "0.3441295544", "problem_number": "284"}
+{"answer": "\\int_0^1 \\left( \\frac{1}{2} \\, \\operatorname{arcsinh} t \\cdot t \\sqrt{1+t^2} - \\frac{1}{4} (\\operatorname{arcsinh} t)^2 - \\frac{1}{4} t^2 \\right) \\frac{dt}{\\sqrt{1-t^2}}", "numerical_answer": "0.0187257954", "problem_number": "285"}
+{"answer": "\\frac{\\pi}{16} + \\frac{1}{4} \\left[ \\frac{1}{12} e^{3 t_1}(t_1 - \\frac{1}{3}) - \\frac{1}{4} (t_1+1) e^{-t_1} - \\frac{1}{4} e^{t_1}(t_1 - 1) - \\frac{1}{12} e^{-3 t_1}(t_1 + \\frac{1}{3}) + t_1 \\cosh t_1 - \\sinh t_1 + \\frac{1}{18} \\right ] \\\\ - \\frac{1}{16} \\sinh 3 t_1 - \\frac{1}{16} \\sinh t_1 - \\frac{1}{4} ( t_1^2 \\sinh t_1 - 2 t_1 \\cosh t_1 + 2 \\sinh t_1 ),\\quad t_1 = \\ln(1+\\sqrt{2})", "numerical_answer": "-0.1712114047", "problem_number": "286"}
+{"answer": "\\int_0^1 x\\ln^2\\left(x+\\sqrt{1+x^2}\\right)\\arccos x\\;dx", "numerical_answer": "0.1009276515", "problem_number": "287"}
+{"answer": "\\\\frac{\\\\pi}{2} \\\\left( \\\\frac{3}{4} (\\\\ln(1+\\\\sqrt{2}))^2 - \\\\frac{1}{4} \\\\ln(1+\\\\sqrt{2})\\\\, \\\\sinh(2\\\\ln(1+\\\\sqrt{2})) + \\\\frac{1}{8} \\\\cosh(2\\\\ln(1+\\\\sqrt{2})) - \\\\frac{1}{8} \\\\right) - \\\\int_{0}^{\\\\frac{\\\\pi}{2}} \\\\theta\\\\, \\\\sin\\\\theta \\\\, [\\\\operatorname{arcsinh}(\\\\sin\\\\theta)]^2 \\\\cos\\\\theta\\, d\\\\theta", "numerical_answer": "0.1476707621", "problem_number": "288"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "289"}
+{"answer": "\\frac{\\pi}{8}", "numerical_answer": "0.3926990817", "problem_number": "290"}
+{"answer": "\\frac{\\pi}{2} \\, \\mathbf{K}\\left(\\frac{\\sqrt{3}}{2}\\right)", "numerical_answer": "3.3860124775", "problem_number": "291"}
+{"answer": "\\frac{\\pi^3}{8}", "numerical_answer": "3.8757845850", "problem_number": "292"}
+{"answer": "\\frac{\\pi}{8}\\, \\mathbf{K}(0.5)", "numerical_answer": "0.6610167740", "problem_number": "293"}
+{"answer": "\\sum_{m=0}^{\\infty} \\sum_{n=0}^{\\infty} \\binom{1/2}{m} \\binom{1/2}{n}  \\frac{(-0.25)^m}{m+n+1} \\frac{\\sqrt{\\pi} \\, \\Gamma(m + 1/2)}{2 \\Gamma(m+1)} \\cdot \\frac{1}{2n+1}", "numerical_answer": "1.2785751182", "problem_number": "294"}
+{"answer": "2\\,\\mathbf{E}^2\\left(\\frac{1}{\\sqrt{2}}\\right) - \\mathbf{K}^2\\left(\\frac{1}{\\sqrt{2}}\\right)", "numerical_answer": "0.2098802230", "problem_number": "295"}
+{"answer": "G", "numerical_answer": "0.9159655942", "problem_number": "296"}
+{"answer": "\\frac{\\pi^2}{4} \\sum_{m=0}^\\infty \\sum_{n=0}^\\infty \\frac{\\left(-\\frac{1}{2}\\right)_m \\left(\\frac{1}{2}\\right)_m}{(m!)^2} \\frac{\\left(-\\frac{1}{2}\\right)_n \\left(\\frac{1}{2}\\right)_n}{(n!)^2} \\frac{(m+2)! n!}{(m+n+3)!}", "numerical_answer": "0.1559857361", "problem_number": "297"}
+{"answer": "\\frac{\\pi^2}{4}", "numerical_answer": "2.4674011003", "problem_number": "298"}
+{"answer": "\\boxed{\\displaystyle \\sum_{k=0}^{\\infty} \\binom{1/2}{k} \\, \\frac{\\Gamma(1/2)\\Gamma(0.125 + k/2)}{\\Gamma(1.625 + k/2)} \\left[ \\psi(1/2) - \\frac{1}{2}\\psi(0.125 + k/2) + \\frac{1}{2}\\psi(1.625 + k/2) \\right]}", "numerical_answer": "34.6195420000", "problem_number": "299"}
+{"answer": "\\int_0^1 x^{1/2} (1-x)^{1/2} (2-x)^{-7/2} \\ln\\left(\\frac{x}{2-x}\\right) \\ln\\left(\\frac{1-x}{(2-x)^2}\\right) dx", "numerical_answer": "-0.0285630452", "problem_number": "300"}
+{"answer": "\\frac{\\pi^3}{8} - 2\\zeta(3)", "numerical_answer": "1.4716707786", "problem_number": "301"}
+{"answer": "\\frac{\\pi}{2} \\, \\arcsin\\left(\\frac{1}{4}\\right) + \\frac{1}{8} K\\left(\\frac{1}{4}\\right)", "numerical_answer": "0.5985836923", "problem_number": "302"}
+{"answer": "\\frac{\\pi}{16} \\arcsin(0.25) - \\frac{1}{32} \\int_0^{\\pi/2} \\frac{\\theta\\cos\\theta}{\\sqrt{1-(0.25\\sin\\theta)^2}} \\, d\\theta - \\frac{1}{64} \\int_0^{\\pi/2} \\frac{\\sin 2\\theta \\, \\cos\\theta}{\\sqrt{1-(0.25\\sin\\theta)^2}} \\, d\\theta", "numerical_answer": "0.0080335610", "problem_number": "303"}
+{"answer": "\\frac{1}{6} \\left( 4\\, E\\left(\\frac{1}{2}\\right) - K\\left(\\frac{1}{2}\\right) \\right)", "numerical_answer": "0.6973497471", "problem_number": "304"}
+{"answer": "\\frac{1}{4} \\ln\\left( \\frac{1+\\sqrt{5}}{2} \\right )", "numerical_answer": "0.1203029563", "problem_number": "305"}
+{"answer": "\\pi \\ln(1+\\sqrt{2})", "numerical_answer": "2.7681608577", "problem_number": "306"}
+{"answer": "-\\frac{\\pi}{2} \\ln 2 + 4 \\int_0^{\\pi/2} \\sin^2\\theta \\ln (\\sin 2\\theta + \\sqrt{2+\\sin^2 2\\theta}) d\\theta", "numerical_answer": "1.4981883028", "problem_number": "307"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "308"}
+{"answer": "2", "numerical_answer": "2.0000000000", "problem_number": "309"}
+{"answer": "\\int_{0}^{2} \\ln \\left( \\frac{2 + \\sqrt{4-x^2}}{x} \\right ) \\, \\mathbf{D}(0.5 x)\\, dx", "numerical_answer": "0.9159655942", "problem_number": "310"}
+{"answer": "\\int_{0}^{1} x \\ln\\left(\\frac{1 + \\sqrt{1 - x^2}}{x}\\right) \\mathbf{D}\\left(\\frac{x}{2}\\right)\\, dx", "numerical_answer": "0.1408236506", "problem_number": "311"}
+{"answer": "\\int_0^1 \\frac{t\\, \\mathbf{D}(0.5 t) + e^{-0.25 t^2} - 1}{\\sqrt{1-t^2}} dt", "numerical_answer": "-0.2987006432", "problem_number": "312"}
+{"answer": "\\int_{0}^{1} \\mathbf{K}\\left(\\sqrt{1-x}\\right)\\mathbf{D}\\left(0.5\\sqrt{x}\\right)dx", "numerical_answer": "1.2203698958", "problem_number": "313"}
+{"answer": "-\\frac{7}{8}\\zeta(3)", "numerical_answer": "-1.0522997903", "problem_number": "314"}
+{"answer": "\\frac{7}{2}\\zeta(3) - \\frac{\\pi^2}{6} \\ln 2 + \\frac{\\pi^4}{90}", "numerical_answer": "4.1493787684", "problem_number": "315"}
+{"answer": "\\sqrt{2}\\int_{0}^{\\frac{\\pi}{2}} \\frac{\\cos\\theta}{\\sin^2\\theta} \\ln(1+2\\sin^2\\theta)\\ln\\cot\\left(\\frac{\\theta}{2}\\right) d\\theta", "numerical_answer": "0.5720786841", "problem_number": "316"}
+{"answer": "\\sqrt{2}\\left[-6 + 7 \\ln 2 + 2 (\\ln 2)^2\\right]", "numerical_answer": "-0.2633114983", "problem_number": "317"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "318"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "319"}
+{"answer": "2 \\int_{0}^{1} \\frac{J_0(2u)}{u} \\, \\mathbf{E}(\\sqrt{1-u^2}) \\, du", "numerical_answer": "1.4674627852", "problem_number": "320"}
+{"answer": "\\frac{\\pi^2}{8}", "numerical_answer": "1.2337005501", "problem_number": "321"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "401"}
+{"answer": "2\\log\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "0.0921720094", "problem_number": "402"}
+{"answer": "5040", "numerical_answer": "5040.0000000000", "problem_number": "403"}
+{"answer": "\\frac{1}{25}\\cdot\\frac{\\Gamma\\left(\\frac{1}{25}\\right)\\Gamma\\left(\\frac{21}{20}\\right)}{\\Gamma\\left(\\frac{1}{25}+\\frac{21}{20}\\right)} - \\frac{1}{20}\\cdot\\frac{\\Gamma\\left(\\frac{1}{20}\\right)\\Gamma\\left(\\frac{26}{25}\\right)}{\\Gamma\\left(\\frac{1}{20}+\\frac{26}{25}\\right)}", "numerical_answer": "-0.0291719270", "problem_number": "404"}
+{"answer": "3 + 2e^{1} + 2e^{2} + 2e^{3} - e^{4}", "numerical_answer": "8.7876006681", "problem_number": "405"}
+{"answer": "\\ln \\left( \\frac{1 + \\sqrt{2}\\, 3^{1/4} + \\sqrt{3}}{1 - \\sqrt{2}\\, 3^{1/4} + \\sqrt{3}} \\cdot \\frac{1 - \\sqrt{2}\\, 3^{-1/4} + 1/\\sqrt{3}}{1 + \\sqrt{2}\\, 3^{-1/4} + 1/\\sqrt{3}} \\right )", "numerical_answer": "-0.0020713181", "problem_number": "406"}
+{"answer": "\\frac{\\pi}{2}\\left[\\operatorname{erf}\\left(\\frac{\\sqrt{3}}{2}\\right)-\\operatorname{erf}\\left(\\frac{1}{2\\sqrt{3}}\\right)\\right]", "numerical_answer": "0.7588915778", "problem_number": "407"}
+{"answer": "\\frac{1}{8}\\ln\\left(\\frac{5}{3}\\right) - \\frac{1}{20}", "numerical_answer": "0.0138532030", "problem_number": "408"}
+{"answer": "\\frac{\\pi}{4} - \\int_0^1 \\frac{2x^2-x}{x^4-2x^3+3x^2-2x+2}\\,dx", "numerical_answer": "0.7291954804", "problem_number": "409"}
+{"answer": "\\frac{1}{2} \\sqrt{\\pi} e^{-1}", "numerical_answer": "0.3259493235", "problem_number": "410"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "411"}
+{"answer": "e", "numerical_answer": "2.7182818285", "problem_number": "412"}
+{"answer": "506\\pi", "numerical_answer": "1590.4312801012", "problem_number": "413"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "414"}
+{"answer": "\\frac{4}{5}", "numerical_answer": "0.8000000000", "problem_number": "415"}
+{"answer": "\\frac{\\sqrt{2}}{2} e^{\\pi/4} - \\frac{1}{2}", "numerical_answer": "1.0492555635", "problem_number": "416"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "417"}
+{"answer": "\\frac{\\pi^2}{6} - 1", "numerical_answer": "0.6449340680", "problem_number": "418"}
+{"answer": "\\frac{\\pi^2}{6}", "numerical_answer": "1.6449340668", "problem_number": "419"}
+{"answer": "\\frac{3-\\sqrt{5}}{2} - \\frac{1}{2} \\log\\left( \\frac{ -1 + \\sqrt{5} }{2 } \\right )", "numerical_answer": "0.6225719239", "problem_number": "420"}
+{"answer": "\\sin(1)", "numerical_answer": "0.8414709848", "problem_number": "421"}
+{"answer": "\\frac{1}{4} 2^{4/3}", "numerical_answer": "0.6299604445", "problem_number": "422"}
+{"answer": "99", "numerical_answer": "99.0000000000", "problem_number": "423"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "424"}
+{"answer": "\\frac{128}{153}", "numerical_answer": "0.8366013072", "problem_number": "425"}
+{"answer": "\\frac{\\pi}{4}+\\ln(3)", "numerical_answer": "1.8840104521", "problem_number": "426"}
+{"answer": "\\frac{1}{24} \\left(7\\sqrt{11} - 3\\sqrt{6} + 6\\ln\\left(\\frac{\\sqrt{11} + 1}{\\sqrt{6}}\\right)\\right)", "numerical_answer": "0.8030172413", "problem_number": "427"}
+{"answer": "17", "numerical_answer": "17.0000000000", "problem_number": "428"}
+{"answer": "\\ln\\left(\\frac{80}{23}\\right)", "numerical_answer": "1.2479699653", "problem_number": "429"}
+{"answer": "-\\frac{2023}{2022}", "numerical_answer": "-1.0004945590", "problem_number": "430"}
+{"answer": "\\frac{2}{5}", "numerical_answer": "0.4000000000", "problem_number": "501"}
+{"answer": "\\left[729 + \\frac{1458}{5} + \\frac{243}{2} + 54 + 27 + 18 + 6\\ln 2\\right] - \\left[64 + \\frac{192}{5} + 24 + 16 + 12 + 12\\right]", "numerical_answer": "1078.8588830836", "problem_number": "502"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "503"}
+{"answer": "\\frac{1}{2^{100}} \\sum_{j=0}^{99} \\binom{99}{j} \\left( \\frac{\\sin(2(1+j)x)}{2(1+j)} - \\frac{\\sin(2(100-j)x)}{2(100-j)} \\right ) + C", "numerical_answer": "See note: result is a sum of many small oscillating terms; for definite limits substitute values into the formula.", "problem_number": "504"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "505"}
+{"answer": "1005", "numerical_answer": "1005.0000000000", "problem_number": "506"}
+{"answer": "18", "numerical_answer": "18.0000000000", "problem_number": "507"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "508"}
+{"answer": "\\frac{2\\pi}{3} + 4\\sqrt{3}", "numerical_answer": "9.0225983328", "problem_number": "509"}
+{"answer": "\\frac{7\\pi}{3\\sqrt{3}}", "numerical_answer": "4.2329104761", "problem_number": "510"}
+{"answer": "2\\sin(2\\sqrt{2})", "numerical_answer": "0.6191197513", "problem_number": "511"}
+{"answer": "\\frac{e^2 - 1}{4}", "numerical_answer": "1.5972640247", "problem_number": "512"}
+{"answer": "\\int_{-4}^4 \\lvert x^3-x\\rvert dx = 113", "numerical_answer": "113.0000000000", "problem_number": "513"}
+{"answer": "\\frac{\\pi}{6} + \\frac{\\sqrt{3}}{8}", "numerical_answer": "0.7401051265", "problem_number": "514"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "515"}
+{"answer": "\\frac{\\pi}{2} - 1", "numerical_answer": "0.5707963268", "problem_number": "516"}
+{"answer": "e^{1/8} \\sqrt{\\frac{\\pi}{2}}", "numerical_answer": "1.4219123944", "problem_number": "517"}
+{"answer": "4036", "numerical_answer": "4036.0000000000", "problem_number": "518"}
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634", "problem_number": "519"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "520"}
+{"answer": "\\ln 3", "numerical_answer": "1.0986122887", "problem_number": "521"}
+{"answer": "\\frac{\\sqrt{\\pi}}{\\sqrt{2019}}", "numerical_answer": "0.0394267674", "problem_number": "522"}
+{"answer": "\\ln 2", "numerical_answer": "0.6931471806", "problem_number": "523"}
+{"answer": "\\frac{1}{4}\\left(e^2 + 1\\right)", "numerical_answer": "2.0972640247", "problem_number": "524"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "525"}
+{"answer": "\\frac{\\pi}{4} \\ln 3", "numerical_answer": "0.8610983731", "problem_number": "526"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "527"}
+{"answer": "e^{e-1} - e", "numerical_answer": "2.8637249311", "problem_number": "528"}
+{"answer": "4045\\pi - 2\\sum_{m=-2022}^{2022} \\arcsin\\left( \\frac{m}{2023} \\right )", "numerical_answer": "14445.34887410", "problem_number": "529"}
+{"answer": "3 - \\frac{1}{\\sqrt{2}}\\ln\\left(\\frac{\\sqrt{2}+1}{\\sqrt{2}-1}\\right) - \\sqrt{2}\\ln(1+\\sqrt{2})", "numerical_answer": "0.5071212936", "problem_number": "530"}
+{"answer": "\\frac{5}{6}", "numerical_answer": "0.8333333333", "problem_number": "531"}
+{"answer": "\\pi^2", "numerical_answer": "9.8696044011", "problem_number": "532"}
+{"answer": "\\frac{8}{7}", "numerical_answer": "1.1428571429", "problem_number": "533"}
+{"answer": "2\\sqrt{2\\pi}", "numerical_answer": "5.0132565491", "problem_number": "534"}
+{"answer": "\\frac{e^3}{3}", "numerical_answer": "6.6951789744", "problem_number": "535"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "536"}
+{"answer": "3", "numerical_answer": "3.0000000000", "problem_number": "537"}
+{"answer": "\\pi\\ln 2", "numerical_answer": "2.1775860903", "problem_number": "601"}
+{"answer": "\\frac{\\pi^4}{120}", "numerical_answer": "0.8117424253", "problem_number": "602"}
+{"answer": "4", "numerical_answer": "4.0000000000", "problem_number": "603"}
+{"answer": "2 \\int_0^1 \\frac{u(\\sin u - \\sinh u)}{\\sin u + \\sinh u} \\, du", "numerical_answer": "-0.6558461496", "problem_number": "604"}
+{"answer": "\\frac{\\pi^2}{16}", "numerical_answer": "0.6168502751", "problem_number": "605"}
+{"answer": "\\frac{\\pi^2}{8} + 2 \\int_0^{\\pi/2} \\arcsin \\left( \\frac{\\sin \\theta}{\\sqrt{2}} \\right ) \\, d\\theta", "numerical_answer": "2.4318407847", "problem_number": "606"}
+{"answer": "2 \\int_0^{\\frac{\\pi}{4}} \\ln\\left( \\sqrt{2} \\cos t + \\sqrt{ \\cos 2t } \\right ) \\, dt", "numerical_answer": "0.6900989307", "problem_number": "607"}
+{"answer": "\\frac{1}{4} (\\ln 2)^4", "numerical_answer": "0.0577622650", "problem_number": "608"}
+{"answer": "-1", "numerical_answer": "-1.0000000000", "problem_number": "609"}
+{"answer": "1", "numerical_answer": "1.0000000000", "problem_number": "610"}
+{"answer": "\\ln\\left(\\frac{2+\\sqrt{3}}{\\sqrt{3}}\\right)", "numerical_answer": "0.7675234143", "problem_number": "611"}
+{"answer": "626", "numerical_answer": "626.0000000000", "problem_number": "612"}
+{"answer": "\\frac{1}{5}", "numerical_answer": "0.2000000000", "problem_number": "613"}
+{"answer": "\\frac{1}{2}", "numerical_answer": "0.5000000000", "problem_number": "614"}
+{"answer": "\\frac{3}{8}\\left(e^{\\frac{4}{3}\\sinh^{-1}(7)} + e^{-\\frac{4}{3}\\sinh^{-1}(7)}\\right) - \\frac{3}{4}\\left(e^{\\frac{2}{3}\\sinh^{-1}(7)} + e^{-\\frac{2}{3}\\sinh^{-1}(7)}\\right) + \\frac{3}{4}", "numerical_answer": "9.0045205388", "problem_number": "615"}
+{"answer": "\\frac{(\\ln 2)^2}{2} + \\int_{0}^{\\infty} \\frac{\\ln(\\cosh t)}{e^{2t} + 1} \\,dt", "numerical_answer": "0.2642182646", "problem_number": "616"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "617"}
+{"answer": "1 - \\gamma", "numerical_answer": "0.4227843351", "problem_number": "618"}
+{"answer": "\\frac{\\pi^{2}}{8}", "numerical_answer": "1.2337005501", "problem_number": "619"}
+{"answer": "\\frac{\\pi}{8} \\ln 2", "numerical_answer": "0.2728060081", "problem_number": "620"}
+{"answer": "-\\frac{\\pi}{2}", "numerical_answer": "-1.5707963268", "problem_number": "621"}
+{"answer": "\\frac{\\pi}{4} - \\frac{1}{2}", "numerical_answer": "0.2853981634", "problem_number": "622"}
+{"answer": "0", "numerical_answer": "0.0000000000", "problem_number": "623"}
+{"answer": "2\\,\\Re\\left[\\mathrm{Li}_2\\left(e^{i\\pi/3}\\right)\\right]", "numerical_answer": "1.7743602334", "problem_number": "624"}
+{"answer": "\\Gamma\\left(\\frac{3}{4}\\right)\\Gamma\\left(\\frac{5}{4}\\right)", "numerical_answer": "1.1107207345", "problem_number": "625"}
+{"answer": "-\\gamma - 2\\ln 2", "numerical_answer": "-1.9635100261", "problem_number": "626"}
+{"answer": "\\gamma - \\dfrac{\\pi}{4} + \\dfrac{1}{2}", "numerical_answer": "0.2918175015", "problem_number": "627"}
+{"answer": "-\\frac{\\pi}{8} - \\frac{1}{4}", "numerical_answer": "-0.6426990817", "problem_number": "628"}
+{"answer": "\\ln\\left(\\frac{24}{2024}\\right)", "numerical_answer": "-4.4380927281", "problem_number": "629"}
+{"answer": "\\frac{\\ln 3}{12\\sqrt{3}}\\pi + \\frac{1}{\\sqrt{3}}\\int_{\\pi/6}^{\\pi/3} \\ln(\\tan\\theta) \\, d\\theta", "numerical_answer": "0.2509895720", "problem_number": "630"}
+{"answer": "\\sin 1", "numerical_answer": "0.8414709848", "problem_number": "631"}
+{"answer": "-\\frac{1}{2}", "numerical_answer": "-0.5000000000", "problem_number": "632"}
+{"answer": "-\\frac{\\pi^2}{8}\\ln 2 + \\frac{7}{16}\\zeta(3)", "numerical_answer": "-0.3295926645", "problem_number": "633"}

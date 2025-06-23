@@ -1,0 +1,1 @@
+{"answer": "\\pi K\\left(\\frac{1}{\\sqrt{2}}\\right)", "numerical_answer": "5.8284271247"}

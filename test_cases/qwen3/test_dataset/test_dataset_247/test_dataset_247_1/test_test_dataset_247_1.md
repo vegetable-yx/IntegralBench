@@ -1,0 +1,1 @@
+{"answer": "\\boxed{\\dfrac{1}{8}}", "numerical_answer": "0.1250000000"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2}\\,\\pi^{3/2}\\,\\Gamma(1/4)}{16\\,\\Gamma(3/4)} - \\frac{\\Gamma(1/4)^2}{8}\\,_2F_1\\Bigl(\\frac{1}{4},\\frac{1}{2};\\frac{3}{4};\\frac{1}{2}\\Bigr)",
+  "numerical_answer": "2.3888290000"
+}

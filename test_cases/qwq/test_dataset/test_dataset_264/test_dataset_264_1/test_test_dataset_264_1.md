@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{4} \\left(1 - H_0(2)\\right)", "numerical_answer": "0.3232450649"}

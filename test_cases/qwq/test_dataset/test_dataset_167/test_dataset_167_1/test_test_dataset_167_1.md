@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{\\pi^2}{3}", "numerical_answer": "3.2898710959"}

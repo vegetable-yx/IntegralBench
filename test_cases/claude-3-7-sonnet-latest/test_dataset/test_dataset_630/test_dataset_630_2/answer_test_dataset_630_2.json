@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\ln(3)\\arctan(\\sqrt{3})}{\\sqrt{3}} - \\frac{\\ln(4)\\arctan(\\sqrt{3})}{2} + \\frac{\\text{Li}_2(3/4)}{4} + \\frac{\\ln(4/3)\\arctan(1/\\sqrt{3})}{2} - \\frac{\\text{Li}_2(1/4)}{4}",
+  "numerical_answer": "0.0989312402"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$\\displaystyle \\frac12\\,_1F_2\\Bigl(1;\\frac32,2;-1\\Bigr)-\\frac13\\,_1F_2\\Bigl(1;2,\\frac52;-1\\Bigr)$",
+  "numerical_answer": "0.0929860000"
+}

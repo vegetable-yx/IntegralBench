@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{k=0}^\\infty \\frac{(-1)^k \\, 2^{k+1/2} \\, \\Gamma\\left(1+\\frac{k}{2}\\right) \\Gamma\\left(\\frac{1}{2}+\\frac{k}{2}\\right)}{(2k+1)! \\, \\Gamma\\left(\\frac{3}{2}+k\\right)}",
+  "numerical_answer": "2.5289478040"
+}

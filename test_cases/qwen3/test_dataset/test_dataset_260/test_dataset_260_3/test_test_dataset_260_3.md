@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{2} \\operatorname{H}_0(1)", "numerical_answer": "0.8942787149"}

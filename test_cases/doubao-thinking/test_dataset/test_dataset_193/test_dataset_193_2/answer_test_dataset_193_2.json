@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^4}{144} - \\frac{\\pi^2 \\ln^2 2}{24} + \\frac{\\ln^4 2}{12} - \\frac{\\zeta(3) \\ln 2}{2}",
+  "numerical_answer": "0.08156262113"
+}

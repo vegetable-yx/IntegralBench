@@ -1,0 +1,7 @@
+Please calculate the definite integral \int_0^{\frac{\pi}{4}}\ln(\cot x-1)\mathrm{d}x.
+Follow these steps:
+1. Compute the integral analytically to obtain the exact answer.
+2. Provide all necessary steps to reach the solution.
+3. Include a numerical approximation of the result, rounded to 10 decimal places.
+4. Output the final answer in the following JSON format on the last line, with no additional text:
+{"answer": "exact_answer_in_latex", "numerical_answer": "numerical_approximation_of_the_result"}

@@ -1,0 +1,1 @@
+{"answer": "\\int_{0}^{2} x^{-1/4} (2 - x)^{1/4} \sin\\left(\\sqrt[4]{x(2 - x)}\\right) dx = 2^{\\frac{3}{4}} \\left(\\frac{\\sqrt{\\pi}}{\\Gamma\\left(\\frac{3}{4}\\right)}\\right)", "numerical_answer": "1.8048382093"}

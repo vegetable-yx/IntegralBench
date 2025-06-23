@@ -1,0 +1,1 @@
+{"answer": "-\\frac{2023}{2022}", "numerical_answer": "-1.0004945598"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{5}}{2}\\left[ F\\left(\\frac{\\pi}{2}, \\frac{1}{\\sqrt{5}}\\right) - E\\left(\\frac{\\pi}{2}, \\frac{1}{\\sqrt{5}}\\right) \\right]",
+  "numerical_answer": "0.5628519769"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^3 (\\operatorname{arcsinh} x)^2 \\arccos x \\, dx",
+  "numerical_answer": "0.0420896683"
+}

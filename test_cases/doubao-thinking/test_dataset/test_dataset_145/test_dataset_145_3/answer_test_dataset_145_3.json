@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{n=0}^{\\infty} \\frac{4^n}{(n+1)(2n+1)(2n+1)!}",
+  "numerical_answer": "1.1204695897"
+}

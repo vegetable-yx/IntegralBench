@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{m=0}^{\\infty} \\frac{(-1)^m 4^m}{(m+1)(2m)!(2m+1)^2}",
+  "numerical_answer": "0.8973395501"
+}

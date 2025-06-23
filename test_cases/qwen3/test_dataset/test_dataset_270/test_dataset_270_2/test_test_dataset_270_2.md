@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi^4}{49} - \\frac{5\\pi^3}{1024} + \\frac{\\pi \\sqrt{3}}{15} - \\frac{13}{512}", "numerical_answer": "0.0671234568"}

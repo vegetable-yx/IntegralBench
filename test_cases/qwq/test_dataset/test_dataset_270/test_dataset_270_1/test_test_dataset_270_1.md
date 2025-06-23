@@ -1,0 +1,1 @@
+{"answer": "The exact answer could not be determined analytically within the time constraints.", "numerical_answer": "0.0173345000"}

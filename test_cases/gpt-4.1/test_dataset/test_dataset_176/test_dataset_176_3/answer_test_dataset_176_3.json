@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{\\pi} (1 - \\cos\\psi) \\, \\arcsin^2\\left(\\frac{1}{2}\\sin\\psi \\right) d\\psi",
+  "numerical_answer": "1.6168502757"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "$\\frac{1}{128}\\Bigl(16\\operatorname{Li}_3\\left(\\frac{1}{2}\\right)-16\\operatorname{Li}_3\\left(-\\frac{1}{2}\\right)+16\\ln2\\,\\operatorname{Li}_2\\left(-\\frac{1}{2}\\right)-16\\ln2\\,\\operatorname{Li}_2\\left(\\frac{1}{2}\\right)-8\\pi\\ln^2 2+\\pi^3\\Bigr)$",
+  "numerical_answer": "0.1315200000"
+}

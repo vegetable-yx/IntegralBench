@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{8}\\Biggl[\\sqrt{3}\\,\\pi+4\\ln^2\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)-8\\Li_2\\Bigl(\\frac{1}{2}-\\frac{\\sqrt{3}}{2}\\Bigr)+8\\Li_2\\Bigl(\\frac{\\sqrt{3}+1}{2}\\Bigr)\\Biggr]",
+  "numerical_answer": "0.1803780000"
+}

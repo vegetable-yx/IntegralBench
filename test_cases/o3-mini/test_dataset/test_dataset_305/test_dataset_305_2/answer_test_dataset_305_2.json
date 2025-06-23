@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{5}}{4}\\ln\\!\\left(\\frac{\\sqrt{5}+1}{\\sqrt{5}-1}\\right)+\\frac{1}{2}\\ln\\!\\left(\\frac{3-\\sqrt{5}}{2}\\right)+\\ln2-\\frac{1}{4}\\Bigl(\\operatorname{Li}_2\\Bigl(\\frac{1-\\sqrt{5}}{2}\\Bigr)-\\operatorname{Li}_2\\Bigl(\\frac{1+\\sqrt{5}}{2}\\Bigr)\\Bigr)",
+  "numerical_answer": "0.9714680000"
+}

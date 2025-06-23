@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{4} \\ln 2 - \\int_{\\pi/4}^{\\pi/2} \\ln(\\cos\\phi)\\cos(2\\phi)\\,d\\phi",
+  "numerical_answer": "0.1155929363"
+}

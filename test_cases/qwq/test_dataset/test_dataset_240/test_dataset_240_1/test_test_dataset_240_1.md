@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{2(\\sqrt{10} - 3)}{\\sqrt{10}}", "numerical_answer": "0.1026342020"}

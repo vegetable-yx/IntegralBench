@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{\\pi}\\,\\Gamma(\\frac{1}{4})^2}{16}\\, {}_1F_{2}\\left(\\frac{1}{4};\\frac{1}{2},\\frac{5}{4};\\frac{9}{4}\\right)",
+  "numerical_answer": "2.6417000000"
+}

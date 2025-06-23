@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{3} \\int_0^{\\frac{\\pi}{2}} \\frac{I_0(6\\sin\\theta)}{\\sin\\theta} d\\theta",
+  "numerical_answer": "4.6194458360"
+}

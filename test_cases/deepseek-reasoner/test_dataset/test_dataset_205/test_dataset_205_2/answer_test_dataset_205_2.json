@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2} \\frac{\\sin\\left(\\sqrt[4]{x(2 - x)}\\right)}{\\sqrt{x}} \\, dx",
+  "numerical_answer": "2.4221120550"
+}

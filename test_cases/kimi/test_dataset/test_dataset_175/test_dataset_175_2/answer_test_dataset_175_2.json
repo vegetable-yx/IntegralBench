@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\pi^2}{72} - \\int_0^1 \\frac{t^2}{2} \\cdot \\frac{\\arcsin\\left(\\frac{t}{2}\\right)}{\\sqrt{1 - \\left(\\frac{t}{2}\\right)^2}} \\, dt",
+  "numerical_answer": "0.06544984694978735"
+}

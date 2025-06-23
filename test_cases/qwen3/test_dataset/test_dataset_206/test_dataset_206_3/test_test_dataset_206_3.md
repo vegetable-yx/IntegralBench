@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{\\frac{\\pi}{2}} \\cdot \\frac{\\pi}{\\sqrt{2}}", "numerical_answer": "2.2214414691"}

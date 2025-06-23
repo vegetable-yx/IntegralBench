@@ -1,0 +1,1 @@
+{"answer": "{\\pi^2 \\ln 2}/{72}", "numerical_answer": "0.0952727962"}

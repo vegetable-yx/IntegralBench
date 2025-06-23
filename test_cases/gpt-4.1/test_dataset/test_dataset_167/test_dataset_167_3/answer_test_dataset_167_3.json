@@ -1,0 +1,4 @@
+{
+  "answer": "\\displaystyle\\int_0^1\\ln\\frac{1+0.5\\sqrt{x}}{1-0.5\\sqrt{x}}\\,\\mathrm{K}\\left(\\sqrt{1-x}\\right)dx = 2\\sqrt{\\pi}\\sum_{n=0}^\\infty \\frac{2^{-(2n+1)}}{2n+1}\\frac{\\Gamma\\left(n+\\frac{3}{2}\\right)}{\\Gamma(n+2)}\\mathrm{K}\\left(\\sqrt{\\frac{2n+2}{2n+3}}\\right)",
+  "numerical_answer": "4.0532526694"
+}

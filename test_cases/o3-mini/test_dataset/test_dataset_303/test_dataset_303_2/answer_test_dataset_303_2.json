@@ -1,0 +1,4 @@
+{
+  "answer": "I = \\frac{\\sqrt{\\pi}\\,\\Gamma(3/4)}{64\\,\\Gamma(5/4)}\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{5}{4};\\frac{1}{16}\\Bigr) - \\frac{1}{32}\\, _2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{4};\\frac{3}{4};\\frac{1}{16}\\Bigr)",
+  "numerical_answer": "0.0203000000"
+}

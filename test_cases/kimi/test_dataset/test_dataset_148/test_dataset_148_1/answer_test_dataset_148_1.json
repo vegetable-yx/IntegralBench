@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^1 x^{1/4}(1-x)^{-1/4} \\operatorname{K}\\left(\\sqrt[4]{x(1-x)}\\right) dx",
+  "numerical_answer": "3.1415926536"
+}

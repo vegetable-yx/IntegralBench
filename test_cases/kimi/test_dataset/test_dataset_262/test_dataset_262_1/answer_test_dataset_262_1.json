@@ -1,0 +1,4 @@
+{
+  "answer": "\\sum_{m=0}^{\\infty} \\frac{(-1)^m}{m! \\, \\Gamma(m+1)} \\cdot \\frac{1}{2m+2} \\cdot \\frac{\\sqrt{\\pi} \\Gamma\\left(\\frac{2m+3}{2}\\right)}{2 \\Gamma(m+2)}",
+  "numerical_answer": "0.2453105468"
+}

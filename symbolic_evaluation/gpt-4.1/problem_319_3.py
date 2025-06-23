@@ -1,0 +1,8 @@
+import mpmath as mp
+mp.dps = 15  # Set internal decimal precision
+
+# The analytical result is exactly 1
+result = mp.mpf(1)
+
+# Print result with 10 decimal places
+print(mp.nstr(result, n=10))

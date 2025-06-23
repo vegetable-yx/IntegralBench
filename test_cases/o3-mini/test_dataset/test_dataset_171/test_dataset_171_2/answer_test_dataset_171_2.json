@@ -1,0 +1,4 @@
+{
+  "answer": "I=\\frac{1}{2^{17}\\pi^2}\\Biggl\\{\\Gamma\\Bigl(\\frac{1}{4}\\Bigr)^8\\, _2F_1\\Bigl(\\frac{1}{4},\\frac{1}{4};\\frac{1}{2};\\frac{1}{16}\\Bigr) -8\\,\\Gamma\\Bigl(\\frac{3}{4}\\Bigr)^8\\, _2F_1\\Bigl(\\frac{3}{4},\\frac{3}{4};\\frac{3}{2};\\frac{1}{16}\\Bigr)\\Biggr\\}",
+  "numerical_answer": "0.0160640000"
+}

@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{\\pi} (\\sin 2 - 2 \\cos 2)}{16}", "numerical_answer": "0.1929306063"}

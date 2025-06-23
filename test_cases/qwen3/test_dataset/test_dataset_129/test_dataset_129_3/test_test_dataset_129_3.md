@@ -1,0 +1,1 @@
+{"answer": "\\frac{4\\sqrt{2}}{\\sqrt{\\pi}} \\sum_{k=0}^{\\infty} \\frac{(k+1)^2 (k+2)}{(2k+4)!} 4^{k+2}", "numerical_answer": "2.2832361741"}

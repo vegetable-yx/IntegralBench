@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{1} \\frac{x^{1/2}}{1-0.25\\sqrt{x(1-x)}}\\operatorname{E}\\left(0.5 [x(1-x)]^{1/4}\\right)dx",
+  "numerical_answer": "0.8031496060"
+}

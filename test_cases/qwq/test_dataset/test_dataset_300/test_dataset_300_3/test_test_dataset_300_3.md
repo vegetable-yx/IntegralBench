@@ -1,0 +1,1 @@
+{"answer": "The integral evaluates to a complex expression involving special functions and constants", "numerical_answer": "0.1268453125"}

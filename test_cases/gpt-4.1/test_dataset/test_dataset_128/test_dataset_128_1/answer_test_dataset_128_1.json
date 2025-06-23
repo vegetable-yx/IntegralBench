@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_{0}^{2}x^{-1/4}(2-x)^{-3/4}I_{0.5}\\left(\\sqrt[4]{x(2-x)}\\right)dx",
+  "numerical_answer": "2.1732074592"
+}

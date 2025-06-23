@@ -1,0 +1,4 @@
+{
+  "answer": "$4\\sum_{k\\ge0}\\frac{J_{2k+1}(1)}{2k+1}-2\\Bigl(\\sin1+\\cos1-1\\Bigr)$",
+  "numerical_answer": "1.0229400386"
+}

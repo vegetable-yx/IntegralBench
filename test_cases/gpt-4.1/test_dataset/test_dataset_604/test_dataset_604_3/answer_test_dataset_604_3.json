@@ -1,0 +1,4 @@
+{
+  "answer": "2 \\int_0^1 \\frac{u(\\sin u - \\sinh u)}{\\sin u + \\sinh u} \\, du",
+  "numerical_answer": "-0.6558461496"
+}

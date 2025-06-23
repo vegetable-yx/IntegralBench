@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{2}\\frac{1}{x^{2}}J_{2.5}\\left(x\\right)J_{0.5}\\left(2-x\\right)dx",
+  "numerical_answer": "0.0432835167"
+}

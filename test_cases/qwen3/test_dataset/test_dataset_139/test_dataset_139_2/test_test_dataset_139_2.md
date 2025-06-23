@@ -1,0 +1,1 @@
+{"answer": "\\cosh(2) - 1", "numerical_answer": "2.7621956911"}

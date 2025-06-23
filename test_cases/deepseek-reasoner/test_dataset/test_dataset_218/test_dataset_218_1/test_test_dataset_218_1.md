@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\pi}{3} (\\ln 2)^2 + \\frac{\\pi^3}{72} - \\frac{\\pi}{3} (\\ln 2)^3 - \\ln 2 \\cdot \\text{Cl}_2\\left(\\frac{\\pi}{3}\\right) - \\frac{1}{2} \\text{Cl}_3\\left(\\frac{\\pi}{3}\\right)", "numerical_answer": "1.0015541362"}

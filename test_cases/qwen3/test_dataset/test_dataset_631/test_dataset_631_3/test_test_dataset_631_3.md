@@ -1,0 +1,1 @@
+{"answer": "\\sin 1", "numerical_answer": "0.8414709848"}

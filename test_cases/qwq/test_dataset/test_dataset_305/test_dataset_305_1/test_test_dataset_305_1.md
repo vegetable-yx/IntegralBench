@@ -1,0 +1,1 @@
+{"answer": "\\frac{\\sqrt{5}}{2} \\left( K\\left( \\frac{1}{\\sqrt{5}} \\right) - E\\left( \\frac{1}{\\sqrt{5}} \\right) \\right)", "numerical_answer": "0.2355436904"}

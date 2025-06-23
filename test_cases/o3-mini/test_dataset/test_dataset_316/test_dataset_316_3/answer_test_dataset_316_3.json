@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{\\sqrt{2}}{2}\\Bigl[-\\pi\\ln^2 2+4\\ln2\\,\\operatorname{Li}_2\\left(\\frac12\\right)-\\operatorname{Li}_2\\Bigl(1-\\frac{1}{\\sqrt{2}}\\Bigr)+\\operatorname{Li}_2\\Bigl(1+\\frac{1}{\\sqrt{2}}\\Bigr)\\Bigr]",
+  "numerical_answer": "1.4280000000"
+}

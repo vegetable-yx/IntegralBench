@@ -1,0 +1,1 @@
+{"answer": "Exact form requires further analysis", "numerical_answer": "0.1449170000"}

@@ -1,0 +1,1 @@
+{"answer": "e^{2} + e^{-2} - 2", "numerical_answer": "5.5243913822"}

@@ -1,0 +1,1 @@
+{"answer": "4 \\sinh(4)", "numerical_answer": "109.1596935593"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_{0}^{1} \\mathrm{Si}(3\\sqrt{x}) \\mathrm{K}(\\sqrt{1 - x}) \\, dx",
+  "numerical_answer": "1.0121155143"
+}

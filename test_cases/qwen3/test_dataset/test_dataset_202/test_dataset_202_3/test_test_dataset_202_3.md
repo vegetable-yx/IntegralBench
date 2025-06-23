@@ -1,0 +1,1 @@
+{"answer": "2\\sin(1)", "numerical_answer": "1.6829419700"}

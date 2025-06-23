@@ -1,0 +1,1 @@
+{"answer": "\\dfrac{1}{\\pi} \\left( \\dfrac{\\sin 2}{2} - \\cos 2 \\right)^2", "numerical_answer": "0.2413030664"}

@@ -1,0 +1,4 @@
+{
+  "answer": "\\int_0^{2} \\frac{\\sqrt{4 - x^2}}{x} \\arctan(x) \\, dx",
+  "numerical_answer": "2.2214414691"
+}

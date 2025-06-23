@@ -1,0 +1,4 @@
+{
+  "answer": "16 \\int_0^{\\frac{\\pi}{6}} u^2 \\sin^3{u} \\cos{u} \\, \\arccos(2 \\sin{u}) \\, du",
+  "numerical_answer": "0.0154755079"
+}

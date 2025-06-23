@@ -1,0 +1,1 @@
+{"answer": "\\pi I_0(1)", "numerical_answer": "3.9774635432"}

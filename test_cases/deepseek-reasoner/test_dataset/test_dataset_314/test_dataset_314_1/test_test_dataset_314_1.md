@@ -1,0 +1,1 @@
+{"answer": "-\\frac{13}{8}\\zeta(3)", "numerical_answer": "-1.9533424677"}

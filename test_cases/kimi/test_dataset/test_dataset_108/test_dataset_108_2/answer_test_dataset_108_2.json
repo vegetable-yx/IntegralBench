@@ -1,0 +1,4 @@
+{
+  "answer": "\\int\\limits_0^{2.0} x^{1/2} \\operatorname{E}\\left(0.5 \\sqrt[4]{x(2.0 - x)}\\right) dx",
+  "numerical_answer": "1.5707963268"
+}

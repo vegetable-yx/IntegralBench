@@ -1,0 +1,1 @@
+{"answer": "\\frac{1}{2} J_{4}(2)", "numerical_answer": "-0.0489135432"}

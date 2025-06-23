@@ -1,0 +1,4 @@
+{
+  "answer": "\\frac{1}{2} \\left( \\tan^{-1}(4) \\right)^2 - \\frac{1}{2} \\left( \\tan^{-1}\\left(\\frac{1}{4}\\right) \\right)^2",
+  "numerical_answer": "0.8488898185"
+}

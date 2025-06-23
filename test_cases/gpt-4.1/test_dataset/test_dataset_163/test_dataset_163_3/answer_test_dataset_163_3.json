@@ -1,0 +1,4 @@
+{
+  "answer": "8\\left[ \\zeta\\left(3, \\frac{1}{2} \\right) - \\zeta\\left(3, \\frac{3}{2} \\right) \\right] - \\left[ \\zeta\\left(3, \\frac{1}{4} \\right) - \\zeta\\left(3, \\frac{5}{4} \\right) \\right]",
+  "numerical_answer": "56.2018523885"
+}

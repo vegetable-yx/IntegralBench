@@ -1,0 +1,1 @@
+{"answer": "\\sqrt{2\\pi}\\left(\\frac{\\pi^2}{6} - 1\\right)", "numerical_answer": "1.6166103660"}

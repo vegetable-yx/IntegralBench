@@ -1,0 +1,11 @@
+<think>
+Okay, let's see. I need to compute the definite integral from 0 to 1 of sin(arccos(x)) dx. Hmm, first, maybe I can simplify the integrand. Arccos(x) is the angle whose cosine is x. So if θ = arccos(x), then cosθ = x. And sin(θ) would be the sine of that angle. Since cosθ = x, we can use the Pythagorean identity: sin²θ + cos²θ = 1. So sinθ = sqrt(1 - cos²θ) = sqrt(1 - x²). But wait, since θ is in the range of arccos, which is [0, π], sinθ is non-negative there. So sin(arccos(x)) simplifies to sqrt(1 - x²). That makes the integral ∫₀¹ sqrt(1 - x²) dx.
+
+Oh, right! The integral is the area of a quarter of a unit circle. Because the equation x² + y² = 1 defines a circle of radius 1, and integrating sqrt(1 - x²) from 0 to 1 gives the area of the first quadrant part. So the area is (π*1²)/4 = π/4. But wait, let me verify that by actually computing the integral step by step.
+
+Alternatively, I can use substitution. Let me set x = sinθ, then dx = cosθ dθ. Wait, but if I have sqrt(1 - x²), maybe a trigonometric substitution would work. Let's try x = sinθ. Then when x=0, θ=0, and when x=1, θ=π/2. Then sqrt(1 - x²) becomes cosθ, and dx = cosθ dθ. So the integral becomes ∫₀^{π/2} cosθ * cosθ dθ = ∫₀^{π/2} cos²θ dθ. Then, using the power-reduction formula: cos²θ = (1 + cos2θ)/2. So the integral becomes (1/2)∫₀^{π/2} (1 + cos2θ) dθ. Integrating term by term: (1/2)[θ + (sin2θ)/2] from 0 to π/2. Plugging in π/2: (1/2)[π/2 + (sinπ)/2] = (1/2)(π/2 + 0) = π/4. Plugging in 0: (1/2)[0 + 0] = 0. So the integral is π/4 - 0 = π/4. So the exact answer is π/4.
+
+Numerically, π is approximately 3.1415926536, so π/4 is about 0.7853981634. Rounded to 10 decimal places, that's 0.7853981634. Let me check with another method. Alternatively, maybe using integration by parts. Let u = sqrt(1 - x²), dv = dx. Then du = (-x)/sqrt(1 - x²) dx, and v = x. So uv from 0 to1 minus ∫v du. But uv at 1 is 1*0 = 0, at 0 is 0. So it's 0 - ∫0^1 x*(-x)/sqrt(1 - x²) dx = ∫0^1 x²/sqrt(1 - x²) dx. Hmm, not sure if that's easier. Maybe another substitution. Let t = 1 - x², dt = -2x dx. But not sure. Alternatively, maybe use substitution x = sinθ again. Wait, but we already did that. So seems like the first method is correct. So the exact answer is π/4, approximately 0.7853981634.
+</think>
+
+{"answer": "\\frac{\\pi}{4}", "numerical_answer": "0.7853981634"}

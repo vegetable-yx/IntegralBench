@@ -1,0 +1,4 @@
+{
+  "answer": "$I=\\frac{1}{8}\\Bigl[-e^{1/4}\\Ei(-1/4)+2\\ln2+2\\gamma-2\\,_2F_1\\Bigl(-\\frac{1}{2},\\frac{1}{2};\\frac{3}{2};-\\frac{1}{4}\\Bigr)\\Bigr]$",
+  "numerical_answer": "0.1190500000"
+}

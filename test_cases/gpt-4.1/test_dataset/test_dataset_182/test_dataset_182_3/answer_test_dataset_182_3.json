@@ -1,0 +1,4 @@
+{
+  "answer": "-4 \\int_0^{\\pi/2} \\frac{\\cos\\theta \\ln|\\tan(\\frac{\\theta}{2})|}{1 + 4\\sin^2\\theta} d\\theta - 4 \\int_0^{\\pi/2} \\frac{\\cos^2\\theta}{1 + 4\\sin^2\\theta} d\\theta",
+  "numerical_answer": "1.3549728783"
+}
